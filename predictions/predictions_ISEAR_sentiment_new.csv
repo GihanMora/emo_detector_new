@@ -1,0 +1,25 @@
+,Unnamed: 0,Unnamed: 0.1,sentiment,text,sentiment_id,predictions
+0,0,0,joy,"During the period of falling in love, each time that we met and á
+especially when we had not met for a long time.",1.0,"{'anger': 0.043, 'surprise': 0.056, 'anticipation': 0.071, 'sadness': 0.084, 'joy': 0.098, 'fear': 0.105, 'disgust': 0.229, 'trust': 0.355}"
+1,1,1,fear,When I was involved in a traffic accident.,2.0,"{'trust': 0.015, 'sadness': 0.097, 'anticipation': 0.126, 'surprise': 0.201, 'disgust': 0.219, 'fear': 0.384}"
+2,2,2,anger,"When I was driving home after  several days of hard work, there á
+was a motorist ahead of me who was driving at 50 km/hour and á
+refused, despite his low speeed to let me overtake.",3.0,"{'anger': 0.024, 'anticipation': 0.029, 'joy': 0.034, 'surprise': 0.047, 'trust': 0.056, 'fear': 0.114, 'sadness': 0.247, 'disgust': 0.489}"
+3,3,3,sadness,When I lost the person who meant the most to me.,4.0,"{'disgust': 0.462, 'sadness': 0.579}"
+4,4,4,disgust,"The time I knocked a deer down - the sight of the animal's á
+injuries and helplessness.  The realization that the animal was á
+so badly hurt that it had to be put down, and when the animal á
+screamed at the moment of death.",5.0,"{'surprise': 0.033, 'sadness': 0.382, 'disgust': 0.625}"
+5,7,7,joy,"When I got a letter offering me the Summer job that I had applied á
+for.",1.0,"{'fear': 0.011, 'disgust': 0.019, 'anger': 0.064, 'anticipation': 0.1, 'joy': 0.125, 'trust': 0.722}"
+6,8,8,fear,"When I was going home alone one night in Paris and a man came up á
+behind me and asked me if I was not afraid to be out alone so á
+late at night.",2.0,"{'sadness': 0.005, 'fear': 0.011, 'anticipation': 0.024, 'joy': 0.054, 'surprise': 0.325, 'trust': 0.623}"
+7,9,9,anger,When I was talking to HIM at a party for the first time in a long while and a friend came and interrupted us and HE left.,3.0,"{'surprise': 0.054, 'fear': 0.089, 'sadness': 0.1, 'anger': 0.333, 'disgust': 0.465}"
+8,10,10,sadness,"When my friends did not ask me to go to a New Year's party á
+with them.",4.0,"{'fear': 0.015, 'anticipation': 0.05, 'surprise': 0.059, 'anger': 0.085, 'trust': 0.152, 'joy': 0.167, 'sadness': 0.24, 'disgust': 0.274}"
+9,11,11,disgust,"When I saw all the very drunk kids (13-14 years old) in town on á
+Walpurgis night.",5.0,"{'sadness': 0.085, 'fear': 0.115, 'disgust': 0.349, 'anger': 0.492}"
+10,14,14,joy,"[ On days when I feel close to my partner and other friends.  á
+When I feel at peace with myself and also experience a close á
+contact with people whom I regard greatly.]",1.0,"{'anger': 0.008, 'disgust': 0.04, 'anticipation': 0.042, 'joy': 0.38, 'trust': 0.571}"
