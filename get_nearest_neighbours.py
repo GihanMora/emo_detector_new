@@ -21,29 +21,33 @@ import ast
 from scoring import calculate_scores
 
 # df = pd.read_csv(r'E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab.csv')
-df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab_refined.csv")
+
 # df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\go_emo_simple_new_vocab.csv")
-print(df.head())
-print(df.columns)
-df = df.dropna()
+# print(df.head())
+# print(df.columns)
+
 # print(df['fourteen_label'].unique())
 # print(len(df))
 
 # df = df.loc[df['fourteen_label'] != 'boredom']
 
 # print(len(df))
+from scipy import spatial
 
 
-
-def get_nearest_neighbours(embeding):
+def get_nearest_neighbours(embeding,df):
     t1 = datetime.now()
     tuples = []
 
     for i, row_e in df.iterrows():
-        dis = cosine_similarity([ast.literal_eval(row_e['embedding'])], embeding)
+        # p = [ast.literal_eval(row_e['embedding'])]
+        dis = cosine_similarity([row_e['embedding']], embeding)
+        # dis = 1 - spatial.distance.cosine(embeding, embeding)
         # print([row_e['tokens'],row_d['tokens'],dis])
         tuples.append([row_e['token'], row_e['fourteen_label'], dis, row_e['embedding']])
-
+    t2 = datetime.now()
+    diff = t2 - t1
+    print('time',diff)
     s_tup = sorted(tuples, key=lambda x: x[2])  # sort tuples based on the cosine distance
     neaarest_neighbs_words = []
     neaarest_neighbs_embs = []
@@ -52,7 +56,7 @@ def get_nearest_neighbours(embeding):
         # print(m)
         if (i < 50):  # getting the nearest 100 neighbours
             neaarest_neighbs_words.append(m[0])
-            neaarest_neighbs_embs.append(ast.literal_eval(m[3]))
+            neaarest_neighbs_embs.append(m[3])
             neaarest_neighbs_labels.append(m[1])
     n_score_dict = calculate_scores(neaarest_neighbs_words, neaarest_neighbs_labels)
     # print(numpy.shape(numpy.array(embeding[0])))
@@ -60,9 +64,7 @@ def get_nearest_neighbours(embeding):
     neaarest_neighbs_words.append('sentence')
     neaarest_neighbs_embs.append(numpy.array(embeding[0]))
     neaarest_neighbs_labels.append('input')
-    t2 = datetime.now()
-    diff = t2 - t1
-    # print('time',diff)
+
     print(Counter(neaarest_neighbs_labels))
     # print(neaarest_neighbs_words)
     # print(neaarest_neighbs_labels)

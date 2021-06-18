@@ -22,10 +22,18 @@ from get_nearest_neighbours import get_nearest_neighbours
 from negation_handling import map_opposite_emotions, negations
 from scoring import calculate_scores
 
-df = pd.read_csv(r'E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab_refined.csv')
-# print(df.head())
-# print(df.columns)
-df = df.dropna()
+# df = pd.read_csv(r'E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab_refined.csv')
+# # print(df.head())
+# # print(df.columns)
+# df = df.dropna()
+
+
+tokenizer = AutoTokenizer.from_pretrained("bhadresh-savani/distilbert-base-uncased-emotion")
+model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\results\checkpoint-2000")
+
+
+
+
 
 #Mean Pooling - Take attention mask into account for correct averaging
 def mean_pooling(model_output, attention_mask):
@@ -38,8 +46,7 @@ def mean_pooling(model_output, attention_mask):
     return sum_embeddings / sum_mask
 
 def get_mean_pooling_emb(sentences):
-    tokenizer = AutoTokenizer.from_pretrained("bhadresh-savani/distilbert-base-uncased-emotion")
-    model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\results\checkpoint-2000")
+
     # tokenizer = AutoTokenizer.from_pretrained("joeddav/distilbert-base-uncased-go-emotions-student")
     # model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\results_goemotions\checkpoint-3395")
     # tokenizer = AutoTokenizer.from_pretrained(r"E:\Projects\emo_detector_new\go_model_simple")
@@ -56,7 +63,7 @@ def get_mean_pooling_emb(sentences):
 
 
 
-def emotion_candidates_recognition(sentence ,window_size):
+def emotion_candidates_recognition(sentence ,window_size,df):
 
     sentence_tokens = sentence.split(' ')
     # print(sentence_tokens)
@@ -69,7 +76,7 @@ def emotion_candidates_recognition(sentence ,window_size):
     # print(sentence_pieces)
     sentence_emb = get_mean_pooling_emb(sentence_pieces)
 
-    normalized_score_dict = get_nearest_neighbours([sentence_emb[0]])
+    normalized_score_dict = get_nearest_neighbours([sentence_emb[0]],df)
 
     need_negation_check = False
     for each_ww in sentence_tokens:
