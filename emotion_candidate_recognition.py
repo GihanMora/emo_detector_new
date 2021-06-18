@@ -22,7 +22,7 @@ from get_nearest_neighbours import get_nearest_neighbours
 from negation_handling import map_opposite_emotions, negations
 from scoring import calculate_scores
 
-df = pd.read_csv(r'E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab.csv')
+df = pd.read_csv(r'E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab_refined.csv')
 # print(df.head())
 # print(df.columns)
 df = df.dropna()
@@ -40,7 +40,10 @@ def mean_pooling(model_output, attention_mask):
 def get_mean_pooling_emb(sentences):
     tokenizer = AutoTokenizer.from_pretrained("bhadresh-savani/distilbert-base-uncased-emotion")
     model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\results\checkpoint-2000")
-
+    # tokenizer = AutoTokenizer.from_pretrained("joeddav/distilbert-base-uncased-go-emotions-student")
+    # model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\results_goemotions\checkpoint-3395")
+    # tokenizer = AutoTokenizer.from_pretrained(r"E:\Projects\emo_detector_new\go_model_simple")
+    # model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\go_model_simple")
     encoded_input = tokenizer(sentences, padding=True, truncation=True, max_length=128, return_tensors='pt')
     # Compute token embeddings
     with torch.no_grad():
@@ -54,8 +57,6 @@ def get_mean_pooling_emb(sentences):
 
 
 def emotion_candidates_recognition(sentence ,window_size):
-    tokenizer = AutoTokenizer.from_pretrained("bhadresh-savani/distilbert-base-uncased-emotion")
-    model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\results\checkpoint-2000")
 
     sentence_tokens = sentence.split(' ')
     # print(sentence_tokens)
@@ -70,41 +71,47 @@ def emotion_candidates_recognition(sentence ,window_size):
 
     normalized_score_dict = get_nearest_neighbours([sentence_emb[0]])
 
-    tuples = []
-    for i in range(1 ,len(sentence_emb)):
-        sliding_piece = sentence_pieces[i]
-        dis = cosine_similarity([sentence_emb[i]], [sentence_emb[0]])
-        # print(dis)
-        tuples.append([sliding_piece ,dis])
-    # print([i[0] for i in tuples])
-    # print([i[1].tolist()[0] for i in tuples])
+    need_negation_check = False
+    for each_ww in sentence_tokens:
+        if(each_ww.strip().lower() in negations):
+            need_negation_check = True
+            break
+    if(need_negation_check):
+        tuples = []
+        for i in range(1 ,len(sentence_emb)):
+            sliding_piece = sentence_pieces[i]
+            dis = cosine_similarity([sentence_emb[i]], [sentence_emb[0]])
+            # print(dis)
+            tuples.append([sliding_piece ,dis])
+        # print([i[0] for i in tuples])
+        # print([i[1].tolist()[0] for i in tuples])
 
-    s_tup = sorted(tuples, key=lambda x: x[1]  )  # sort tuples based on the cosine distance
-    # print(s_tup)
+        s_tup = sorted(tuples, key=lambda x: x[1]  )  # sort tuples based on the cosine distance
+        # print(s_tup)
 
-    top_windows = [i[0] for i in s_tup[::-1][:5]]
+        top_windows = [i[0] for i in s_tup[::-1][:5]]
 
-    if(window_size==1):
+        if(window_size==1):
 
-        # upper_threshold = int(0.33*len(sentence_tokens))
-        upper_threshold = 1
-        top_windows = [i[0] for i in s_tup[::-1][:upper_threshold]]
-        fixed_top_windows = []
-        for emoWord in top_windows:
+            # upper_threshold = int(0.33*len(sentence_tokens))
+            upper_threshold = 1
+            top_windows = [i[0] for i in s_tup[::-1][:upper_threshold]]
+            fixed_top_windows = []
+            for emoWord in top_windows:
 
-            end_ind_int = sentence_tokens.index(emoWord)
-            start_ind_int = end_ind_int - 3
-            if start_ind_int < 0:
-                start_ind_int = 0
-            text_chunk_int = (' ').join(sentence_tokens[start_ind_int:end_ind_int])
-            fixed_top_windows.append(text_chunk_int.strip().lower())
-        print('fixed',fixed_top_windows)
+                end_ind_int = sentence_tokens.index(emoWord)
+                start_ind_int = end_ind_int - 3
+                if start_ind_int < 0:
+                    start_ind_int = 0
+                text_chunk_int = (' ').join(sentence_tokens[start_ind_int:end_ind_int])
+                fixed_top_windows.append(text_chunk_int.strip().lower())
+            print('fixed',fixed_top_windows)
 
-        top_windows = fixed_top_windows
-    # print('top windows', top_windows)
-    if(check_for_negations(top_windows)):
-        print('Emotions are negated')
-        normalized_score_dict = map_opposite_emotions(normalized_score_dict)
+            top_windows = fixed_top_windows
+        # print('top windows', top_windows)
+        if(check_for_negations(top_windows)):
+            print('Emotions are negated')
+            normalized_score_dict = map_opposite_emotions(normalized_score_dict)
 
 
 
@@ -148,4 +155,4 @@ def check_for_negations(top_candidates):
     return neg
 
 
-# emotion_candidates_recognition('It is good and its sad' ,1)
+# print(emotion_candidates_recognition('He is a smart person' ,1))

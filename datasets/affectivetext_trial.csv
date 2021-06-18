@@ -1,0 +1,251 @@
+,text,sentiment,sentiment_id
+0,Mortar assault leaves at least 18 dead,sadness,4
+1,Goal delight for Sheva,joy,3
+2,Nigeria hostage feared dead is freed,joy,3
+3,Bombers kill shoppers,fear,2
+4,"Vegetables, not fruit, slow brain decline",surprise,5
+5,PM: Havana deal a good experiment,joy,3
+6,Kate is marrying Doherty,joy,3
+7,NASA revisiting life on Mars question,surprise,5
+8,"Happy birthday, iPod",joy,3
+9,Alonso would be happy to retire with three titles,joy,3
+10,Madonna's New Tot 'Happy at Home' in London,joy,3
+11,Nicole Kidman asks dad to help stop husband's drinking,sadness,4
+12,United Finds Good Connection in Win,joy,3
+13,'Runway': Making Good Without Making Nice,joy,3
+14,"We were 'arrogant and stupid' over Iraq, says US diplomat",sadness,4
+15,Bad reasons to be good,sadness,4
+16,Madonna's new baby's daddy didn't realize adoption was `for good',surprise,5
+17,Women in their 60s 'are perfectly good mothers',sadness,4
+18,We're a pretty kind 'bully',joy,3
+19,Moderate drinking reduces men's heart attack risk,joy,3
+20,Tom Cruise and Katie Holmes set wedding date,joy,3
+21,Kidnapped AP photographer freed in Gaza,fear,2
+22,"Bush Insists Troops Stay in Iraq, Predicts Midterm Victory",disgust,1
+23,Hurricane Paul Weakens To Tropical Storm,surprise,5
+24,UK announces immigration restrictions,anger,0
+25,Three found alive from missing Russian ship -report,joy,3
+26,Poison Pill to Swallow: Hawks Hurting After Loss to Vikes,sadness,4
+27,Injured Marathon Winner Leaves Hospital,joy,3
+28,Hacker unlocks Apple music download protection,surprise,5
+29,Spanish journalist seized in Gaza,fear,2
+30,Sudan urges UN to replace its special envoy,surprise,5
+31,Resolution approved for international games,joy,3
+32,Pair of Satellites Will Document Sun in 3-D,joy,3
+33,Martian Life Could Have Evaded Detection by Viking Landers,surprise,5
+34,The sweet tune of an anniversary,joy,3
+35,Did Viking Probes Miss Life on Mars?,surprise,5
+36,Diplomat acknowledges US arrogance in Iraq,anger,0
+37,More Human Remains Found at Ground Zero,sadness,4
+38,How to Prevent Iraq From Getting Even Worse,fear,2
+39,Tensions as Hungary marks uprising,fear,2
+40,Stanford study warns of Internet addiction,fear,2
+41,No evidence of ice reserves on the moon,sadness,4
+42,A Picture and A Thousand Words,anger,0
+43,Parachutist dies at bridge-jump festival,sadness,4
+44,US Troops Killed In October In Iraq,sadness,4
+45,"Chefs not counting calories, study finds",sadness,4
+46,Deaths linked to flu vaccine,sadness,4
+47,Perfect lives lose their focus,joy,3
+48,Bread-Heavy Diet Linked to Kidney Cancer,fear,2
+49,Beating poverty in a small way,joy,3
+50,Israel insists on Lebanon overflights,anger,0
+51,Britain to restrict immigrants from new EU members,disgust,1
+52,Confusion Reigns In the Expanding Digital World,surprise,5
+53,Game on! London exhibition celebrates the history of video games,joy,3
+54,Making peace from victory over poverty,joy,3
+55,Marine killed in fighting west of Baghdad,sadness,4
+56,Scientists create first cloaking device,joy,3
+57,Amateur rocket scientists reach for space,joy,3
+58,Confusion Reigns In the Expanding Digital World,surprise,5
+59,Deaths linked to flu vaccine,sadness,4
+60,Israel admits using phosphorous shells in Lebanon,sadness,4
+61,4th person dies after receiving flu shot,sadness,4
+62,Police and shoppers targeted in growing Iraq violence,fear,2
+63,Scientists discover miracle in the depths,surprise,5
+64,Doctors Seeing Patients Who Think They're Internet Addicted,sadness,4
+65,China launches two satellites into orbit,joy,3
+66,Vegetables May Boost Brain Power in Older Adults,surprise,5
+67,Hurricane Paul nears Category 3 status,fear,2
+68,"Russian ship sinks, 18-member crew missing",sadness,4
+69,Iran's president urges higher birth rate,surprise,5
+70,Apple set for massive market gains,joy,3
+71,Tumor Types May Explain Survival Rates for Cancer,sadness,4
+72,Routine mission turns into hunt for missing comrade,sadness,4
+73,Bad weather slows S.Korean search for Russian ship,sadness,4
+74,Tailors and housewives busy as Muslims celebrate Eid,joy,3
+75,Active peace brings the promise of development,joy,3
+76,Abbas condemns Israeli massacre in northern Gaza Strip,disgust,1
+77,"Bangladesh ferry sinks, 15 dead",sadness,4
+78,Bucs find a new kick in life,joy,3
+79,Google to unveil election mashup,surprise,5
+80,Police warn of child exploitation online,disgust,1
+81,Breast Cancer Awareness is Important,fear,2
+82,Hungary police tackle violent protestors,sadness,4
+83,Three drivers had reason to be proud in Brazil,joy,3
+84,Celebrities Protest Malibu Gas Facility,joy,3
+85,Lebo: A life lived on the edge,anger,0
+86,"Presto! He's Batman, then magic man",surprise,5
+87,"Heavy use of mobile phones can make men infertile, scientists say",fear,2
+88,Russian ship sinks in Pacific,sadness,4
+89,China Successfully Launches Two Satellites,joy,3
+90,Prestige has magic touch,joy,3
+91,"Lies, damned lies, and divorce",sadness,4
+92,Manning inspires Giants to victory in Dallas,joy,3
+93,Riot warning for France suburbs,sadness,4
+94,Full recovery expected for marathon winner,joy,3
+95,Sony apologises for global battery recall,sadness,4
+96,Questions on credit card safety,fear,2
+97,Budapest calm after night of violent protests,anger,0
+98,Vegetables May Boost Brain Power in Older Adults,joy,3
+99,Report criticises US press freedoms,anger,0
+100,French suburb riots could resume,fear,2
+101,Photographer kidnapping condemned,disgust,1
+102,Photographer kidnapped in Gaza,disgust,1
+103,Baseball: Rogers enjoys his muddied streak,joy,3
+104,"Cultural revolutionary, the iPod is five",joy,3
+105,Life on Mars? Maybe We Missed It,surprise,5
+106,Three found alive from missing Russian ship -report,joy,3
+107,Moderate drinking reduces men's heart attack risk,joy,3
+108,The sweet tune of an anniversary,joy,3
+109,Inconvenient truths,anger,0
+110,Dating difficult for Harry Potter,surprise,5
+111,Students lose their rite of passage,sadness,4
+112,Putin vows to tackle illegal immigration,anger,0
+113,Ottawa must redefine 'terror',fear,2
+114,"Britain to Limit Workers from Romania, Bulgaria",fear,2
+115,Top General Optimistic on Iraq,sadness,4
+116,Kim Osorio Wins Sexual Harrassment Suit Against The Source,joy,3
+117,Silly and substantial,joy,3
+118,Official laughs for Borat,joy,3
+119,Speaker Hastert testifies before panel probing sex scandal,disgust,1
+120,On Educating Sexes Separately,anger,0
+121,Tom Cruise and Katie Holmes set wedding date,joy,3
+122,Martian Life Could Have Evaded Detection by Viking Landers,surprise,5
+123,Ukraine gas deal marred by fears,fear,2
+124,Marathon victory comes at heavy cost,joy,3
+125,College tuition continues climbing,anger,0
+126,German paper shows soldiers desecrating skull,disgust,1
+127,"War is close, Ethiopia tells Somali rebels",fear,2
+128,Advantage Cardinals with Suppan in Game 4,joy,3
+129,NASA spacecraft to measure Sun,joy,3
+130,"Sony Hates Europeans, Will Prevent The Importing of PS3",anger,0
+131,Flu Vaccine Appears Safe for Young Children,joy,3
+132,Google To Launch Yet Another Search Tool,joy,3
+133,Tropical Storm Paul's Outer Bands Hit Mexico's Baja California,sadness,4
+134,Israeli Bomblets Plague Lebanon,fear,2
+135,"New Indonesia Calamity, a Mud Bath, Is Man-Made",anger,0
+136,U.S. Weighs Sanctions Against North Korea,anger,0
+137,"Rice, in Baghdad, Insists That Iraqis Are ",anger,0
+138,Senator Says U.S. Should Rethink Iraq Strategy,sadness,4
+139,German Chief Forges Accord on Financing Health Care,joy,3
+140,Turkish Writers Say Efforts to Stifle Speech May Backfire,anger,0
+141,Kurdish Lawmaker Killed in an Attack in Baghdad,fear,2
+142,Anti-U.S. Attack Videos Spread on the Internet,anger,0
+143,"Women Face Greatest Threat of Violence at Home, Study Finds",disgust,1
+144,Appeal by Chinese Researcher for Times May Soon Be Heard,joy,3
+145,Brazil Air Force Cites Faults and Confusion in Fatal Crash,sadness,4
+146,A Mix of Oil and Environmentalism,fear,2
+147,Immigrants and French Reach Deal in Standoff,joy,3
+148,Genghis Khan Beer? Mongolia Grimaces,anger,0
+149,Dead Bachelors in Remote China Still Find Wives,surprise,5
+150,"Managua Journal: Hold the Mojito and Margarita, Nicaragua Has el Macu",anger,0
+151,Paris Journal: Smoking No Longer Tres Chic in France,joy,3
+152,An Old Letter Casts Doubts on Iran's Goal for Uranium,surprise,5
+153,U.S. Warns North Koreans About Nuclear Test,fear,2
+154,Global Sludge Ends in Tragedy for Ivory Coast,sadness,4
+155,Equipment on Plane in Brazil Collision May Have Been Faulty,sadness,4
+156,"New Indonesia Calamity, a Mud Bath, Is Man-Made",sadness,4
+157,Iraqi Journalists Add Laws to List of Dangers,fear,2
+158,U.N. Force Is Treading Lightly on Lebanese Soil,fear,2
+159,Cleric Said to Lose Reins Over Part of Iraqi Militia,sadness,4
+160,"Citing Spy Agencies' Study, Democrats Seek Iraq Changes",surprise,5
+161,Opera Canceled Over a Depiction of Muhammad,sadness,4
+162,Military Officials Add to U.S. Criticism of Iraq's Government,joy,3
+163,Teacher in Hiding After Attack on Islam Stirs Threats,fear,2
+164,Combative Bush Releases Parts of Terror Study,fear,2
+165,Growing Unarmed Battalion in Qaeda Army Is Using Internet to Get the Message Out,fear,2
+166,"Iraqi Linked to Sunni Bloc Is Held in Plot, Military Says",fear,2
+167,"Seduced by Snacks? No, Not You",disgust,1
+168,Friends for Life: An Emerging Biology of Emotional Healing,joy,3
+169,"Alzheimer's Drugs Offer No Help, Study Finds",sadness,4
+170,"Across Europe, Worries on Islam Spread to Center",sadness,4
+171,Cooking Defines Sephardic Jews at Sukkot,joy,3
+172,"Fitness: Bodies in Motion, Clean and Sober",joy,3
+173,In God's Name: Religion-Based Tax Breaks: Housing to Paychecks to Books,joy,3
+174,"Yankee Dies in Plane Crash, Official Says",sadness,4
+175,An Elephant Crackup?,sadness,4
+176,"With YouTube, Grad Student Hits Jackpot Again",joy,3
+177,Dow flirts with record highs again,joy,3
+178,Tropical Storm Isaac forms in Atlantic,fear,2
+179,New Iraq terror tape calls for abducting foreigners,fear,2
+180,'Deep regret' for ex-HP exec,sadness,4
+181,'Opportunity' knocks on geologist's dream crater,joy,3
+182,Squirrel jumps boy in park; rabies suspected,surprise,5
+183,Girl left comatose after dental visit dies,sadness,4
+184,Porn star candidate campaigns on campus,disgust,1
+185,School ends football season after 0-4 start,sadness,4
+186,Charlie Sheen to become highest-paid sitcom star,joy,3
+187,Jon Stewart mocks benefits of CNN's I,surprise,5
+188,Ashton Kutcher tells secret to Ryan Seacrest,surprise,5
+189,Nails-on-chalkboard study earns Ig,disgust,1
+190,Gunman 'fine' before shooting,sadness,4
+191,Marijuana may stave off Alzheimer's,surprise,5
+192,Kentucky seeks alcohol huffing ban,joy,3
+193,Toddler died from tainted spinach,sadness,4
+194,Judge dismisses Karr's porn case,surprise,5
+195,10 die in 22-hour Kashmir standoff,fear,2
+196,Slain Amish girls laid to rest,sadness,4
+197,"5,000 flee plant fire",fear,2
+198,Cher auction fetches double pre-sale estimates,joy,3
+199,Stars scuffle on 'Grey's Anatomy',disgust,1
+200,Probe under way in Yankee crash,sadness,4
+201,Amish schoolhouse torn down,sadness,4
+202,Warner will not run in '08,sadness,4
+203,Reid land deal under scrutiny,surprise,5
+204,"Flooding washes out road to Valdez, Alaska",sadness,4
+205,Briton admits U.S. bomb plot role,sadness,4
+206,Commentary: Minutemen have a right to be idiotic,anger,0
+207,Madonna files adoption papers,joy,3
+208,Gunmen kill 9 at Iraqi TV station,fear,2
+209,Hastert sorry for scandal but not quitting,sadness,4
+210,Ex-JonBenet suspect: Child porn case dropped ,anger,0
+211,"Waste plant fire forces 5,000 to evacuate ",sadness,4
+212,Toddler died from E. coli tainted spinach ,sadness,4
+213,Disturbing finds in child sex raids ,disgust,1
+214,Magazine lists women who had abortions ,anger,0
+215,"Pot smokers may avoid Alzheimer's, study says ",surprise,5
+216,Student starts white men's club on campus ,sadness,4
+217,Kentucky wants to ban alcohol inhalers ,surprise,5
+218,Peter Pan flies into chapter two ,surprise,5
+219,Teen repellent inventor wins infamous prize ,joy,3
+220,"Cher's dress, car, bed have new owners",joy,3
+221,"Dow hits new record, eyes 12,000 ",joy,3
+222,Ex-Virginia gov not running for president ,surprise,5
+223,Yankee pitcher's pilot log found ,surprise,5
+224,Dem leader's $1 million land deal under scrutiny ,anger,0
+225,"Dad locked up son, watched on TV, police say ",sadness,4
+226,Navarrette: Minutemen have a right to be idiotic ,sadness,4
+227,"Pit bulls jump miniature pony, leave her bloody ",sadness,4
+228,Alaska town cut off from rest of state by flood ,fear,2
+229,Trailblazing trio protects City by the Bay ,joy,3
+230,Madonna files adoption papers in Malawi,joy,3
+231,'Dr. McDreamy' choked in 'Grey's' scuffle ,sadness,4
+232,"$10,000 poetry prize awarded ",joy,3
+233,Las Vegas honour for tiger pair ,joy,3
+234,UK characters boosting box office ,joy,3
+235,Cher items snapped up at auction ,joy,3
+236,Griffiths scorns Withnail 'play' ,disgust,1
+237,Lily Allen wins web music award ,joy,3
+238,Costner appeals in casino wrangle,anger,0
+239,Beyonce copyright claim rejected ,anger,0
+240,Cohn gunman jailed for 36 years ,joy,3
+241,Melua's deep sea gig sets record ,joy,3
+242,Sri Lanka clashes kill 129 troops ,sadness,4
+243,Gunmen kill 11 in Iraq TV raid ,sadness,4
+244,Italy drops Sicily bridge plans ,surprise,5
+245,Amish killings school demolished ,sadness,4
+246,Pamuk wins Nobel Literature prize,joy,3
+247,Madonna adoption bid approved ,joy,3
+248,Man admits UK-US terror bomb plot,fear,2
+249,Who are you calling fat?,disgust,1

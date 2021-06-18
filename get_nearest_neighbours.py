@@ -20,10 +20,18 @@ import ast
 
 from scoring import calculate_scores
 
-df = pd.read_csv(r'E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab.csv')
-# print(df.head())
-# print(df.columns)
+# df = pd.read_csv(r'E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab.csv')
+df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab_refined.csv")
+# df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\go_emo_simple_new_vocab.csv")
+print(df.head())
+print(df.columns)
 df = df.dropna()
+# print(df['fourteen_label'].unique())
+# print(len(df))
+
+# df = df.loc[df['fourteen_label'] != 'boredom']
+
+# print(len(df))
 
 
 
@@ -34,7 +42,7 @@ def get_nearest_neighbours(embeding):
     for i, row_e in df.iterrows():
         dis = cosine_similarity([ast.literal_eval(row_e['embedding'])], embeding)
         # print([row_e['tokens'],row_d['tokens'],dis])
-        tuples.append([row_e['token'], row_e['eight_label'], dis, row_e['embedding']])
+        tuples.append([row_e['token'], row_e['fourteen_label'], dis, row_e['embedding']])
 
     s_tup = sorted(tuples, key=lambda x: x[2])  # sort tuples based on the cosine distance
     neaarest_neighbs_words = []

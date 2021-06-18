@@ -1,0 +1,1023 @@
+,Unnamed: 0,Unnamed: 0.1,sentiment,text,sentiment_id,predictions
+0,0,0,joy,"During the period of falling in love, each time that we met and á
+especially when we had not met for a long time.",1.0,"{'trust': 0.002, 'boredom': 0.009, 'disgust_loathing': 0.03, 'fear': 0.034, 'amazement_surprise': 0.041, 'interest_vigilance': 0.054, 'anticipation': 0.108, 'distraction': 0.129, 'acceptance': 0.131, 'joy_ecstasy': 0.179, 'sadness': 0.323}"
+1,1,1,fear,When I was involved in a traffic accident.,2.0,"{'boredom': 0.011, 'joy_ecstasy': 0.026, 'admire': 0.036, 'acceptance': 0.066, 'fear': 0.069, 'interest_vigilance': 0.094, 'sadness': 0.105, 'disgust_loathing': 0.118, 'anticipation': 0.16, 'amazement_surprise': 0.163, 'distraction': 0.193}"
+2,2,2,anger,"When I was driving home after  several days of hard work, there á
+was a motorist ahead of me who was driving at 50 km/hour and á
+refused, despite his low speeed to let me overtake.",3.0,"{'joy_ecstasy': 0.023, 'senerity': 0.028, 'anticipation': 0.033, 'fear': 0.048, 'anger': 0.051, 'amazement_surprise': 0.057, 'acceptance': 0.099, 'disgust_loathing': 0.187, 'boredom': 0.195, 'sadness': 0.319}"
+3,3,3,sadness,When I lost the person who meant the most to me.,4.0,"{'disgust_loathing': 0.086, 'boredom': 0.27, 'sadness': 0.685}"
+4,4,4,disgust,"The time I knocked a deer down - the sight of the animal's á
+injuries and helplessness.  The realization that the animal was á
+so badly hurt that it had to be put down, and when the animal á
+screamed at the moment of death.",5.0,"{'fear': 0.02, 'boredom': 0.02, 'anticipation': 0.03, 'trust': 0.032, 'interest_vigilance': 0.034, 'distraction': 0.035, 'joy_ecstasy': 0.038, 'anger': 0.042, 'acceptance': 0.082, 'sadness': 0.197, 'amazement_surprise': 0.238, 'disgust_loathing': 0.271}"
+5,7,7,joy,"When I got a letter offering me the Summer job that I had applied á
+for.",1.0,"{'disgust_loathing': 0.008, 'fear': 0.013, 'amazement_surprise': 0.015, 'admire': 0.021, 'anger': 0.026, 'senerity': 0.027, 'boredom': 0.054, 'anticipation': 0.08, 'trust': 0.118, 'joy_ecstasy': 0.118, 'acceptance': 0.561}"
+6,8,8,fear,"When I was going home alone one night in Paris and a man came up á
+behind me and asked me if I was not afraid to be out alone so á
+late at night.",2.0,"{'admire': 0.005, 'distraction': 0.01, 'disgust_loathing': 0.011, 'boredom': 0.024, 'anger': 0.036, 'fear': 0.05, 'acceptance': 0.052, 'sadness': 0.054, 'trust': 0.054, 'amazement_surprise': 0.062, 'senerity': 0.141, 'anticipation': 0.142, 'interest_vigilance': 0.15, 'joy_ecstasy': 0.25}"
+7,9,9,anger,When I was talking to HIM at a party for the first time in a long while and a friend came and interrupted us and HE left.,3.0,"{'acceptance': 0.01, 'admire': 0.028, 'anticipation': 0.04, 'senerity': 0.055, 'joy_ecstasy': 0.084, 'disgust_loathing': 0.084, 'amazement_surprise': 0.106, 'distraction': 0.106, 'sadness': 0.261, 'boredom': 0.267}"
+8,10,10,sadness,"When my friends did not ask me to go to a New Year's party á
+with them.",4.0,"{'admire': 0.009, 'distraction': 0.011, 'fear': 0.038, 'disgust_loathing': 0.05, 'anticipation': 0.056, 'anger': 0.057, 'amazement_surprise': 0.077, 'acceptance': 0.087, 'boredom': 0.176, 'joy_ecstasy': 0.224, 'sadness': 0.256}"
+9,11,11,disgust,"When I saw all the very drunk kids (13-14 years old) in town on á
+Walpurgis night.",5.0,"{'fear': 0.002, 'anger': 0.003, 'distraction': 0.016, 'senerity': 0.027, 'admire': 0.051, 'anticipation': 0.056, 'amazement_surprise': 0.056, 'boredom': 0.069, 'sadness': 0.089, 'joy_ecstasy': 0.273, 'disgust_loathing': 0.399}"
+10,14,14,joy,"[ On days when I feel close to my partner and other friends.  á
+When I feel at peace with myself and also experience a close á
+contact with people whom I regard greatly.]",1.0,"{'anger': 0.006, 'trust': 0.023, 'admire': 0.03, 'anticipation': 0.031, 'sadness': 0.037, 'interest_vigilance': 0.061, 'acceptance': 0.131, 'senerity': 0.304, 'joy_ecstasy': 0.418}"
+11,15,15,fear,"Every time I imagine that someone I love or I could contact a á
+serious illness, even death.",2.0,"{'trust': 0.002, 'fear': 0.035, 'amazement_surprise': 0.038, 'joy_ecstasy': 0.047, 'anger': 0.052, 'boredom': 0.066, 'acceptance': 0.09, 'anticipation': 0.091, 'distraction': 0.103, 'sadness': 0.518}"
+12,16,16,anger,"When I had been obviously unjustly treated and had no possibility á
+of elucidating this.",3.0,"{'senerity': 0.02, 'amazement_surprise': 0.038, 'boredom': 0.038, 'admire': 0.062, 'distraction': 0.079, 'anger': 0.09, 'disgust_loathing': 0.099, 'acceptance': 0.135, 'sadness': 0.231, 'anticipation': 0.248}"
+13,17,17,sadness,"When I think about the short time that we live and relate it to á
+the periods of my life when I think that I did not use this á
+short time.",4.0,"{'senerity': 0.011, 'disgust_loathing': 0.022, 'fear': 0.024, 'sadness': 0.025, 'anger': 0.03, 'interest_vigilance': 0.03, 'amazement_surprise': 0.031, 'trust': 0.036, 'admire': 0.048, 'boredom': 0.079, 'distraction': 0.083, 'acceptance': 0.28, 'anticipation': 0.34}"
+14,18,18,disgust,"At a gathering I found myself involuntarily sitting next to two á
+people who expressed opinions that I considered very low and á
+discriminating.",5.0,"{'distraction': 0.009, 'trust': 0.01, 'amazement_surprise': 0.012, 'anger': 0.016, 'senerity': 0.016, 'boredom': 0.021, 'sadness': 0.025, 'disgust_loathing': 0.04, 'interest_vigilance': 0.043, 'admire': 0.065, 'joy_ecstasy': 0.138, 'acceptance': 0.319, 'anticipation': 0.327}"
+15,21,21,joy,"After my girlfriend had taken her exam we went to her parent's á
+place.",1.0,"{'disgust_loathing': 0.001, 'senerity': 0.002, 'sadness': 0.011, 'amazement_surprise': 0.018, 'interest_vigilance': 0.033, 'boredom': 0.039, 'anger': 0.042, 'admire': 0.047, 'trust': 0.072, 'anticipation': 0.134, 'joy_ecstasy': 0.206, 'acceptance': 0.436}"
+16,22,22,fear,"When, for the first time I realized the meaning of death.",2.0,"{'admire': 0.001, 'sadness': 0.003, 'interest_vigilance': 0.016, 'distraction': 0.031, 'anticipation': 0.035, 'trust': 0.113, 'acceptance': 0.216, 'joy_ecstasy': 0.249, 'amazement_surprise': 0.377}"
+17,23,23,anger,"When a car is overtaking another and I am forced to drive off the á
+road.",3.0,"{'joy_ecstasy': 0.01, 'fear': 0.011, 'admire': 0.026, 'distraction': 0.038, 'interest_vigilance': 0.038, 'acceptance': 0.096, 'sadness': 0.136, 'disgust_loathing': 0.191, 'anticipation': 0.222, 'amazement_surprise': 0.273}"
+18,24,24,sadness,"When I recently thought about the hard work it takes to study, and  á
+how one wants to try something else.  When I read a theoretical á
+book in English that I did not understand.",4.0,"{'senerity': 0.026, 'anger': 0.029, 'trust': 0.029, 'admire': 0.03, 'fear': 0.032, 'disgust_loathing': 0.037, 'amazement_surprise': 0.039, 'sadness': 0.101, 'interest_vigilance': 0.117, 'acceptance': 0.119, 'boredom': 0.128, 'anticipation': 0.176, 'distraction': 0.176}"
+19,25,25,disgust,When I found a bristle in the liver paste tube.,5.0,"{'amazement_surprise': 0.018, 'joy_ecstasy': 0.03, 'boredom': 0.032, 'senerity': 0.052, 'trust': 0.056, 'admire': 0.056, 'fear': 0.06, 'interest_vigilance': 0.067, 'anger': 0.074, 'distraction': 0.131, 'disgust_loathing': 0.133, 'acceptance': 0.137, 'anticipation': 0.195}"
+20,28,28,joy,When I pass an examination which I did not think I did well.,1.0,"{'anger': 0.024, 'interest_vigilance': 0.024, 'senerity': 0.025, 'fear': 0.051, 'amazement_surprise': 0.081, 'acceptance': 0.087, 'distraction': 0.096, 'disgust_loathing': 0.11, 'anticipation': 0.138, 'sadness': 0.182, 'boredom': 0.224}"
+21,29,29,fear,"When one has arranged to meet someone and that person arrives á
+late, in the meantime one starts thinking about all that could á
+have gone wrong e.g a traffic accident.",2.0,"{'sadness': 0.007, 'boredom': 0.015, 'senerity': 0.016, 'joy_ecstasy': 0.016, 'anger': 0.017, 'disgust_loathing': 0.024, 'trust': 0.039, 'admire': 0.039, 'fear': 0.054, 'interest_vigilance': 0.065, 'amazement_surprise': 0.087, 'distraction': 0.125, 'acceptance': 0.218, 'anticipation': 0.319}"
+22,30,30,anger,When one is unjustly accused of something one has not done.,3.0,"{'trust': 0.01, 'boredom': 0.049, 'disgust_loathing': 0.053, 'anger': 0.109, 'admire': 0.11, 'anticipation': 0.175, 'sadness': 0.224, 'acceptance': 0.311}"
+23,31,31,sadness,When one's studies seem hopelessly difficult and uninteresting.,4.0,"{'fear': 0.02, 'boredom': 0.216, 'disgust_loathing': 0.342, 'sadness': 0.464}"
+24,32,32,disgust,"When one finds out that someone you know is not at all like one á
+had thought, for instance friends who steal and things like that, á
+quite unwarranted.",5.0,"{'sadness': 0.001, 'boredom': 0.005, 'anger': 0.029, 'fear': 0.038, 'senerity': 0.043, 'admire': 0.048, 'acceptance': 0.098, 'distraction': 0.187, 'amazement_surprise': 0.228, 'anticipation': 0.364}"
+25,35,35,joy,Passing an exam I did not expect to pass.,1.0,"{'boredom': 0.008, 'distraction': 0.018, 'senerity': 0.025, 'acceptance': 0.056, 'interest_vigilance': 0.103, 'amazement_surprise': 0.378, 'anticipation': 0.453}"
+26,36,36,fear,"When I climbed up a tree to pick apples.  The angle of the ladder á
+I was on did not enable me to get high enough.  This implied á
+that the ladder was not very stable.",2.0,"{'joy_ecstasy': 0.003, 'interest_vigilance': 0.005, 'amazement_surprise': 0.007, 'anger': 0.017, 'admire': 0.024, 'sadness': 0.053, 'acceptance': 0.1, 'disgust_loathing': 0.118, 'fear': 0.139, 'boredom': 0.149, 'distraction': 0.15, 'anticipation': 0.275}"
+27,37,37,anger,Friends who torture animals.,3.0,"{'sadness': 0.158, 'boredom': 0.171, 'disgust_loathing': 0.293, 'anger': 0.419}"
+28,38,38,sadness,[ Same as in anger.],4.0,"{'sadness': 0.038, 'fear': 0.094, 'boredom': 0.118, 'disgust_loathing': 0.337, 'anger': 0.454}"
+29,39,39,disgust,Friends who torture animals.,5.0,"{'sadness': 0.158, 'boredom': 0.171, 'disgust_loathing': 0.293, 'anger': 0.419}"
+30,42,42,joy,When I had my children.,1.0,"{'trust': 0.005, 'amazement_surprise': 0.016, 'disgust_loathing': 0.02, 'interest_vigilance': 0.053, 'boredom': 0.064, 'anticipation': 0.109, 'sadness': 0.148, 'acceptance': 0.149, 'joy_ecstasy': 0.477}"
+31,43,43,fear,"When my 2 year old son climbed up and sat on the 7th floor á
+balcony with his legs hanging out.  He was holding on tightly to á
+the upper railing of the balcony but he could have easily lost á
+his balance when he sat down.",2.0,"{'anticipation': 0.016, 'anger': 0.032, 'amazement_surprise': 0.038, 'boredom': 0.039, 'interest_vigilance': 0.04, 'fear': 0.041, 'acceptance': 0.105, 'disgust_loathing': 0.202, 'sadness': 0.23, 'joy_ecstasy': 0.299}"
+32,44,44,anger,When my partner was attacked and lost three teeth.,3.0,"{'boredom': 0.04, 'sadness': 0.402, 'disgust_loathing': 0.598}"
+33,45,45,sadness,"When I see children on T.V from areas devastated by drought and á
+war.",4.0,"{'admire': 0.018, 'boredom': 0.022, 'interest_vigilance': 0.025, 'joy_ecstasy': 0.034, 'amazement_surprise': 0.041, 'distraction': 0.122, 'anticipation': 0.138, 'disgust_loathing': 0.178, 'sadness': 0.463}"
+34,46,46,disgust,When I nearly walked on a blindworm and then saw it crawl away.,5.0,"{'admire': 0.023, 'joy_ecstasy': 0.036, 'interest_vigilance': 0.05, 'anger': 0.054, 'fear': 0.07, 'anticipation': 0.071, 'distraction': 0.084, 'boredom': 0.11, 'amazement_surprise': 0.144, 'sadness': 0.147, 'disgust_loathing': 0.251}"
+35,49,49,joy,When my child was born.,1.0,"{'boredom': 0.007, 'amazement_surprise': 0.015, 'senerity': 0.017, 'admire': 0.022, 'trust': 0.047, 'acceptance': 0.142, 'anticipation': 0.215, 'interest_vigilance': 0.236, 'joy_ecstasy': 0.34}"
+36,50,50,fear,"It was winter/spring and the ice was melting.  I was far out on a á
+jetty and I poked the ice with a long branch to try and break it. á
+ The branch went through the ice and I fell in, the water closed á
+in over my head.",2.0,"{'amazement_surprise': 0.008, 'interest_vigilance': 0.018, 'anger': 0.024, 'joy_ecstasy': 0.027, 'trust': 0.03, 'senerity': 0.039, 'fear': 0.046, 'acceptance': 0.091, 'anticipation': 0.106, 'disgust_loathing': 0.122, 'sadness': 0.157, 'boredom': 0.181, 'distraction': 0.192}"
+37,51,51,anger,"Unjust accusations directed at me and my way of acting, by á
+someone close to me.",3.0,"{'anticipation': 0.007, 'acceptance': 0.022, 'boredom': 0.122, 'disgust_loathing': 0.142, 'sadness': 0.278, 'anger': 0.469}"
+38,52,52,sadness,Failing an examination.,4.0,"{'senerity': 0.003, 'acceptance': 0.007, 'distraction': 0.015, 'fear': 0.038, 'disgust_loathing': 0.319, 'boredom': 0.327, 'sadness': 0.331}"
+39,53,53,disgust,"A drunkard fell, started bleeding and wet himself.  Disgust that á
+turned into sadness-unpleasantness.",5.0,"{'anticipation': 0.006, 'fear': 0.04, 'admire': 0.041, 'anger': 0.122, 'sadness': 0.235, 'disgust_loathing': 0.253, 'boredom': 0.344}"
+40,56,56,joy,When I saw a person I had not seen for a long time.,1.0,"{'anger': 0.019, 'interest_vigilance': 0.023, 'trust': 0.027, 'fear': 0.041, 'sadness': 0.054, 'boredom': 0.067, 'acceptance': 0.109, 'anticipation': 0.174, 'distraction': 0.191, 'amazement_surprise': 0.337}"
+41,57,57,fear,"When, as a child, I was nearly knocked down by a car.",2.0,"{'anticipation': 0.002, 'joy_ecstasy': 0.012, 'interest_vigilance': 0.024, 'acceptance': 0.025, 'amazement_surprise': 0.095, 'distraction': 0.114, 'fear': 0.135, 'sadness': 0.189, 'disgust_loathing': 0.445}"
+42,58,58,anger,"When I heard on the radio that the football match in Belgium had á
+ended in a catastrophe, and several people had died.  I could not á
+ understand how normal people could behave in such a way.",3.0,"{'interest_vigilance': 0.005, 'acceptance': 0.007, 'anger': 0.028, 'fear': 0.034, 'anticipation': 0.061, 'boredom': 0.074, 'amazement_surprise': 0.124, 'distraction': 0.192, 'sadness': 0.245, 'disgust_loathing': 0.271}"
+43,59,59,sadness,"When I feel lonely, perhaps because I have to study a lot and I á
+am shut up in my appartment.  Nothing happens in particular á
+because there is no time for anything else.",4.0,"{'disgust_loathing': 0.025, 'fear': 0.028, 'sadness': 0.379, 'boredom': 0.609}"
+44,60,60,disgust,"When one learns through the mass media all the wars and killing á
+going on in the world.",5.0,"{'distraction': 0.003, 'interest_vigilance': 0.071, 'joy_ecstasy': 0.089, 'boredom': 0.098, 'disgust_loathing': 0.139, 'anger': 0.641}"
+45,63,63,joy,When I was accepted for a course on finance and accounting.,1.0,"{'interest_vigilance': 0.008, 'senerity': 0.021, 'admire': 0.03, 'boredom': 0.033, 'disgust_loathing': 0.034, 'anticipation': 0.047, 'anger': 0.059, 'amazement_surprise': 0.061, 'trust': 0.093, 'joy_ecstasy': 0.1, 'acceptance': 0.554}"
+46,64,64,fear,"A bus drove over my right leg.  The event itself was not very á
+frightening but when I had to wait in the emergency ward for á
+three hours and then my leg began to swell, I was frightened.",2.0,"{'sadness': 0.01, 'senerity': 0.014, 'trust': 0.016, 'anger': 0.025, 'distraction': 0.026, 'joy_ecstasy': 0.038, 'amazement_surprise': 0.047, 'anticipation': 0.051, 'disgust_loathing': 0.064, 'interest_vigilance': 0.193, 'fear': 0.555}"
+47,65,65,anger,"At my Summer job, nobody looked after me in particular and I had á
+to learn all on my own.",3.0,"{'senerity': 0.013, 'fear': 0.032, 'disgust_loathing': 0.108, 'sadness': 0.397, 'boredom': 0.491}"
+48,66,66,sadness,When I was not accepted as a student in finance and accounting.,4.0,"{'admire': 0.002, 'acceptance': 0.033, 'amazement_surprise': 0.036, 'fear': 0.039, 'distraction': 0.051, 'anticipation': 0.122, 'sadness': 0.203, 'boredom': 0.278, 'disgust_loathing': 0.278}"
+49,67,67,disgust,"When I had just moved into my new appartment I found a ventilator á
+in the kitchen.  I was going to clean it when I found that the á
+drum was full of mud and slime.  I felt disgusted.",5.0,"{'fear': 0.035, 'sadness': 0.094, 'anger': 0.264, 'boredom': 0.264, 'disgust_loathing': 0.383}"
+50,70,70,joy,Passed an exam by 2 points.,1.0,"{'senerity': 0.016, 'trust': 0.08, 'acceptance': 0.096, 'amazement_surprise': 0.101, 'admire': 0.25, 'joy_ecstasy': 0.497}"
+51,71,71,fear,"In a cottage in a large forest, I was alone for a while in the á
+dark.",2.0,"{'distraction': 0.019, 'amazement_surprise': 0.03, 'anticipation': 0.038, 'disgust_loathing': 0.046, 'joy_ecstasy': 0.073, 'boredom': 0.127, 'senerity': 0.182, 'sadness': 0.526}"
+52,72,72,anger,When I spoke to Jan-Erik Wikstr÷m on the telephone.,3.0,"{'interest_vigilance': 0.011, 'sadness': 0.012, 'distraction': 0.016, 'senerity': 0.032, 'admire': 0.033, 'amazement_surprise': 0.034, 'fear': 0.035, 'trust': 0.051, 'disgust_loathing': 0.067, 'boredom': 0.104, 'anger': 0.124, 'joy_ecstasy': 0.139, 'anticipation': 0.183, 'acceptance': 0.2}"
+53,73,73,sadness,Railway station good-bye.,4.0,"{'interest_vigilance': 0.018, 'sadness': 0.022, 'trust': 0.079, 'anticipation': 0.082, 'admire': 0.149, 'acceptance': 0.153, 'joy_ecstasy': 0.538}"
+54,74,74,disgust,"I saw a cripple in rags with small children in Italy.  He was á
+probably an imposter.",5.0,"{'boredom': 0.016, 'anticipation': 0.033, 'sadness': 0.033, 'interest_vigilance': 0.038, 'distraction': 0.125, 'anger': 0.143, 'disgust_loathing': 0.184, 'fear': 0.469}"
+55,77,77,joy,I passed an exam that I was absolutely certain that I had failed.,1.0,"{'admire': 0.016, 'interest_vigilance': 0.036, 'senerity': 0.1, 'joy_ecstasy': 0.149, 'anticipation': 0.17, 'acceptance': 0.18, 'trust': 0.389}"
+56,78,78,fear,"On the way back from Denmark with a friend on a small yatch, á
+there was a storm and my friend was blown overboard;  I was very á
+scared till I managed to get him back onboard.",2.0,"{'joy_ecstasy': 0.001, 'anticipation': 0.007, 'distraction': 0.068, 'sadness': 0.098, 'interest_vigilance': 0.114, 'disgust_loathing': 0.226, 'fear': 0.527}"
+57,79,79,anger,I locked myself out.,3.0,"{'distraction': 0.045, 'boredom': 0.064, 'trust': 0.065, 'disgust_loathing': 0.071, 'senerity': 0.072, 'acceptance': 0.078, 'fear': 0.094, 'interest_vigilance': 0.096, 'sadness': 0.145, 'anticipation': 0.311}"
+58,80,80,sadness,I missed the last tram home and had to walk in the pouring rain.,4.0,"{'fear': 0.023, 'amazement_surprise': 0.076, 'disgust_loathing': 0.123, 'boredom': 0.336, 'sadness': 0.482}"
+59,81,81,disgust,I found some worms in the food and I had obviously eaten some.,5.0,"{'interest_vigilance': 0.007, 'senerity': 0.038, 'boredom': 0.044, 'trust': 0.073, 'admire': 0.077, 'amazement_surprise': 0.1, 'anticipation': 0.116, 'joy_ecstasy': 0.168, 'acceptance': 0.418}"
+60,84,84,joy,When I won a trip to Greece in a competition.,1.0,"{'disgust_loathing': 0.013, 'sadness': 0.017, 'acceptance': 0.029, 'boredom': 0.037, 'distraction': 0.045, 'anger': 0.059, 'amazement_surprise': 0.263, 'joy_ecstasy': 0.579}"
+61,85,85,fear,"When I am out in the dark and a suspicious looking character á
+comes towards me.",2.0,"{'boredom': 0.046, 'anticipation': 0.121, 'interest_vigilance': 0.189, 'distraction': 0.2, 'fear': 0.486}"
+62,86,86,anger,"At work, when an elderly man complained unjustifiably about me and á
+distrusted me.",3.0,"{'admire': 0.005, 'distraction': 0.011, 'anticipation': 0.024, 'trust': 0.024, 'anger': 0.038, 'fear': 0.085, 'acceptance': 0.124, 'disgust_loathing': 0.161, 'boredom': 0.274, 'sadness': 0.295}"
+63,87,87,sadness,When I had not understood anything after a lecture.,4.0,"{'senerity': 0.001, 'anger': 0.02, 'interest_vigilance': 0.021, 'acceptance': 0.023, 'admire': 0.029, 'fear': 0.031, 'amazement_surprise': 0.047, 'disgust_loathing': 0.079, 'sadness': 0.09, 'anticipation': 0.216, 'distraction': 0.239, 'boredom': 0.244}"
+64,88,88,disgust,When an alcoholic stood dribbling over a food counter.,5.0,"{'interest_vigilance': 0.031, 'senerity': 0.032, 'admire': 0.035, 'fear': 0.036, 'distraction': 0.041, 'amazement_surprise': 0.047, 'sadness': 0.067, 'anticipation': 0.071, 'boredom': 0.082, 'acceptance': 0.085, 'disgust_loathing': 0.135, 'anger': 0.139, 'joy_ecstasy': 0.24}"
+65,91,91,joy,"At a friend's birthday party with some of my closest friends.  It á
+was all very pleasant and one could say that I was happy to have á
+such good friends.",1.0,"{'anticipation': 0.001, 'acceptance': 0.015, 'trust': 0.018, 'sadness': 0.02, 'admire': 0.024, 'senerity': 0.072, 'joy_ecstasy': 0.891}"
+66,92,92,fear,"On the way home one Friday night in the heavy rain the car á
+acquaplanned.  I lost contact with the road surface for a few á
+seconds.",2.0,"{'fear': 0.024, 'distraction': 0.049, 'amazement_surprise': 0.107, 'boredom': 0.201, 'sadness': 0.305, 'disgust_loathing': 0.355}"
+67,93,93,anger,Mad at my dad.,3.0,"{'fear': 0.041, 'anger': 0.093, 'boredom': 0.271, 'disgust_loathing': 0.28, 'sadness': 0.356}"
+68,94,94,sadness,A case of unrequited love.,4.0,"{'senerity': 0.025, 'anticipation': 0.03, 'amazement_surprise': 0.038, 'fear': 0.041, 'anger': 0.042, 'disgust_loathing': 0.054, 'acceptance': 0.077, 'boredom': 0.103, 'distraction': 0.107, 'sadness': 0.525}"
+69,95,95,disgust,A bad smelling cucumber.,5.0,"{'joy_ecstasy': 0.01, 'distraction': 0.024, 'boredom': 0.058, 'fear': 0.078, 'sadness': 0.376, 'disgust_loathing': 0.494}"
+70,98,98,joy,I felt very happy when I won the football pools.,1.0,"{'trust': 0.014, 'admire': 0.043, 'acceptance': 0.058, 'senerity': 0.066, 'joy_ecstasy': 0.86}"
+71,99,99,fear,"When I flew from Athens to Copenhagen after a holiday.  The plane á
+was caught in a storm and it began to shake and I thouhght that á
+we were going to crash.",2.0,"{'senerity': 0.004, 'joy_ecstasy': 0.006, 'trust': 0.033, 'acceptance': 0.049, 'interest_vigilance': 0.071, 'distraction': 0.076, 'sadness': 0.082, 'boredom': 0.095, 'fear': 0.102, 'anticipation': 0.121, 'amazement_surprise': 0.15, 'disgust_loathing': 0.251}"
+72,100,100,anger,When someone stole my bike.,3.0,"{'interest_vigilance': 0.002, 'acceptance': 0.007, 'amazement_surprise': 0.022, 'joy_ecstasy': 0.027, 'admire': 0.028, 'trust': 0.029, 'distraction': 0.085, 'anticipation': 0.108, 'sadness': 0.132, 'disgust_loathing': 0.26, 'fear': 0.343}"
+73,101,101,sadness,"When I saw the list of books to read for an acccouting course, I á
+thought "" Oh God how will I ever manaage it!""",4.0,"{'sadness': 0.016, 'interest_vigilance': 0.022, 'acceptance': 0.04, 'boredom': 0.082, 'fear': 0.113, 'joy_ecstasy': 0.132, 'distraction': 0.192, 'amazement_surprise': 0.22, 'anticipation': 0.224}"
+74,102,102,disgust,"It was when I read a newspaper article on the future and they á
+foresaw that we would be eating frog-burgers by the year 2000.  á
+An illustration showed a frog between two pieces of bread.",5.0,"{'interest_vigilance': 0.016, 'acceptance': 0.02, 'admire': 0.022, 'anger': 0.038, 'distraction': 0.066, 'anticipation': 0.099, 'joy_ecstasy': 0.327, 'amazement_surprise': 0.454}"
+75,105,105,joy,"When the whole family gets together for a one week holiday.  á
+Everybody feels free and the trip is well planned.  It works out á
+well and we enjoy ourselves.",1.0,"{'admire': 0.006, 'acceptance': 0.016, 'trust': 0.03, 'senerity': 0.14, 'joy_ecstasy': 0.85}"
+76,106,106,fear,"When I could not find my 2 year old daughter.  I ran and looked á
+for her everywhere and could not find her.  (I finally found her, á
+she had gone to bed to sleep)",2.0,"{'senerity': 0.005, 'anticipation': 0.006, 'joy_ecstasy': 0.026, 'trust': 0.027, 'disgust_loathing': 0.027, 'amazement_surprise': 0.04, 'fear': 0.045, 'interest_vigilance': 0.048, 'boredom': 0.051, 'acceptance': 0.075, 'anger': 0.085, 'distraction': 0.091, 'sadness': 0.514}"
+77,107,107,anger,When friends try to put me down or hurt me.,3.0,"{'admire': 0.003, 'acceptance': 0.004, 'joy_ecstasy': 0.02, 'fear': 0.033, 'distraction': 0.048, 'senerity': 0.087, 'disgust_loathing': 0.15, 'boredom': 0.193, 'anger': 0.22, 'sadness': 0.284}"
+78,108,108,sadness,Marriage crises.  Boredom.,4.0,"{'disgust_loathing': 0.063, 'senerity': 0.08, 'joy_ecstasy': 0.132, 'boredom': 0.198, 'sadness': 0.568}"
+79,109,109,disgust,When someone makes advances that one does not want.,5.0,"{'distraction': 0.002, 'senerity': 0.027, 'admire': 0.038, 'acceptance': 0.045, 'fear': 0.051, 'disgust_loathing': 0.053, 'boredom': 0.222, 'sadness': 0.241, 'anticipation': 0.362}"
+80,112,112,joy,When I passed the first examination that I had to repeat.,1.0,"{'senerity': 0.004, 'distraction': 0.032, 'interest_vigilance': 0.051, 'anticipation': 0.056, 'admire': 0.061, 'amazement_surprise': 0.092, 'trust': 0.114, 'joy_ecstasy': 0.242, 'acceptance': 0.389}"
+81,113,113,fear,"When I drove to Stockholm for the first time and drove off the á
+Stora Hissingen road at the wrong exit.",2.0,"{'interest_vigilance': 0.005, 'trust': 0.011, 'anger': 0.029, 'distraction': 0.034, 'fear': 0.039, 'admire': 0.056, 'boredom': 0.061, 'joy_ecstasy': 0.082, 'disgust_loathing': 0.082, 'sadness': 0.13, 'amazement_surprise': 0.14, 'acceptance': 0.175, 'anticipation': 0.196}"
+82,114,114,anger,When my boyfriend went away for a month long holiday without me.,3.0,"{'disgust_loathing': 0.014, 'anticipation': 0.033, 'amazement_surprise': 0.041, 'senerity': 0.051, 'joy_ecstasy': 0.074, 'distraction': 0.15, 'boredom': 0.219, 'sadness': 0.459}"
+83,115,115,sadness,"Last year when I worked during the Summer holidays and studied á
+at the same time for an examination I had to repeat; my boyfriend á
+went to Greece for a holiday for a month.",4.0,"{'trust': 0.002, 'admire': 0.01, 'fear': 0.011, 'senerity': 0.022, 'distraction': 0.029, 'anger': 0.047, 'sadness': 0.067, 'anticipation': 0.08, 'amazement_surprise': 0.1, 'disgust_loathing': 0.119, 'acceptance': 0.228, 'joy_ecstasy': 0.327}"
+84,116,116,disgust,When a dog is left whining outside a shop.,5.0,"{'admire': 0.008, 'senerity': 0.017, 'interest_vigilance': 0.024, 'distraction': 0.039, 'joy_ecstasy': 0.042, 'fear': 0.08, 'boredom': 0.121, 'disgust_loathing': 0.291, 'sadness': 0.42}"
+85,119,119,joy,"The day I was told that I had been accepted as a student of á
+economics.",1.0,"{'anticipation': 0.012, 'anger': 0.032, 'boredom': 0.049, 'admire': 0.054, 'trust': 0.066, 'joy_ecstasy': 0.172, 'amazement_surprise': 0.307, 'acceptance': 0.349}"
+86,120,120,fear,"While taking a short cut through the Vasa park, I was surrounded á
+by three people who tried to steal my money.  I was scared and á
+was saved only by the appearance of other people.",2.0,"{'boredom': 0.017, 'disgust_loathing': 0.033, 'anger': 0.052, 'distraction': 0.115, 'interest_vigilance': 0.121, 'fear': 0.703}"
+87,121,121,anger,"At a restaurant I observed how the gypsies tried to get money by á
+cheating the foreigners i.e non Swedish speaking.  My anger had á
+nothing to do with hatred against foreigners, but it was an á
+expression of the anger I feel when I see people being used .",3.0,"{'sadness': 0.053, 'boredom': 0.247, 'disgust_loathing': 0.307, 'anger': 0.434}"
+88,122,122,sadness,"At the begining of a new course one is afraid of encountering á
+problems one can not manage.  Thoughts revolve around failing á
+the subject and the consequences it would have for the future.",4.0,"{'trust': 0.002, 'acceptance': 0.003, 'senerity': 0.005, 'anger': 0.017, 'joy_ecstasy': 0.032, 'disgust_loathing': 0.041, 'distraction': 0.073, 'anticipation': 0.135, 'interest_vigilance': 0.156, 'fear': 0.576}"
+89,123,123,disgust,"While walking in town I noticed how the police harrassed a man á
+who was under the influence of alcohol.  They terrified him with á
+the thought of arrest by driving close behind him on a pedestrian á
+street.  My disgust was directed at the gestures and the facial á
+expressions of the policemen; they seemed to be enjoying á
+themselves.",5.0,"{'distraction': 0.027, 'anticipation': 0.031, 'acceptance': 0.038, 'sadness': 0.056, 'fear': 0.064, 'joy_ecstasy': 0.065, 'boredom': 0.135, 'anger': 0.197, 'disgust_loathing': 0.429}"
+90,126,126,joy,"When I found out that I had passed the last two exams by a á
+margin of three marks.",1.0,"{'interest_vigilance': 0.011, 'anticipation': 0.015, 'senerity': 0.036, 'distraction': 0.038, 'trust': 0.059, 'admire': 0.059, 'amazement_surprise': 0.099, 'acceptance': 0.249, 'joy_ecstasy': 0.475}"
+91,127,127,fear,When my father was ill and was waiting for the results of his tests.,2.0,"{'trust': 0.011, 'boredom': 0.015, 'admire': 0.016, 'senerity': 0.023, 'disgust_loathing': 0.035, 'joy_ecstasy': 0.067, 'sadness': 0.074, 'distraction': 0.08, 'amazement_surprise': 0.085, 'acceptance': 0.096, 'anticipation': 0.247, 'interest_vigilance': 0.293}"
+92,128,128,anger,"When I got caught in the pouring rain last Thursday and did not á
+have a raincoat on me.",3.0,"{'senerity': 0.003, 'anger': 0.005, 'joy_ecstasy': 0.016, 'anticipation': 0.024, 'interest_vigilance': 0.034, 'acceptance': 0.072, 'amazement_surprise': 0.083, 'fear': 0.086, 'disgust_loathing': 0.125, 'distraction': 0.152, 'sadness': 0.18, 'boredom': 0.261}"
+93,129,129,sadness,When I failed an exam.,4.0,"{'distraction': 0.024, 'admire': 0.026, 'fear': 0.029, 'joy_ecstasy': 0.029, 'boredom': 0.051, 'acceptance': 0.058, 'amazement_surprise': 0.069, 'sadness': 0.139, 'interest_vigilance': 0.167, 'disgust_loathing': 0.19, 'anticipation': 0.26}"
+94,130,130,disgust,"At a Sm÷rgasbord table, a man mixed differnet kinds of picked á
+herrings with fruit salad.",5.0,"{'interest_vigilance': 0.006, 'admire': 0.008, 'amazement_surprise': 0.011, 'distraction': 0.012, 'sadness': 0.028, 'fear': 0.034, 'senerity': 0.04, 'anticipation': 0.065, 'disgust_loathing': 0.094, 'joy_ecstasy': 0.095, 'boredom': 0.109, 'anger': 0.169, 'acceptance': 0.369}"
+95,133,133,joy,"When I gave birth to my son and saw that he was alive and that I á
+had managed it well.  He was born a month too early with a á
+malfunctioning lung.  This happened a year ago.",1.0,"{'disgust_loathing': 0.002, 'anger': 0.012, 'interest_vigilance': 0.015, 'senerity': 0.019, 'trust': 0.026, 'acceptance': 0.271, 'amazement_surprise': 0.272, 'joy_ecstasy': 0.424}"
+96,134,134,fear,"When I found out that my father had lung cancer and they did not á
+know how long he would live.",2.0,"{'fear': 0.029, 'acceptance': 0.039, 'anger': 0.043, 'amazement_surprise': 0.103, 'disgust_loathing': 0.104, 'distraction': 0.149, 'boredom': 0.18, 'sadness': 0.392}"
+97,135,135,anger,"When a colleague asked me for help at work, despite the fact á
+that he had more time to do it than I had.",3.0,"{'disgust_loathing': 0.024, 'admire': 0.034, 'trust': 0.041, 'anticipation': 0.042, 'interest_vigilance': 0.043, 'senerity': 0.07, 'amazement_surprise': 0.07, 'anger': 0.087, 'boredom': 0.096, 'joy_ecstasy': 0.187, 'acceptance': 0.347}"
+98,136,136,sadness,"When I did not get the salary increase that I had been expecting á
+and understood how little one's work was appreciated.",4.0,"{'distraction': 0.007, 'anticipation': 0.011, 'disgust_loathing': 0.016, 'trust': 0.021, 'senerity': 0.029, 'boredom': 0.033, 'interest_vigilance': 0.04, 'anger': 0.049, 'admire': 0.087, 'joy_ecstasy': 0.203, 'amazement_surprise': 0.218, 'acceptance': 0.327}"
+99,137,137,disgust,When I was weeding the garden I found a lizard in my hand.,5.0,"{'senerity': 0.009, 'trust': 0.023, 'sadness': 0.025, 'distraction': 0.034, 'boredom': 0.039, 'disgust_loathing': 0.047, 'amazement_surprise': 0.048, 'fear': 0.052, 'anger': 0.067, 'admire': 0.101, 'acceptance': 0.105, 'anticipation': 0.154, 'joy_ecstasy': 0.336}"
+100,140,140,joy,"New year's eve 1983/1984, I met my girlfriend.  We stood on the á
+steps outside her parents home and I kissed her for the á
+first time.",1.0,"{'interest_vigilance': 0.009, 'disgust_loathing': 0.011, 'admire': 0.02, 'amazement_surprise': 0.02, 'trust': 0.025, 'anticipation': 0.043, 'acceptance': 0.221, 'joy_ecstasy': 0.691}"
+101,141,141,fear,"When I was stopped by plain clothes policemen because the car I á
+was driving had overturned on the Avenue.  I had been driving too á
+fast, and I was afraid when I was stopped, questionned and then á
+toild to go.  The situation ended happily since there were no á
+consequences.",2.0,"{'boredom': 0.007, 'sadness': 0.018, 'trust': 0.024, 'joy_ecstasy': 0.03, 'distraction': 0.041, 'senerity': 0.051, 'disgust_loathing': 0.051, 'anticipation': 0.065, 'interest_vigilance': 0.201, 'fear': 0.552}"
+102,142,142,anger,"The editor changed the heading of an article that I had written.  á
+He considered the heading to be derogatory towards the person I had written á
+about.",3.0,"{'senerity': 0.004, 'admire': 0.053, 'boredom': 0.084, 'anticipation': 0.086, 'disgust_loathing': 0.1, 'acceptance': 0.157, 'anger': 0.262, 'sadness': 0.295}"
+103,143,143,sadness,"A close acquaintance of the family died of lung cancer.  á
+Although it was expected, I still felt depressed.",4.0,"{'disgust_loathing': 0.03, 'boredom': 0.323, 'sadness': 0.687}"
+104,144,144,disgust,"When I saw a picture, in the Gothenburg Post, of a totally á
+demolished car with two fatally injured passengers.  The car was á
+so badly damaged that they couldn't get the bodies out at the á
+scene of the accident.",5.0,"{'amazement_surprise': 0.01, 'fear': 0.022, 'boredom': 0.187, 'sadness': 0.38, 'disgust_loathing': 0.442}"
+105,147,147,joy,When I got the loan for my studies.,1.0,"{'senerity': 0.016, 'amazement_surprise': 0.017, 'boredom': 0.04, 'anger': 0.043, 'trust': 0.075, 'interest_vigilance': 0.125, 'anticipation': 0.155, 'joy_ecstasy': 0.178, 'acceptance': 0.392}"
+106,148,148,fear,"I met intoxicated people with dubious intentions in a back alley á
+one Wednesday night.",2.0,"{'interest_vigilance': 0.006, 'amazement_surprise': 0.022, 'senerity': 0.023, 'admire': 0.026, 'acceptance': 0.029, 'joy_ecstasy': 0.04, 'anger': 0.047, 'boredom': 0.048, 'sadness': 0.056, 'distraction': 0.089, 'disgust_loathing': 0.146, 'fear': 0.242, 'anticipation': 0.267}"
+107,149,149,anger,"On the T.V I saw a news feature on South Africa.  A policeman      á
+attacked a group of black people with a whip.",3.0,"{'anticipation': 0.029, 'amazement_surprise': 0.032, 'boredom': 0.049, 'sadness': 0.185, 'fear': 0.236, 'anger': 0.239, 'disgust_loathing': 0.271}"
+108,150,150,sadness,"The thought of having to read a boring book of 400 pages in á
+English.",4.0,"{'anticipation': 0.003, 'fear': 0.017, 'senerity': 0.038, 'disgust_loathing': 0.177, 'sadness': 0.309, 'boredom': 0.496}"
+109,151,151,disgust,Grovelling people.,5.0,"{'anticipation': 0.018, 'boredom': 0.067, 'sadness': 0.07, 'fear': 0.211, 'anger': 0.294, 'disgust_loathing': 0.38}"
+110,154,154,disgust,"Observing someone in the cafeteria noisily gulping in his food, á
+having extremely bad manners.",5.0,"{'senerity': 0.016, 'anger': 0.033, 'disgust_loathing': 0.179, 'sadness': 0.28, 'boredom': 0.533}"
+111,157,157,joy,"When my sister - after a history of one abortion and one á
+stillbirth - gave birth to a perfectly healty boy.",1.0,"{'interest_vigilance': 0.016, 'fear': 0.034, 'disgust_loathing': 0.08, 'acceptance': 0.104, 'sadness': 0.113, 'amazement_surprise': 0.193, 'joy_ecstasy': 0.5}"
+112,158,158,fear,"When my sister had the still born child, she was emotionally very á
+deep down, and it took her a long time to recover.",2.0,"{'joy_ecstasy': 0.001, 'interest_vigilance': 0.016, 'acceptance': 0.024, 'boredom': 0.042, 'disgust_loathing': 0.181, 'sadness': 0.776}"
+113,159,159,anger,"We were starting a student project, and the teacher we talked to á
+was very negative and not very helpful.",3.0,"{'anticipation': 0.004, 'fear': 0.038, 'disgust_loathing': 0.204, 'sadness': 0.318, 'boredom': 0.477}"
+114,160,160,sadness,"When my boyfriend openly let me down, preferring another girl.",4.0,"{'distraction': 0.015, 'admire': 0.033, 'anger': 0.037, 'disgust_loathing': 0.053, 'anticipation': 0.064, 'fear': 0.067, 'boredom': 0.162, 'acceptance': 0.189, 'senerity': 0.194, 'sadness': 0.227}"
+115,161,161,disgust,"I felt some disgust for my boyfriend for a time, after he had á
+left me.",5.0,"{'fear': 0.032, 'sadness': 0.153, 'anger': 0.184, 'boredom': 0.335, 'disgust_loathing': 0.336}"
+116,164,164,joy,"Unexpected visit by a close friend, whom I hadn't seen for half a á
+year.",1.0,"{'boredom': 0.033, 'fear': 0.051, 'distraction': 0.051, 'acceptance': 0.072, 'interest_vigilance': 0.076, 'joy_ecstasy': 0.094, 'anticipation': 0.14, 'amazement_surprise': 0.523}"
+117,165,165,fear,"I wandered by mistake into the safety zone of a shooting range, á
+and was shot at.",2.0,"{'disgust_loathing': 0.002, 'sadness': 0.037, 'fear': 0.038, 'trust': 0.043, 'interest_vigilance': 0.045, 'joy_ecstasy': 0.049, 'admire': 0.069, 'senerity': 0.09, 'acceptance': 0.163, 'distraction': 0.224, 'anticipation': 0.282}"
+118,166,166,anger,Being treated unfairly.,3.0,"{'fear': 0.006, 'anger': 0.041, 'boredom': 0.201, 'disgust_loathing': 0.226, 'sadness': 0.567}"
+119,167,167,sadness,Breaking up with a girl.,4.0,"{'fear': 0.001, 'senerity': 0.018, 'acceptance': 0.032, 'disgust_loathing': 0.116, 'boredom': 0.189, 'sadness': 0.686}"
+120,168,168,disgust,Nothing.,5.0,"{'trust': 0.002, 'acceptance': 0.004, 'joy_ecstasy': 0.005, 'admire': 0.025, 'disgust_loathing': 0.055, 'anticipation': 0.118, 'senerity': 0.132, 'sadness': 0.318, 'boredom': 0.38}"
+121,171,171,joy,"When I was accepted as a student at the college, not having á
+thought it possible.",1.0,"{'senerity': 0.011, 'trust': 0.019, 'fear': 0.024, 'sadness': 0.025, 'boredom': 0.04, 'interest_vigilance': 0.045, 'joy': 0.065, 'anticipation': 0.121, 'surprise': 0.177, 'disgust': 0.513}"
+122,172,172,fear,"When I was the first to arrive at the scene after an accident, á
+and found that a close school friend had been killed.",2.0,"{'sadness': 0.001, 'fear': 0.007, 'joy_ecstasy': 0.008, 'trust': 0.014, 'anger': 0.031, 'disgust_loathing': 0.033, 'admire': 0.057, 'senerity': 0.073, 'interest_vigilance': 0.094, 'distraction': 0.103, 'anticipation': 0.149, 'amazement_surprise': 0.184, 'acceptance': 0.287}"
+123,173,173,anger,"I was accused of having done something, which I hadn't and got á
+very angry.",3.0,"{'anticipation': 0.002, 'fear': 0.029, 'sadness': 0.073, 'disgust_loathing': 0.153, 'boredom': 0.163, 'anger': 0.62}"
+124,174,174,sadness,When my grandmother died.,4.0,"{'boredom': 0.105, 'disgust_loathing': 0.288, 'sadness': 0.647}"
+125,175,175,disgust,Not applicable.,5.0,"{'distraction': 0.002, 'senerity': 0.023, 'admire': 0.034, 'sadness': 0.066, 'fear': 0.096, 'acceptance': 0.12, 'disgust_loathing': 0.172, 'boredom': 0.209, 'anticipation': 0.319}"
+126,176,176,joy,"A couple of years ago during the summer holiday, I was fishing at á
+a lake with my husband.  Suddenly it started raining while the á
+sun was still shining. I experienced a feeling of joy, happiness á
+and fulfillment.  the whole nature was full of music.",1.0,"{'amazement_surprise': 0.007, 'admire': 0.011, 'senerity': 0.019, 'distraction': 0.02, 'acceptance': 0.027, 'joy_ecstasy': 0.958}"
+127,177,177,fear,"I was alone at home, in bed reading a womens' magazine in which á
+there were storiees of paranormal experiences.  My leg was á
+itching and I stretched my hand to scratch and I felt another á
+strange hand. (later I realized that it was the corner of the á
+blanket)",2.0,"{'amazement_surprise': 0.016, 'acceptance': 0.02, 'joy_ecstasy': 0.022, 'disgust_loathing': 0.03, 'interest_vigilance': 0.03, 'fear': 0.033, 'anger': 0.038, 'distraction': 0.063, 'senerity': 0.099, 'anticipation': 0.101, 'boredom': 0.192, 'sadness': 0.396}"
+128,178,178,anger,"I went to a lecture and once again it had been cancelled, this á
+was the second time.  One had a negative attitude towards the á
+lecturer.á",3.0,"{'fear': 0.007, 'acceptance': 0.026, 'anger': 0.047, 'disgust_loathing': 0.17, 'sadness': 0.298, 'boredom': 0.492}"
+129,179,179,sadness,"I heard that a former superior of mine had died, I was later at á
+home home reading about it in the newspaper and I thought of our á
+interaction and how it was no longer possible.  The limited scope á
+of human life is sad.",4.0,"{'disgust_loathing': 0.004, 'anticipation': 0.017, 'amazement_surprise': 0.027, 'anger': 0.031, 'boredom': 0.17, 'sadness': 0.792}"
+130,180,180,disgust,"In the tram there was a fat, sickly looking woman in front of me á
+who was asking for directions in a thick voice.  When she got up to á
+go a disgusting smell of urine came from her.  I felt that I á
+would choke.",5.0,"{'fear': 0.01, 'anger': 0.043, 'boredom': 0.122, 'sadness': 0.294, 'disgust_loathing': 0.572}"
+131,183,183,joy,"I had a summer job in Sweden, and my boyfriend came to meet me on á
+my birthday.",1.0,"{'distraction': 0.002, 'admire': 0.004, 'fear': 0.028, 'senerity': 0.029, 'anger': 0.048, 'anticipation': 0.05, 'amazement_surprise': 0.055, 'boredom': 0.055, 'sadness': 0.064, 'acceptance': 0.087, 'joy_ecstasy': 0.62}"
+132,184,184,fear,"I went to practice in Sweden during summer, and I was afraid that á
+I would not do well.",2.0,"{'anger': 0.025, 'anticipation': 0.03, 'sadness': 0.038, 'distraction': 0.068, 'disgust_loathing': 0.07, 'interest_vigilance': 0.09, 'fear': 0.719}"
+133,185,185,anger,"In the holiday cottage of our association, two of my pals came to á
+wake me up early one morning by bringing a radio played at the á
+highest volume into my room - it was the morning service at its á
+loudest.",3.0,"{'boredom': 0.002, 'disgust_loathing': 0.003, 'interest_vigilance': 0.017, 'fear': 0.02, 'distraction': 0.029, 'acceptance': 0.03, 'anger': 0.032, 'senerity': 0.039, 'joy_ecstasy': 0.867}"
+134,186,186,sadness,My grandmother died suddenly last summer.,4.0,"{'boredom': 0.136, 'disgust_loathing': 0.378, 'sadness': 0.527}"
+135,187,187,disgust,"My superior at the summer job swindled customers as much as he á
+could, and once put me in a difficult situation after which I á
+could not but detest him.",5.0,"{'anger': 0.042, 'fear': 0.05, 'boredom': 0.197, 'disgust_loathing': 0.319, 'sadness': 0.433}"
+136,190,190,joy,"I was told quite unexpectedly that one wanted me to become the á
+vice-chairman of our student organisation.  I was really á
+surprised and joy was the first emotion I felt, though behind it á
+there was worry - how shall I succeed ?",1.0,"{'distraction': 0.005, 'interest_vigilance': 0.008, 'fear': 0.013, 'acceptance': 0.035, 'trust': 0.038, 'anticipation': 0.051, 'joy_ecstasy': 0.427, 'amazement_surprise': 0.464}"
+137,191,191,fear,"Our tutorial group was soon to be divided, and we got a list of á
+names of freshmen, out of which five were to be in my group.  We á
+read the names and then each group went its own way to a seminar á
+room.  I wondered how I would cope with the new situation and if á
+I would succeed as a group leader.",2.0,"{'senerity': 0.01, 'disgust_loathing': 0.015, 'admire': 0.02, 'trust': 0.033, 'boredom': 0.033, 'interest_vigilance': 0.046, 'anger': 0.073, 'amazement_surprise': 0.086, 'acceptance': 0.131, 'distraction': 0.138, 'anticipation': 0.139, 'joy_ecstasy': 0.319}"
+138,192,192,anger,"We were in a disco and the evening was not at all pleasant.  á
+Despite my not knowing why, I was angry with my companion.  I let á
+him feel my bad humour as I cannot hide my feelings.",3.0,"{'sadness': 0.047, 'boredom': 0.21, 'disgust_loathing': 0.326, 'anger': 0.458}"
+139,193,193,sadness,"My grandmother died, and my mother called me one sunday morning á
+in the Autumn.  The way my mother told me about it, I hated her á
+at that moment.  She sounded as if she had been waiting for the á
+death of my grandmother.  I had lost a person close to me.  I á
+felt guilty too as I had been bad to my grandmother of late.  I had not á
+remained calm when she no longer understood everything so well.",4.0,"{'anger': 0.019, 'disgust_loathing': 0.118, 'boredom': 0.257, 'sadness': 0.647}"
+140,194,194,disgust,"At the underground station, a drunkard came to speak to me.  He á
+tried to ask me something but I did not answer so he began to á
+speak about me with his companion.  I detested this dirty á
+growling man.",5.0,"{'fear': 0.016, 'admire': 0.038, 'boredom': 0.079, 'anticipation': 0.121, 'sadness': 0.204, 'anger': 0.219, 'disgust_loathing': 0.363}"
+141,197,197,joy,"Last night I had a chat with a fellow student.  I had known her á
+for about half a year, and for the first time we were speaking á
+""the same language""- meaning an inspiring discussion and á
+encounter.",1.0,"{'admire': 0.005, 'anger': 0.031, 'disgust_loathing': 0.033, 'anticipation': 0.035, 'boredom': 0.045, 'amazement_surprise': 0.057, 'acceptance': 0.105, 'joy_ecstasy': 0.729}"
+142,198,198,anger,"[ I sometimes quarrel with my mother because she blames me, á
+though I have not in any way been connected to some events.]",3.0,"{'trust': 0.001, 'senerity': 0.03, 'fear': 0.033, 'anger': 0.061, 'boredom': 0.135, 'disgust_loathing': 0.233, 'sadness': 0.547}"
+143,199,199,sadness,"After hearing about the death of my grandfather.  First I could á
+not believe it, but later I wept and felt the situation was á
+hopeless.  I felt lonely and wanted to be consolated.",4.0,"{'acceptance': 0.001, 'disgust_loathing': 0.013, 'amazement_surprise': 0.027, 'anger': 0.072, 'boredom': 0.102, 'sadness': 0.826}"
+144,200,200,disgust,"In the evening, while I was watching TV, my little brother came á
+in and started eating food he had brought from the kitchen while á
+I was trying to concentrate on the program.",5.0,"{'boredom': 0.011, 'interest_vigilance': 0.014, 'sadness': 0.024, 'fear': 0.027, 'acceptance': 0.031, 'distraction': 0.057, 'anticipation': 0.064, 'disgust_loathing': 0.065, 'anger': 0.069, 'amazement_surprise': 0.072, 'joy_ecstasy': 0.608}"
+145,203,203,joy,"I met a dear friend of mine after a long time.  I expressed my feelings á
+in our own usual way, by mutual scolding and abusing (with á
+complete understanding) and by touching, patting and taking the á
+hand of the other person, etc...",1.0,"{'interest_vigilance': 0.011, 'trust': 0.024, 'sadness': 0.026, 'anger': 0.044, 'disgust_loathing': 0.059, 'boredom': 0.096, 'admire': 0.1, 'joy_ecstasy': 0.118, 'acceptance': 0.562}"
+146,204,204,fear,"I felt fear of the purest kind after a car accident.  The á
+incident and images of horror kept coming back to my mind.  I á
+wondered what could have happened to my sister, my friend and me, á
+though nothing very serious actually happened.",2.0,"{'boredom': 0.006, 'sadness': 0.01, 'amazement_surprise': 0.027, 'disgust_loathing': 0.03, 'anger': 0.033, 'joy_ecstasy': 0.04, 'distraction': 0.056, 'interest_vigilance': 0.067, 'anticipation': 0.113, 'fear': 0.66}"
+147,205,205,anger,"Two boys whom I know were telling me, in an indecent manner, how á
+they had teased a young and shy girl I know.  They had despised á
+her conviction, scorned and touched her.  I got very angry and á
+did not try to conceal it and gave it back to them.",3.0,"{'sadness': 0.068, 'boredom': 0.184, 'disgust_loathing': 0.252, 'anger': 0.536}"
+148,206,206,sadness,"My sweetheart left me, or rather we decided to break it off by á
+mutual consent.  The consequences were - unrestrained weeping, á
+feelings of loneliness, hopelessness and disconsolation.  I felt á
+that I should find a friend, to talk to joyfully and to forget.",4.0,"{'amazement_surprise': 0.002, 'senerity': 0.01, 'trust': 0.011, 'joy_ecstasy': 0.036, 'anticipation': 0.038, 'anger': 0.055, 'acceptance': 0.091, 'boredom': 0.111, 'sadness': 0.688}"
+149,207,207,disgust,"Out of sheer curiosity, I went to see a pornographic movie in á
+Copenhagen.  The room was full of men, who panted and á
+masturbated.  Very disgusting.",5.0,"{'fear': 0.029, 'joy_ecstasy': 0.032, 'anger': 0.098, 'sadness': 0.119, 'boredom': 0.196, 'disgust_loathing': 0.567}"
+150,211,211,joy,When I won a tennis match.,1.0,"{'surprise': 0.037, 'senerity': 0.042, 'interest_vigilance': 0.042, 'joy': 0.06, 'anticipation': 0.13, 'sadness': 0.731}"
+151,212,212,fear,When my dog ran out on thin ice last spring.,2.0,"{'acceptance': 0.014, 'fear': 0.034, 'amazement_surprise': 0.043, 'joy_ecstasy': 0.072, 'distraction': 0.076, 'boredom': 0.107, 'disgust_loathing': 0.25, 'sadness': 0.445}"
+152,213,213,anger,"When my tennis match was interrupted because a kid cycled right á
+into the court.",3.0,"{'disgust_loathing': 0.009, 'admire': 0.027, 'sadness': 0.029, 'senerity': 0.038, 'anger': 0.058, 'fear': 0.062, 'anticipation': 0.082, 'boredom': 0.089, 'amazement_surprise': 0.091, 'distraction': 0.14, 'joy_ecstasy': 0.415}"
+153,214,214,sadness,[ No response.],4.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+154,215,215,disgust,[ No response.],5.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+155,218,218,joy,"Celebrations on the graduation day with the orchestra playing in á
+the garden ( I am a part of this orchestra).",1.0,"{'sadness': 0.007, 'senerity': 0.011, 'fear': 0.029, 'boredom': 0.029, 'admire': 0.031, 'distraction': 0.031, 'acceptance': 0.069, 'anger': 0.091, 'joy_ecstasy': 0.744}"
+156,219,219,fear,Risk of being involved in a fight after a party.,2.0,"{'disgust_loathing': 0.008, 'acceptance': 0.021, 'trust': 0.032, 'admire': 0.033, 'sadness': 0.045, 'distraction': 0.116, 'anticipation': 0.122, 'interest_vigilance': 0.139, 'senerity': 0.144, 'fear': 0.381}"
+157,220,220,anger,"I had a very heavy work load and two colleagues, whom I have á
+nothing against, disturbed me by ""terror ringing"", i.e á
+continously interrupting me by telephoning.",3.0,"{'admire': 0.006, 'joy_ecstasy': 0.029, 'distraction': 0.045, 'anticipation': 0.062, 'senerity': 0.074, 'disgust_loathing': 0.127, 'sadness': 0.147, 'interest_vigilance': 0.263, 'fear': 0.287}"
+158,221,221,sadness,After an exam which I failed.,4.0,"{'interest_vigilance': 0.014, 'fear': 0.033, 'distraction': 0.038, 'amazement_surprise': 0.04, 'anticipation': 0.051, 'acceptance': 0.082, 'disgust_loathing': 0.17, 'sadness': 0.236, 'boredom': 0.378}"
+159,222,222,disgust,[ Normally I do not feel disgusted.],5.0,"{'boredom': 0.015, 'anticipation': 0.033, 'trust': 0.055, 'senerity': 0.088, 'joy_ecstasy': 0.155, 'acceptance': 0.343, 'admire': 0.352}"
+160,225,225,joy,"When I met an old schhol friend (school love) who works in á
+Sk+vde.",1.0,"{'admire': 0.03, 'boredom': 0.035, 'amazement_surprise': 0.039, 'fear': 0.041, 'distraction': 0.073, 'disgust_loathing': 0.089, 'joy_ecstasy': 0.094, 'anticipation': 0.19, 'acceptance': 0.19, 'sadness': 0.26}"
+161,226,226,fear,"When I was cycling to school, I nearly got knocked down by a car á
+which (overtook me too closely) did not give me any swerving space.",2.0,"{'admire': 0.007, 'acceptance': 0.029, 'fear': 0.042, 'amazement_surprise': 0.111, 'distraction': 0.119, 'boredom': 0.126, 'sadness': 0.235, 'disgust_loathing': 0.371}"
+162,227,227,anger,"When I was deputy manager during the Summer, certain deputies á
+took liberties, more than what was normal.",3.0,"{'amazement_surprise': 0.002, 'trust': 0.018, 'interest_vigilance': 0.019, 'anticipation': 0.025, 'fear': 0.025, 'anger': 0.029, 'admire': 0.029, 'boredom': 0.08, 'senerity': 0.113, 'joy_ecstasy': 0.251, 'acceptance': 0.45}"
+163,228,228,sadness,"When I realized that my girlfriend, whom I like, and I were going á
+to separate.",4.0,"{'amazement_surprise': 0.003, 'senerity': 0.016, 'fear': 0.024, 'sadness': 0.033, 'boredom': 0.033, 'interest_vigilance': 0.039, 'anticipation': 0.067, 'trust': 0.09, 'joy_ecstasy': 0.125, 'admire': 0.158, 'acceptance': 0.452}"
+164,229,229,disgust,Dog dirt which thaws in the spring.,5.0,"{'admire': 0.002, 'anger': 0.01, 'distraction': 0.018, 'fear': 0.063, 'boredom': 0.13, 'disgust_loathing': 0.166, 'sadness': 0.652}"
+165,232,232,joy,Passed the last exam.,1.0,"{'senerity': 0.022, 'interest_vigilance': 0.033, 'trust': 0.065, 'amazement_surprise': 0.102, 'acceptance': 0.131, 'admire': 0.216, 'joy_ecstasy': 0.471}"
+166,233,233,fear,Was nearly knocked down by a car.,2.0,"{'joy_ecstasy': 0.01, 'interest_vigilance': 0.018, 'boredom': 0.022, 'anticipation': 0.023, 'acceptance': 0.03, 'amazement_surprise': 0.103, 'distraction': 0.124, 'sadness': 0.145, 'fear': 0.161, 'disgust_loathing': 0.405}"
+167,234,234,anger,"I reached the bus stop and realized that I had forgotten my bus á
+pass.",3.0,"{'senerity': 0.018, 'admire': 0.024, 'anticipation': 0.043, 'trust': 0.066, 'acceptance': 0.116, 'joy_ecstasy': 0.272, 'amazement_surprise': 0.502}"
+168,235,235,sadness,"My current work load is too much.  The feeling comes back from á
+time to time.",4.0,"{'senerity': 0.015, 'amazement_surprise': 0.032, 'fear': 0.035, 'interest_vigilance': 0.036, 'trust': 0.038, 'disgust_loathing': 0.041, 'anticipation': 0.053, 'anger': 0.056, 'joy_ecstasy': 0.077, 'acceptance': 0.198, 'sadness': 0.219, 'boredom': 0.242}"
+169,236,236,disgust,[ Can not think of any situation.],5.0,"{'trust': 0.013, 'anger': 0.024, 'admire': 0.033, 'amazement_surprise': 0.034, 'disgust_loathing': 0.073, 'sadness': 0.083, 'fear': 0.087, 'acceptance': 0.102, 'distraction': 0.154, 'boredom': 0.175, 'anticipation': 0.261}"
+170,239,239,joy,When my one year old son gives me a spontaneous kiss.,1.0,"{'amazement_surprise': 0.007, 'anger': 0.008, 'fear': 0.011, 'boredom': 0.024, 'disgust_loathing': 0.024, 'admire': 0.033, 'anticipation': 0.037, 'acceptance': 0.091, 'joy_ecstasy': 0.805}"
+171,240,240,fear,When someone close to me is travelling by car and is delayed.,2.0,"{'anger': 0.014, 'senerity': 0.018, 'boredom': 0.022, 'admire': 0.031, 'trust': 0.032, 'disgust_loathing': 0.047, 'amazement_surprise': 0.064, 'fear': 0.079, 'distraction': 0.09, 'acceptance': 0.118, 'anticipation': 0.263, 'interest_vigilance': 0.264}"
+172,241,241,anger,When someone does something wrong which affects me negatively.,3.0,"{'distraction': 0.02, 'trust': 0.024, 'joy_ecstasy': 0.025, 'senerity': 0.042, 'boredom': 0.082, 'disgust_loathing': 0.096, 'acceptance': 0.119, 'admire': 0.139, 'fear': 0.169, 'sadness': 0.324}"
+173,242,242,sadness,When I think about my parents getting old.,4.0,"{'trust': 0.008, 'acceptance': 0.009, 'senerity': 0.017, 'admire': 0.031, 'amazement_surprise': 0.037, 'distraction': 0.045, 'fear': 0.06, 'interest_vigilance': 0.07, 'disgust_loathing': 0.075, 'anticipation': 0.124, 'boredom': 0.228, 'sadness': 0.337}"
+174,243,243,disgust,[ Can not remember.],5.0,"{'anticipation': 0.024, 'anger': 0.037, 'amazement_surprise': 0.065, 'fear': 0.079, 'boredom': 0.168, 'distraction': 0.209, 'disgust_loathing': 0.22, 'sadness': 0.238}"
+175,246,246,joy,"An ex-colleague asked me if I was interested in working in their á
+accounts bureau.  They needed ""clever people"" and he had á
+""immediately thought of me.""",1.0,"{'distraction': 0.006, 'senerity': 0.007, 'boredom': 0.031, 'trust': 0.032, 'interest_vigilance': 0.05, 'admire': 0.082, 'anticipation': 0.095, 'anger': 0.095, 'acceptance': 0.149, 'joy_ecstasy': 0.238, 'amazement_surprise': 0.258}"
+176,247,247,fear,"I was driving and a deer suddenly appeared in front of the á
+car when there was a lot of traffic behind me.",2.0,"{'admire': 0.011, 'distraction': 0.019, 'trust': 0.038, 'acceptance': 0.054, 'joy_ecstasy': 0.066, 'interest_vigilance': 0.067, 'anticipation': 0.109, 'amazement_surprise': 0.677}"
+177,248,248,anger,I saw a report on T.V news on apartheid in South Africa.,3.0,"{'senerity': 0.006, 'acceptance': 0.019, 'interest_vigilance': 0.028, 'admire': 0.033, 'boredom': 0.036, 'sadness': 0.093, 'joy_ecstasy': 0.101, 'amazement_surprise': 0.109, 'distraction': 0.112, 'fear': 0.125, 'disgust_loathing': 0.126, 'anticipation': 0.255}"
+178,249,249,sadness,[ No response.],4.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+179,250,250,disgust,[ No response.],5.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+180,253,253,joy,When my girlfriend became pregnant.,1.0,"{'fear': 0.008, 'senerity': 0.013, 'trust': 0.014, 'distraction': 0.02, 'amazement_surprise': 0.026, 'admire': 0.028, 'acceptance': 0.058, 'sadness': 0.082, 'joy_ecstasy': 0.104, 'disgust_loathing': 0.215, 'interest_vigilance': 0.223, 'anticipation': 0.251}"
+181,254,254,fear,When I nearly collided with another car.,2.0,"{'interest_vigilance': 0.001, 'joy_ecstasy': 0.011, 'anticipation': 0.016, 'acceptance': 0.026, 'boredom': 0.069, 'sadness': 0.088, 'fear': 0.115, 'amazement_surprise': 0.115, 'distraction': 0.296, 'disgust_loathing': 0.304}"
+182,255,255,anger,The time when someone let the air out of the tyres of my cycle.,3.0,"{'fear': 0.008, 'boredom': 0.011, 'sadness': 0.018, 'trust': 0.02, 'disgust_loathing': 0.024, 'senerity': 0.028, 'distraction': 0.034, 'admire': 0.056, 'acceptance': 0.073, 'anticipation': 0.102, 'interest_vigilance': 0.109, 'amazement_surprise': 0.266, 'joy_ecstasy': 0.292}"
+183,256,256,sadness,When I read a lot and did not remember anything.,4.0,"{'admire': 0.011, 'sadness': 0.02, 'disgust_loathing': 0.025, 'amazement_surprise': 0.037, 'senerity': 0.044, 'interest_vigilance': 0.061, 'acceptance': 0.063, 'fear': 0.075, 'distraction': 0.197, 'anticipation': 0.23, 'boredom': 0.278}"
+184,257,257,disgust,[ No response.],5.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+185,260,260,joy,[ No response.],1.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+186,261,261,fear,[ No response.],2.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+187,262,262,anger,[ No response.],3.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+188,263,263,sadness,Long illness.,4.0,"{'joy_ecstasy': 0.008, 'anticipation': 0.019, 'senerity': 0.02, 'interest_vigilance': 0.031, 'boredom': 0.044, 'disgust_loathing': 0.36, 'sadness': 0.559}"
+189,264,264,joy,When I passed an exam.,1.0,"{'disgust_loathing': 0.008, 'senerity': 0.011, 'anger': 0.022, 'trust': 0.033, 'interest_vigilance': 0.076, 'acceptance': 0.104, 'admire': 0.117, 'anticipation': 0.162, 'amazement_surprise': 0.241, 'joy_ecstasy': 0.268}"
+190,265,265,fear,"When I was travelling by tram, I tripped and fell against the á
+door.  I thought that I was going to fall out.",2.0,"{'joy_ecstasy': 0.026, 'admire': 0.028, 'trust': 0.038, 'sadness': 0.042, 'interest_vigilance': 0.045, 'senerity': 0.064, 'acceptance': 0.067, 'disgust_loathing': 0.067, 'amazement_surprise': 0.102, 'fear': 0.141, 'anticipation': 0.171, 'distraction': 0.248}"
+191,266,266,anger,When I missed the tram after having run for it.,3.0,"{'anger': 0.011, 'acceptance': 0.015, 'joy_ecstasy': 0.019, 'senerity': 0.02, 'admire': 0.02, 'fear': 0.038, 'disgust_loathing': 0.056, 'interest_vigilance': 0.073, 'anticipation': 0.098, 'amazement_surprise': 0.099, 'sadness': 0.132, 'boredom': 0.196, 'distraction': 0.264}"
+192,267,267,sadness,The inability to read a book at college.,4.0,"{'senerity': 0.002, 'disgust_loathing': 0.289, 'sadness': 0.347, 'boredom': 0.402}"
+193,268,268,disgust,If a guy one is not interested in makes advances.,5.0,"{'anger': 0.002, 'distraction': 0.005, 'amazement_surprise': 0.025, 'admire': 0.039, 'fear': 0.04, 'disgust_loathing': 0.048, 'senerity': 0.067, 'acceptance': 0.159, 'boredom': 0.187, 'sadness': 0.195, 'anticipation': 0.273}"
+194,271,271,joy,"I worked at a lawyer's office during Summer and I got a very á
+good reference from him.",1.0,"{'boredom': 0.012, 'anger': 0.029, 'trust': 0.033, 'acceptance': 0.087, 'admire': 0.096, 'amazement_surprise': 0.347, 'joy_ecstasy': 0.437}"
+195,272,272,fear,"I had been watching a triller a dark night in the country and I á
+had to go the outside toilet on my own.",2.0,"{'distraction': 0.008, 'amazement_surprise': 0.015, 'admire': 0.031, 'fear': 0.041, 'acceptance': 0.045, 'anger': 0.061, 'joy_ecstasy': 0.103, 'disgust_loathing': 0.144, 'anticipation': 0.152, 'boredom': 0.194, 'sadness': 0.247}"
+196,273,273,anger,"When I am accused of something I have not done, I get unbelievably á
+angry.",3.0,"{'sadness': 0.179, 'boredom': 0.184, 'disgust_loathing': 0.233, 'anger': 0.445}"
+197,274,274,sadness,"When I began to read a thick book, which I had a limited time to á
+read.  Also when I have a lot of work to do and I cannot keep up.",4.0,"{'anger': 0.008, 'distraction': 0.021, 'acceptance': 0.029, 'fear': 0.03, 'senerity': 0.034, 'amazement_surprise': 0.042, 'anticipation': 0.055, 'disgust_loathing': 0.17, 'sadness': 0.285, 'boredom': 0.367}"
+198,275,275,disgust,Someone vomited on the street.,5.0,"{'anticipation': 0.012, 'boredom': 0.019, 'distraction': 0.02, 'fear': 0.022, 'sadness': 0.314, 'disgust_loathing': 0.654}"
+199,278,278,joy,When I was finally qualified for my profession.,1.0,"{'admire': 0.038, 'interest_vigilance': 0.039, 'trust': 0.059, 'senerity': 0.074, 'amazement_surprise': 0.082, 'acceptance': 0.281, 'joy_ecstasy': 0.468}"
+200,279,279,fear,Someone attacked me with a knife.,2.0,"{'boredom': 0.069, 'sadness': 0.083, 'fear': 0.12, 'disgust_loathing': 0.382, 'anger': 0.387}"
+201,280,280,anger,Someone drove into my car and then denied that it had happened.,3.0,"{'interest_vigilance': 0.003, 'boredom': 0.016, 'sadness': 0.021, 'senerity': 0.026, 'trust': 0.037, 'disgust_loathing': 0.05, 'amazement_surprise': 0.056, 'acceptance': 0.062, 'anger': 0.063, 'distraction': 0.075, 'anticipation': 0.313, 'fear': 0.318}"
+202,281,281,sadness,When I was told that my friend's wife had cancer.,4.0,"{'anticipation': 0.007, 'interest_vigilance': 0.02, 'acceptance': 0.024, 'fear': 0.033, 'amazement_surprise': 0.038, 'boredom': 0.091, 'disgust_loathing': 0.294, 'sadness': 0.533}"
+203,282,282,disgust,When I saw a dog which had been knocked down by a car.,5.0,"{'joy_ecstasy': 0.019, 'admire': 0.026, 'sadness': 0.037, 'acceptance': 0.043, 'interest_vigilance': 0.056, 'boredom': 0.064, 'fear': 0.086, 'anticipation': 0.131, 'disgust_loathing': 0.135, 'amazement_surprise': 0.217, 'distraction': 0.226}"
+204,285,285,joy,I stopped working (had a boring job).,1.0,"{'senerity': 0.008, 'disgust_loathing': 0.083, 'sadness': 0.229, 'boredom': 0.72}"
+205,286,286,fear,"I was going home by car late one night when it was cold, dark and á
+windy.  I became rather panicky on the way to my house.",2.0,"{'senerity': 0.003, 'trust': 0.004, 'boredom': 0.02, 'joy_ecstasy': 0.024, 'distraction': 0.032, 'anticipation': 0.035, 'sadness': 0.055, 'interest_vigilance': 0.113, 'disgust_loathing': 0.127, 'fear': 0.628}"
+206,287,287,anger,Quarrel in the family.,3.0,"{'acceptance': 0.024, 'senerity': 0.049, 'boredom': 0.142, 'fear': 0.146, 'anger': 0.176, 'sadness': 0.197, 'disgust_loathing': 0.307}"
+207,288,288,sadness,"When I am alone in a room with no contact with anyone - á
+loneliness drains me.",4.0,"{'disgust_loathing': 0.023, 'boredom': 0.312, 'sadness': 0.706}"
+208,289,289,disgust,When I was on holiday someone vomited in front of me.,5.0,"{'anger': 0.006, 'joy_ecstasy': 0.007, 'admire': 0.017, 'distraction': 0.03, 'anticipation': 0.036, 'boredom': 0.068, 'sadness': 0.254, 'disgust_loathing': 0.623}"
+209,292,292,joy,When I get a hug from someone I love.,1.0,"{'distraction': 0.004, 'boredom': 0.015, 'disgust_loathing': 0.019, 'anger': 0.022, 'admire': 0.026, 'trust': 0.031, 'acceptance': 0.115, 'anticipation': 0.131, 'sadness': 0.296, 'joy_ecstasy': 0.383}"
+210,293,293,fear,"I was driving very fast on a small road and I met an oncoming car á
+in a right handed bend.  The other driver was on his own side of á
+the road and I had to skid out of it to avoid a collision.  It á
+was dark.",2.0,"{'senerity': 0.01, 'sadness': 0.021, 'anticipation': 0.026, 'joy_ecstasy': 0.029, 'acceptance': 0.127, 'fear': 0.137, 'amazement_surprise': 0.137, 'disgust_loathing': 0.14, 'interest_vigilance': 0.197, 'distraction': 0.218}"
+211,294,294,anger,"My car had been towed away by the traffic police because it had á
+been wrongly parked.  However the sign had been put up only after á
+I had already parked.",3.0,"{'interest_vigilance': 0.013, 'senerity': 0.014, 'trust': 0.033, 'fear': 0.044, 'disgust_loathing': 0.051, 'amazement_surprise': 0.055, 'admire': 0.076, 'distraction': 0.102, 'sadness': 0.105, 'boredom': 0.116, 'acceptance': 0.122, 'anticipation': 0.309}"
+212,295,295,sadness,After an operation I had to stay in bed for a long time.,4.0,"{'admire': 0.004, 'disgust_loathing': 0.005, 'trust': 0.008, 'anger': 0.02, 'interest_vigilance': 0.025, 'boredom': 0.033, 'amazement_surprise': 0.034, 'anticipation': 0.038, 'sadness': 0.05, 'distraction': 0.057, 'acceptance': 0.058, 'senerity': 0.256, 'joy_ecstasy': 0.451}"
+213,296,296,disgust,"I was forced to stay in the canteen and eat the food that I had á
+not asked for but got it anyway.",5.0,"{'trust': 0.004, 'joy_ecstasy': 0.012, 'senerity': 0.019, 'fear': 0.02, 'disgust_loathing': 0.053, 'anger': 0.074, 'anticipation': 0.092, 'acceptance': 0.181, 'sadness': 0.267, 'boredom': 0.318}"
+214,299,299,joy,When I won an unexpected sum of money.,1.0,"{'fear': 0.018, 'boredom': 0.024, 'senerity': 0.033, 'disgust': 0.053, 'sadness': 0.243, 'anticipation': 0.669}"
+215,300,300,fear,"My 2 year old daughter disappeared in a moment of inattention; I á
+was responsible for her.",2.0,"{'fear': 0.002, 'anger': 0.012, 'admire': 0.025, 'senerity': 0.027, 'trust': 0.029, 'boredom': 0.033, 'interest_vigilance': 0.072, 'anticipation': 0.109, 'acceptance': 0.115, 'disgust_loathing': 0.198, 'sadness': 0.418}"
+216,301,301,anger,"A colleague asked me for some advice and as he did not have á
+enough confidence in me he asked a third person.",3.0,"{'distraction': 0.012, 'amazement_surprise': 0.02, 'senerity': 0.024, 'fear': 0.028, 'trust': 0.038, 'anger': 0.041, 'interest_vigilance': 0.045, 'anticipation': 0.056, 'disgust_loathing': 0.105, 'boredom': 0.172, 'sadness': 0.216, 'acceptance': 0.285}"
+217,302,302,sadness,"I wanted to be pregnant and did not succeed, so I was depressed    á
+at every menstruation.",4.0,"{'disgust_loathing': 0.016, 'anger': 0.019, 'amazement_surprise': 0.021, 'fear': 0.024, 'acceptance': 0.072, 'boredom': 0.197, 'sadness': 0.693}"
+218,303,303,disgust,"In a warm bus full of people, someone vomited and the whole bus á
+stank.",5.0,"{'admire': 0.01, 'anticipation': 0.016, 'acceptance': 0.018, 'distraction': 0.02, 'joy_ecstasy': 0.031, 'anger': 0.038, 'boredom': 0.204, 'sadness': 0.335, 'disgust_loathing': 0.369}"
+219,306,306,joy,"When I was at a party I met an old friend from an adult á
+education course.  We had not met for 2 years but had both thought á
+a lot about each other.  A wonderful experience.á",1.0,"{'admire': 0.009, 'acceptance': 0.031, 'anticipation': 0.034, 'amazement_surprise': 0.261, 'joy_ecstasy': 0.705}"
+220,307,307,fear,"When I was cycling through the park late one night, two people á
+jumped out of the woods and tried to stop me.  There were á
+shouting something at the same time.",2.0,"{'amazement_surprise': 0.001, 'admire': 0.003, 'interest_vigilance': 0.034, 'boredom': 0.038, 'anticipation': 0.048, 'anger': 0.083, 'fear': 0.148, 'sadness': 0.172, 'distraction': 0.182, 'disgust_loathing': 0.331}"
+221,308,308,anger,"When close relatives tried to dissuade me from studying á
+Psychology because of its low status.",3.0,"{'anticipation': 0.011, 'distraction': 0.012, 'senerity': 0.033, 'fear': 0.056, 'disgust_loathing': 0.141, 'boredom': 0.39, 'sadness': 0.397}"
+222,309,309,sadness,"I had a long discussion on politics with an acquaintance.  He á
+was more knowledgeable than me and I failed to explain my point á
+of view and was misunderstood so I felt depressed and left.",4.0,"{'disgust_loathing': 0.095, 'sadness': 0.426, 'boredom': 0.52}"
+223,310,310,disgust,"When I read a newspaper article on a young girl who had been á
+raped and assaulted one night by several men when she was unconscious.",5.0,"{'anticipation': 0.01, 'anger': 0.063, 'boredom': 0.079, 'sadness': 0.157, 'fear': 0.165, 'disgust_loathing': 0.567}"
+224,313,313,joy,When I recently got an appartment in central Gottenburg.,1.0,"{'amazement_surprise': 0.027, 'senerity': 0.029, 'admire': 0.036, 'boredom': 0.041, 'interest_vigilance': 0.046, 'trust': 0.069, 'anger': 0.091, 'joy_ecstasy': 0.091, 'disgust_loathing': 0.092, 'anticipation': 0.115, 'acceptance': 0.405}"
+225,314,314,fear,When I saw a large spider crawling up the wall.,2.0,"{'trust': 0.001, 'acceptance': 0.002, 'senerity': 0.006, 'boredom': 0.044, 'anger': 0.056, 'joy_ecstasy': 0.056, 'anticipation': 0.086, 'disgust_loathing': 0.149, 'distraction': 0.187, 'amazement_surprise': 0.204, 'fear': 0.251}"
+226,315,315,anger,"My employer took too many aspirins for a bad back and also drank á
+an enormous amount of spirit.  This was dangerous  and he did á
+not understand that he had done anything wrong.",3.0,"{'admire': 0.003, 'boredom': 0.005, 'anticipation': 0.013, 'trust': 0.021, 'senerity': 0.025, 'anger': 0.042, 'disgust_loathing': 0.061, 'sadness': 0.098, 'interest_vigilance': 0.114, 'distraction': 0.137, 'fear': 0.521}"
+227,316,316,sadness,"When I left New York, and all my family and my friends behind me.",4.0,"{'admire': 0.011, 'distraction': 0.016, 'amazement_surprise': 0.038, 'joy_ecstasy': 0.044, 'acceptance': 0.054, 'senerity': 0.074, 'disgust_loathing': 0.079, 'boredom': 0.106, 'anticipation': 0.175, 'interest_vigilance': 0.197, 'sadness': 0.247}"
+228,317,317,disgust,"When I slept with a guy because my best friend wanted me to.  á
+He had never had intercourse with anyone and had a terrible á
+complex about it.",5.0,"{'trust': 0.008, 'distraction': 0.011, 'interest_vigilance': 0.015, 'senerity': 0.02, 'joy_ecstasy': 0.033, 'fear': 0.038, 'anticipation': 0.064, 'anger': 0.072, 'disgust_loathing': 0.075, 'boredom': 0.139, 'acceptance': 0.142, 'sadness': 0.424}"
+229,320,320,joy,"When my son returned from mountaineering - healthy in body and á
+soul.",1.0,"{'trust': 0.01, 'distraction': 0.013, 'disgust_loathing': 0.027, 'interest_vigilance': 0.034, 'anger': 0.064, 'boredom': 0.07, 'senerity': 0.088, 'joy_ecstasy': 0.32, 'acceptance': 0.414}"
+230,321,321,fear,"When one meets new people with whom one is forced to collaborate á
+with.",2.0,"{'sadness': 0.004, 'fear': 0.024, 'interest_vigilance': 0.026, 'amazement_surprise': 0.045, 'admire': 0.047, 'trust': 0.048, 'joy_ecstasy': 0.052, 'disgust_loathing': 0.076, 'anger': 0.078, 'boredom': 0.096, 'anticipation': 0.198, 'acceptance': 0.348}"
+231,322,322,anger,"The sports fishermen who catch gulls instead of fish with their hooks. á
+  It is often a mistake but it makes me angry.",3.0,"{'sadness': 0.028, 'boredom': 0.158, 'disgust_loathing': 0.257, 'anger': 0.598}"
+232,323,323,sadness,I feel sad about an event I can not influence.,4.0,"{'disgust_loathing': 0.009, 'anger': 0.037, 'boredom': 0.183, 'sadness': 0.812}"
+233,324,324,disgust,"When a member of the family complains about the food that is á
+served, it disgusts me.",5.0,"{'fear': 0.038, 'anger': 0.081, 'sadness': 0.264, 'boredom': 0.313, 'disgust_loathing': 0.345}"
+234,327,327,joy,"When I was informed that I had been accepted as a student of á
+Psychology.",1.0,"{'senerity': 0.005, 'interest_vigilance': 0.006, 'disgust_loathing': 0.011, 'anticipation': 0.017, 'boredom': 0.066, 'admire': 0.078, 'trust': 0.083, 'joy_ecstasy': 0.085, 'amazement_surprise': 0.096, 'acceptance': 0.594}"
+235,328,328,fear,"When I was in a little fishing boat and we ran into hard weather á
+in the open sea.",2.0,"{'interest_vigilance': 0.004, 'fear': 0.035, 'distraction': 0.046, 'boredom': 0.047, 'amazement_surprise': 0.058, 'disgust_loathing': 0.413, 'sadness': 0.438}"
+236,329,329,anger,"When I found out that the guy I was dating at a particular time á
+had a steady relationship going on with someone else for a long á
+time.",3.0,"{'amazement_surprise': 0.006, 'interest_vigilance': 0.023, 'admire': 0.035, 'senerity': 0.06, 'trust': 0.106, 'acceptance': 0.321, 'joy_ecstasy': 0.491}"
+237,330,330,sadness,I felt sad and depressed when I heard that our cat had died.,4.0,"{'disgust_loathing': 0.025, 'boredom': 0.247, 'sadness': 0.768}"
+238,331,331,disgust,"When I was working as a nurse in a mental hospital, a patient ate á
+up the contents of another patient's spitoon.",5.0,"{'fear': 0.011, 'joy_ecstasy': 0.013, 'senerity': 0.015, 'amazement_surprise': 0.024, 'distraction': 0.03, 'admire': 0.039, 'boredom': 0.053, 'anger': 0.062, 'acceptance': 0.088, 'interest_vigilance': 0.145, 'anticipation': 0.154, 'sadness': 0.167, 'disgust_loathing': 0.239}"
+239,334,334,joy,When I was acceptted as a student of psychology.,1.0,"{'anger': 0.022, 'disgust_loathing': 0.029, 'interest_vigilance': 0.032, 'joy_ecstasy': 0.054, 'trust': 0.056, 'boredom': 0.068, 'admire': 0.083, 'anticipation': 0.094, 'acceptance': 0.603}"
+240,335,335,fear,When my son has a pain in his leg (for no apparent reason).,2.0,"{'amazement_surprise': 0.012, 'joy_ecstasy': 0.015, 'interest_vigilance': 0.021, 'acceptance': 0.024, 'distraction': 0.041, 'boredom': 0.112, 'disgust_loathing': 0.206, 'sadness': 0.61}"
+241,336,336,anger,"When, after a week at school, a teacher sent a note home saying á
+that my son was inattentive and unable to do his lessons.",3.0,"{'fear': 0.011, 'senerity': 0.021, 'anticipation': 0.073, 'disgust_loathing': 0.159, 'boredom': 0.38, 'sadness': 0.396}"
+242,337,337,sadness,"When I thought that it was going to be impossible for me to start á
+studying (due to wrong information from the student advisor).",4.0,"{'boredom': 0.007, 'trust': 0.012, 'joy_ecstasy': 0.013, 'amazement_surprise': 0.02, 'anger': 0.024, 'senerity': 0.026, 'disgust_loathing': 0.037, 'distraction': 0.039, 'admire': 0.055, 'sadness': 0.085, 'interest_vigilance': 0.1, 'acceptance': 0.272, 'anticipation': 0.353}"
+243,338,338,disgust,"At a certain person's lack of cleanliness, at home and á
+personally.",5.0,"{'boredom': 0.02, 'sadness': 0.024, 'joy_ecstasy': 0.025, 'senerity': 0.05, 'trust': 0.055, 'interest_vigilance': 0.06, 'admire': 0.242, 'acceptance': 0.566}"
+244,341,341,joy,When my son was born.,1.0,"{'boredom': 0.002, 'sadness': 0.007, 'disgust_loathing': 0.007, 'amazement_surprise': 0.017, 'admire': 0.021, 'senerity': 0.024, 'trust': 0.059, 'acceptance': 0.158, 'joy_ecstasy': 0.228, 'interest_vigilance': 0.253, 'anticipation': 0.264}"
+245,342,342,fear,"When I nearly drowned in icy water wearing ice skates.  It was á
+difficult to get out.",2.0,"{'boredom': 0.008, 'amazement_surprise': 0.029, 'fear': 0.031, 'interest_vigilance': 0.036, 'distraction': 0.045, 'sadness': 0.406, 'disgust_loathing': 0.487}"
+246,343,343,anger,"When I was pointed out as a problem child in primary school and á
+my mother took the teacher's point of view.",3.0,"{'anger': 0.001, 'trust': 0.018, 'joy_ecstasy': 0.018, 'anticipation': 0.021, 'acceptance': 0.026, 'disgust_loathing': 0.178, 'boredom': 0.231, 'sadness': 0.548}"
+247,344,344,sadness,When I was accused of neglecting work for the wrong reasons.,4.0,"{'distraction': 0.01, 'admire': 0.054, 'anger': 0.081, 'disgust_loathing': 0.094, 'anticipation': 0.118, 'acceptance': 0.145, 'boredom': 0.162, 'sadness': 0.378}"
+248,345,345,disgust,"My parents attitude towards each other when they should become á
+reconciled, despite my father's long-time addiction.",5.0,"{'trust': 0.026, 'anger': 0.062, 'disgust_loathing': 0.097, 'boredom': 0.209, 'acceptance': 0.318, 'sadness': 0.328}"
+249,348,348,joy,"When after 10 months of national service I was ""downgraded"" and á
+did not have to do the remaining 5 months.",1.0,"{'senerity': 0.026, 'amazement_surprise': 0.031, 'distraction': 0.033, 'anticipation': 0.038, 'acceptance': 0.052, 'fear': 0.069, 'sadness': 0.207, 'disgust_loathing': 0.264, 'boredom': 0.322}"
+250,349,349,fear,"When I was reprimanded by the manager of the hotel where I á
+worked during Autumn 1984.",2.0,"{'fear': 0.016, 'boredom': 0.15, 'disgust_loathing': 0.195, 'anger': 0.242, 'sadness': 0.437}"
+251,350,350,anger,"When my parents drove me to a nearby place and went home á
+immediately instead of waiting a few hours.  They could have á
+easily waited.",3.0,"{'distraction': 0.004, 'fear': 0.008, 'amazement_surprise': 0.014, 'senerity': 0.02, 'interest_vigilance': 0.029, 'disgust_loathing': 0.031, 'trust': 0.057, 'boredom': 0.084, 'anger': 0.109, 'joy_ecstasy': 0.122, 'anticipation': 0.186, 'acceptance': 0.376}"
+252,351,351,sadness,"When my ex-girlfriend and I discovered that there was a certain risk á
+of her being pregnant.",4.0,"{'fear': 0.002, 'senerity': 0.016, 'sadness': 0.023, 'admire': 0.042, 'joy_ecstasy': 0.047, 'trust': 0.06, 'interest_vigilance': 0.087, 'amazement_surprise': 0.133, 'acceptance': 0.278, 'anticipation': 0.351}"
+253,352,352,disgust,"When I was about to clean the draining board and saw it looked á
+underneath the sink (I live in a students hostel).",5.0,"{'anger': 0.001, 'trust': 0.032, 'senerity': 0.032, 'admire': 0.051, 'boredom': 0.056, 'interest_vigilance': 0.083, 'joy_ecstasy': 0.088, 'amazement_surprise': 0.148, 'anticipation': 0.274, 'acceptance': 0.276}"
+254,355,355,joy,"When my older sister told us that she was thinking of joining the á
+rest of the family for the winter sports holiday.",1.0,"{'interest_vigilance': 0.013, 'anticipation': 0.015, 'disgust_loathing': 0.039, 'boredom': 0.052, 'sadness': 0.07, 'fear': 0.072, 'amazement_surprise': 0.078, 'anger': 0.082, 'distraction': 0.108, 'acceptance': 0.185, 'joy_ecstasy': 0.327}"
+255,356,356,fear,"Slept in a chapel and in the middle of the night I realized that á
+there was someeone else in the chapel.  I never discovered who á
+it was and why he was there.",2.0,"{'sadness': 0.007, 'admire': 0.024, 'boredom': 0.024, 'trust': 0.038, 'joy_ecstasy': 0.038, 'senerity': 0.062, 'interest_vigilance': 0.074, 'distraction': 0.109, 'anticipation': 0.208, 'amazement_surprise': 0.208, 'acceptance': 0.247}"
+256,357,357,anger,"When we were in high school a few guys sometimes provoked a á
+friend of mine.  They called her a pig and then grunted.  This á
+irritated most of the girls.  Once, one of the girls got angry at á
+my friend and said something nasty and this made me terribly á
+angry.",3.0,"{'sadness': 0.02, 'boredom': 0.282, 'disgust_loathing': 0.312, 'anger': 0.427}"
+257,358,358,sadness,"I talked to my boyfriend on the phone when I was in high spirits á
+and had a lot to tell him.  I had been looking forward to this á
+conversation and he did not listen to me to the extent that I á
+had anticipated.",4.0,"{'distraction': 0.009, 'disgust_loathing': 0.026, 'joy_ecstasy': 0.032, 'trust': 0.033, 'sadness': 0.047, 'fear': 0.053, 'boredom': 0.054, 'anger': 0.055, 'amazement_surprise': 0.064, 'interest_vigilance': 0.102, 'anticipation': 0.173, 'acceptance': 0.393}"
+258,359,359,disgust,A mother who shouts at her child for nothing.,5.0,"{'anticipation': 0.002, 'fear': 0.04, 'boredom': 0.114, 'disgust_loathing': 0.275, 'anger': 0.278, 'sadness': 0.332}"
+259,362,362,joy,When I got through the first day here at the department.,1.0,"{'disgust_loathing': 0.003, 'anger': 0.029, 'senerity': 0.033, 'trust': 0.042, 'boredom': 0.05, 'interest_vigilance': 0.085, 'anticipation': 0.128, 'acceptance': 0.149, 'joy_ecstasy': 0.247, 'amazement_surprise': 0.276}"
+260,363,363,fear,"When I was cycling past a parked car someone opened the door and á
+nearly pushed me off my bike and into the traffic.",2.0,"{'interest_vigilance': 0.007, 'anger': 0.02, 'joy_ecstasy': 0.024, 'acceptance': 0.031, 'amazement_surprise': 0.082, 'boredom': 0.09, 'fear': 0.091, 'sadness': 0.188, 'distraction': 0.221, 'disgust_loathing': 0.287}"
+261,364,364,anger,"When my boyfriend sat up half the night playing computer games á
+with a friend.",3.0,"{'fear': 0.007, 'anger': 0.011, 'admire': 0.014, 'amazement_surprise': 0.046, 'senerity': 0.057, 'anticipation': 0.091, 'sadness': 0.091, 'boredom': 0.113, 'distraction': 0.176, 'joy_ecstasy': 0.436}"
+262,365,365,sadness,When I had to leave my mother and my sister after a week's visit.,4.0,"{'senerity': 0.004, 'admire': 0.017, 'fear': 0.032, 'trust': 0.037, 'joy_ecstasy': 0.049, 'amazement_surprise': 0.059, 'disgust_loathing': 0.072, 'boredom': 0.076, 'anticipation': 0.078, 'interest_vigilance': 0.106, 'acceptance': 0.152, 'sadness': 0.36}"
+263,366,366,disgust,When I saw a big spider from very close.,5.0,"{'disgust_loathing': 0.011, 'interest_vigilance': 0.029, 'senerity': 0.032, 'fear': 0.034, 'anger': 0.035, 'distraction': 0.036, 'boredom': 0.039, 'acceptance': 0.061, 'trust': 0.063, 'anticipation': 0.104, 'joy_ecstasy': 0.158, 'amazement_surprise': 0.438}"
+264,369,369,joy,When i was asked to be a child's godmother.,1.0,"{'amazement_surprise': 0.001, 'disgust_loathing': 0.017, 'senerity': 0.021, 'boredom': 0.03, 'interest_vigilance': 0.037, 'trust': 0.04, 'fear': 0.041, 'sadness': 0.044, 'anger': 0.057, 'anticipation': 0.109, 'acceptance': 0.207, 'joy_ecstasy': 0.438}"
+265,370,370,fear,On the way down a ski slope which was difficult and steep.,2.0,"{'trust': 0.007, 'anger': 0.011, 'amazement_surprise': 0.016, 'admire': 0.021, 'fear': 0.048, 'boredom': 0.051, 'interest_vigilance': 0.069, 'acceptance': 0.082, 'anticipation': 0.093, 'joy_ecstasy': 0.132, 'distraction': 0.146, 'sadness': 0.153, 'disgust_loathing': 0.211}"
+266,371,371,anger,When my mother interfered in my life.,3.0,"{'boredom': 0.131, 'disgust_loathing': 0.299, 'sadness': 0.611}"
+267,372,372,sadness,"When I was left alone one week-end without being prepared for á
+it.",4.0,"{'fear': 0.012, 'amazement_surprise': 0.059, 'distraction': 0.07, 'disgust_loathing': 0.185, 'sadness': 0.332, 'boredom': 0.382}"
+268,373,373,disgust,"The first time that I saw a surgeon cut off a leg and put it in a á
+black rubbish bag.",5.0,"{'amazement_surprise': 0.019, 'fear': 0.023, 'admire': 0.026, 'joy_ecstasy': 0.038, 'trust': 0.041, 'senerity': 0.042, 'sadness': 0.049, 'distraction': 0.051, 'anger': 0.055, 'interest_vigilance': 0.07, 'disgust_loathing': 0.12, 'boredom': 0.131, 'anticipation': 0.147, 'acceptance': 0.229}"
+269,376,376,joy,"When my husband suddenly came to see me at my new job and á
+brought some flowers and cake with him.",1.0,"{'boredom': 0.002, 'trust': 0.005, 'anger': 0.007, 'interest_vigilance': 0.007, 'admire': 0.016, 'senerity': 0.024, 'anticipation': 0.034, 'acceptance': 0.167, 'joy_ecstasy': 0.78}"
+270,377,377,fear,When I was nearly attackad by a man who had been chasing me.,2.0,"{'trust': 0.004, 'anticipation': 0.031, 'senerity': 0.032, 'disgust_loathing': 0.036, 'amazement_surprise': 0.094, 'joy_ecstasy': 0.109, 'interest_vigilance': 0.226, 'distraction': 0.245, 'fear': 0.264}"
+271,378,378,anger,"When my father asked me if I was a communist, at the same time he á
+made it clear that I should no longer see myself as his daughter.",3.0,"{'trust': 0.01, 'distraction': 0.029, 'boredom': 0.045, 'interest_vigilance': 0.109, 'surprise': 0.126, 'joy': 0.257, 'disgust': 0.46499999999999997}"
+272,379,379,sadness,"When I applied for a job which I thought I had a good chance of á
+getting, I was not even granted an interview and did not get the á
+job.",4.0,"{'trust': 0.013, 'distraction': 0.025, 'anticipation': 0.061, 'amazement_surprise': 0.07, 'fear': 0.085, 'anger': 0.091, 'disgust_loathing': 0.095, 'acceptance': 0.127, 'boredom': 0.189, 'sadness': 0.283}"
+273,380,380,disgust,T.V features showing the violation of defenceless people.,5.0,"{'interest_vigilance': 0.029, 'joy_ecstasy': 0.033, 'senerity': 0.049, 'admire': 0.05, 'trust': 0.052, 'fear': 0.06, 'anticipation': 0.353, 'acceptance': 0.413}"
+274,383,383,joy,"When we were able to afford a new sofa - a leather one which cost á
+SEK 20000.  I had waited for it for 2-3 years.",1.0,"{'admire': 0.004, 'interest_vigilance': 0.024, 'anger': 0.035, 'trust': 0.045, 'boredom': 0.051, 'anticipation': 0.104, 'distraction': 0.12, 'amazement_surprise': 0.13, 'joy_ecstasy': 0.157, 'acceptance': 0.371}"
+275,384,384,fear,Vertigo - standing on a ladder and painting the house.,2.0,"{'disgust_loathing': 0.006, 'trust': 0.024, 'interest_vigilance': 0.024, 'distraction': 0.033, 'sadness': 0.036, 'acceptance': 0.042, 'fear': 0.048, 'boredom': 0.048, 'admire': 0.061, 'joy_ecstasy': 0.196, 'anticipation': 0.203, 'amazement_surprise': 0.321}"
+276,385,385,anger,"When my boss enrolled in a course to satisfy his own ends - to á
+trample on his associates.  I have the misfortune to have one of á
+my superiors in my course.",3.0,"{'amazement_surprise': 0.04, 'acceptance': 0.041, 'distraction': 0.041, 'anticipation': 0.044, 'interest_vigilance': 0.052, 'anger': 0.105, 'fear': 0.168, 'boredom': 0.171, 'sadness': 0.188, 'disgust_loathing': 0.19}"
+277,386,386,sadness,"When I argue with my mother about the way she treats her two á
+children differently.",4.0,"{'anger': 0.089, 'disgust_loathing': 0.167, 'boredom': 0.334, 'sadness': 0.451}"
+278,387,387,disgust,Spit and vomit.,5.0,"{'admire': 0.021, 'distraction': 0.024, 'anticipation': 0.036, 'fear': 0.041, 'boredom': 0.046, 'anger': 0.123, 'sadness': 0.242, 'disgust_loathing': 0.509}"
+279,390,390,joy,"When I recently managed to get my first consulting assignment á
+""myself"" i.e on my own initiative.",1.0,"{'anticipation': 0.002, 'amazement_surprise': 0.008, 'senerity': 0.02, 'disgust_loathing': 0.022, 'admire': 0.023, 'trust': 0.03, 'interest_vigilance': 0.033, 'boredom': 0.072, 'anger': 0.074, 'joy_ecstasy': 0.294, 'acceptance': 0.461}"
+280,391,391,fear,"I was within a hair's breadth of knocking down a drunkard who á
+suddenly ran into the street.  The fear came later when I     á
+realized what could have happened.",2.0,"{'amazement_surprise': 0.002, 'acceptance': 0.005, 'trust': 0.019, 'disgust_loathing': 0.023, 'anger': 0.067, 'distraction': 0.091, 'anticipation': 0.096, 'interest_vigilance': 0.118, 'fear': 0.622}"
+281,392,392,anger,"When my friend, as usual, forgot the tickets at home for a á
+performance.  We missed it.",3.0,"{'anticipation': 0.02, 'senerity': 0.034, 'fear': 0.039, 'acceptance': 0.039, 'disgust_loathing': 0.073, 'amazement_surprise': 0.078, 'sadness': 0.149, 'distraction': 0.174, 'boredom': 0.433}"
+282,393,393,sadness,"The elections of 1982 and 1985.  The thought of what a social á
+democrat and communist majority could achieve, especially ""worker á
+share"" funds and its extension.",4.0,"{'amazement_surprise': 0.001, 'disgust_loathing': 0.016, 'interest_vigilance': 0.029, 'anticipation': 0.039, 'boredom': 0.049, 'anger': 0.051, 'admire': 0.051, 'trust': 0.06, 'senerity': 0.1, 'joy_ecstasy': 0.131, 'acceptance': 0.513}"
+283,394,394,disgust,"A study visit to a chicken factory : the butchery, the smell, á
+the environment and the noise.",5.0,"{'distraction': 0.006, 'senerity': 0.016, 'trust': 0.025, 'admire': 0.038, 'anger': 0.039, 'sadness': 0.046, 'amazement_surprise': 0.058, 'fear': 0.066, 'boredom': 0.069, 'disgust_loathing': 0.073, 'acceptance': 0.093, 'joy_ecstasy': 0.131, 'interest_vigilance': 0.176, 'anticipation': 0.204}"
+284,397,397,joy,"When I was appointed to position of trust in a group set up to á
+change the working environment.",1.0,"{'anticipation': 0.03, 'interest_vigilance': 0.038, 'boredom': 0.04, 'admire': 0.056, 'trust': 0.136, 'joy_ecstasy': 0.216, 'acceptance': 0.525}"
+285,398,398,fear,"I was alone in a cottage I often stay in.  I was woken up by a á
+rustling sound in the middle of the night.",2.0,"{'anticipation': 0.004, 'amazement_surprise': 0.033, 'anger': 0.037, 'joy_ecstasy': 0.047, 'disgust_loathing': 0.052, 'fear': 0.058, 'interest_vigilance': 0.066, 'distraction': 0.1, 'senerity': 0.101, 'boredom': 0.122, 'sadness': 0.42}"
+286,399,399,anger,"When I tried to explain to a plumber, face to face, that the á
+toilet was broken and he did not believe it (it had been mended á
+ten times).",3.0,"{'acceptance': 0.006, 'admire': 0.024, 'fear': 0.04, 'amazement_surprise': 0.047, 'anticipation': 0.099, 'disgust_loathing': 0.132, 'distraction': 0.174, 'sadness': 0.25, 'boredom': 0.269}"
+287,400,400,sadness,"When the result of a project work was treated nonchalantly á
+intead of being criticized by the teacher.",4.0,"{'admire': 0.027, 'anticipation': 0.06, 'acceptance': 0.067, 'anger': 0.114, 'disgust_loathing': 0.127, 'boredom': 0.279, 'sadness': 0.366}"
+288,401,401,disgust,When programmes on violence or pornography are shown on T.V.,5.0,"{'trust': 0.016, 'sadness': 0.025, 'amazement_surprise': 0.037, 'admire': 0.04, 'interest_vigilance': 0.067, 'distraction': 0.073, 'acceptance': 0.074, 'disgust_loathing': 0.087, 'joy_ecstasy': 0.096, 'senerity': 0.1, 'fear': 0.12, 'anticipation': 0.304}"
+289,404,404,joy,"After my girl and I talked things over our relationship changed á
+and became positive.  A diificult time turned into pleasant one.",1.0,"{'anger': 0.002, 'interest_vigilance': 0.005, 'admire': 0.033, 'trust': 0.037, 'acceptance': 0.091, 'senerity': 0.162, 'joy_ecstasy': 0.711}"
+290,405,405,fear,"When we could not land our plane and we knew that the fuel was á
+running out.  Bad weather had already frightened us.",2.0,"{'trust': 0.007, 'anticipation': 0.03, 'joy_ecstasy': 0.033, 'distraction': 0.033, 'sadness': 0.075, 'disgust_loathing': 0.101, 'interest_vigilance': 0.206, 'fear': 0.555}"
+291,406,406,anger,"When I read about Reagan's tactical decision concerning the á
+South African boycott.",3.0,"{'sadness': 0.007, 'interest_vigilance': 0.02, 'distraction': 0.021, 'senerity': 0.039, 'boredom': 0.045, 'anger': 0.063, 'amazement_surprise': 0.063, 'joy_ecstasy': 0.077, 'fear': 0.078, 'disgust_loathing': 0.081, 'admire': 0.084, 'anticipation': 0.171, 'acceptance': 0.292}"
+292,407,407,sadness,"When my half brother became seriously ill with cancer and died á
+later.",4.0,"{'amazement_surprise': 0.003, 'anger': 0.025, 'boredom': 0.064, 'disgust_loathing': 0.389, 'sadness': 0.56}"
+293,408,408,disgust,"A film were a woman was attacked and raped.  One did not see the á
+worst but it had the desired effect - very strong.",5.0,"{'anticipation': 0.005, 'amazement_surprise': 0.023, 'acceptance': 0.035, 'boredom': 0.051, 'fear': 0.067, 'joy_ecstasy': 0.102, 'anger': 0.18, 'sadness': 0.195, 'disgust_loathing': 0.382}"
+294,411,411,joy,"When I was offered a high position of trust, which I later á
+accepted.",1.0,"{'amazement_surprise': 0.002, 'senerity': 0.007, 'interest_vigilance': 0.014, 'anger': 0.015, 'boredom': 0.041, 'trust': 0.065, 'admire': 0.082, 'joy_ecstasy': 0.083, 'acceptance': 0.732}"
+295,412,412,fear,"I had the window open and the door was shut so that the kitten á
+would not go out.  My partner came in and started talking about á
+something and I forgot about the window and suddenly I saw the á
+kitten hanging from the window frame. I was rigid with fright á
+till I got hold of her.",2.0,"{'admire': 0.011, 'anger': 0.015, 'amazement_surprise': 0.02, 'senerity': 0.034, 'joy_ecstasy': 0.035, 'fear': 0.058, 'trust': 0.073, 'acceptance': 0.099, 'disgust_loathing': 0.1, 'distraction': 0.159, 'interest_vigilance': 0.162, 'anticipation': 0.276}"
+296,413,413,anger,"Some noisy guests arrived at the hotel.  I had been slightly á
+irritated earlier.  At night when I was trying to sleep they were á
+having a party so I went and yelled at them.  I wanted to sleep á
+as I had to get up early the next day.",3.0,"{'trust': 0.001, 'acceptance': 0.002, 'disgust_loathing': 0.008, 'senerity': 0.032, 'fear': 0.04, 'admire': 0.071, 'anger': 0.09, 'sadness': 0.113, 'boredom': 0.132, 'anticipation': 0.16, 'joy_ecstasy': 0.393}"
+297,414,414,sadness,"When I was told that I had not been successful in getting the job I á
+had been expecting.  I was sure that I was sufficiently á
+qualified.",4.0,"{'anger': 0.011, 'boredom': 0.011, 'interest_vigilance': 0.017, 'distraction': 0.019, 'anticipation': 0.049, 'amazement_surprise': 0.133, 'trust': 0.15, 'senerity': 0.15, 'joy_ecstasy': 0.154, 'acceptance': 0.346}"
+298,415,415,disgust,"When my cat vomited and a worm came out which was still alive.  I á
+was forced to wipe it up.",5.0,"{'acceptance': 0.025, 'joy_ecstasy': 0.035, 'anger': 0.038, 'boredom': 0.1, 'disgust_loathing': 0.36, 'sadness': 0.482}"
+299,418,418,joy,"[ Cycling in the spring sunshine gives me such delight.  á
+Happiness is to be healthy, my wonderful finance.  Simply being á
+here on earth.]",1.0,"{'amazement_surprise': 0.007, 'trust': 0.01, 'senerity': 0.013, 'joy_ecstasy': 1.011}"
+300,419,419,fear,"When my relationship with my family is very poor I often fear á
+being excluded from the group, a fear which is stronger in á
+situations when an argument is on hand.",2.0,"{'trust': 0.008, 'boredom': 0.016, 'joy_ecstasy': 0.036, 'disgust_loathing': 0.041, 'sadness': 0.054, 'distraction': 0.059, 'interest_vigilance': 0.129, 'fear': 0.698}"
+301,420,420,anger,"Recently when my sister, who is four years younger than me and á
+very spoiled, shouted at my mother for no apparent reason .  The á
+heart-broken expression on my mother's face made me feel very á
+angry.",3.0,"{'fear': 0.005, 'disgust_loathing': 0.272, 'boredom': 0.287, 'sadness': 0.478}"
+302,421,421,sadness,"When I watched the T.V programme called ""The living planet"" and á
+saw the far reaching environmental destruction caused by man.",4.0,"{'disgust_loathing': 0.006, 'fear': 0.026, 'boredom': 0.03, 'distraction': 0.037, 'anticipation': 0.076, 'joy_ecstasy': 0.188, 'amazement_surprise': 0.678}"
+303,422,422,disgust,"Disgust is a feeling that I have never experienced with peoplie á
+but , on the other hand, it has been with repulsive animals, i;e á
+snakes on T.V.",5.0,"{'admire': 0.007, 'acceptance': 0.024, 'fear': 0.027, 'sadness': 0.105, 'boredom': 0.196, 'anger': 0.337, 'disgust_loathing': 0.344}"
+304,425,425,joy,"On a boat trip to Denmark, 14 of us had a lot of fun and we á
+spent SEK 10 each on one armed bandits and against all odds we á
+won the jackpot of SEK 1000.",1.0,"{'admire': 0.035, 'amazement_surprise': 0.042, 'joy_ecstasy': 0.963}"
+305,426,426,fear,"A rainy day, I was cycling downhill and a car door suddenly á
+opened and while trying to avoid it the back wheels of my bike á
+got caught in the tram tracks.  I somersaulted but had no á
+injuries.",2.0,"{'senerity': 0.003, 'boredom': 0.009, 'acceptance': 0.042, 'fear': 0.043, 'joy_ecstasy': 0.073, 'amazement_surprise': 0.118, 'sadness': 0.225, 'distraction': 0.229, 'disgust_loathing': 0.296}"
+306,427,427,anger,"On the way home from Marstrand I was driving behind my father's á
+car.  Another car tried to push in front of my father and he was á
+forced to swerve and he thus collided the car with a pillar.  The á
+other car drove off without even seeing what had happened.",3.0,"{'acceptance': 0.002, 'admire': 0.024, 'interest_vigilance': 0.04, 'anticipation': 0.087, 'fear': 0.087, 'amazement_surprise': 0.1, 'sadness': 0.199, 'distraction': 0.237, 'disgust_loathing': 0.264}"
+307,428,428,sadness,"My girlfriend who had spent 6 months abroad broke off our á
+relationship by letter.",4.0,"{'fear': 0.01, 'senerity': 0.013, 'acceptance': 0.037, 'disgust_loathing': 0.1, 'boredom': 0.277, 'sadness': 0.605}"
+308,429,429,disgust,"At the police centre a man between 40-50 was brought in.  He was á
+very drunk and in all likelihood had not slept indoors for a long á
+time and had relieved himself in his trousers.",5.0,"{'amazement_surprise': 0.002, 'distraction': 0.002, 'sadness': 0.025, 'admire': 0.034, 'trust': 0.036, 'acceptance': 0.047, 'disgust_loathing': 0.052, 'interest_vigilance': 0.068, 'fear': 0.072, 'joy_ecstasy': 0.114, 'senerity': 0.263, 'anticipation': 0.325}"
+309,432,432,joy,"When I was at the end-of-term party last week and had fun - was á
+happy and sang and drank only soft drinks.  It is possible to á
+have a good time without alcohol.",1.0,"{'anticipation': 0.011, 'acceptance': 0.013, 'senerity': 0.014, 'admire': 0.014, 'distraction': 0.019, 'sadness': 0.027, 'joy_ecstasy': 0.944}"
+310,433,433,fear,"Last Summer I was walking along the beach in a bikini and an á
+awful man came cycling after me.  He was shouting and I ran as á
+fast as my legs could carry me.",2.0,"{'fear': 0.038, 'anger': 0.048, 'boredom': 0.076, 'sadness': 0.398, 'disgust_loathing': 0.48}"
+311,434,434,anger,"In a course I thought that I deserved good marks but I only got á
+ordinary marks with no justification as to why I was given these á
+marks.",3.0,"{'boredom': 0.013, 'disgust_loathing': 0.02, 'anger': 0.021, 'trust': 0.026, 'amazement_surprise': 0.026, 'joy_ecstasy': 0.186, 'admire': 0.325, 'acceptance': 0.423}"
+312,435,435,sadness,"When I crashed my car and it had to be scrapped then.  It was my á
+fault and I feel depressed as I miss the car.",4.0,"{'disgust_loathing': 0.027, 'boredom': 0.443, 'sadness': 0.571}"
+313,436,436,disgust,"I had some sort of a stomach virus last week and  I vomited in á
+college in the morning, then in the cake shop, three times during á
+the trip home and again when I got home.",5.0,"{'fear': 0.024, 'acceptance': 0.029, 'anticipation': 0.034, 'distraction': 0.038, 'anger': 0.052, 'amazement_surprise': 0.061, 'joy_ecstasy': 0.064, 'boredom': 0.067, 'sadness': 0.212, 'disgust_loathing': 0.459}"
+314,439,439,joy,When I felt that my love was returned.,1.0,"{'distraction': 0.011, 'disgust_loathing': 0.014, 'senerity': 0.016, 'amazement_surprise': 0.018, 'trust': 0.019, 'anger': 0.067, 'boredom': 0.081, 'acceptance': 0.085, 'joy_ecstasy': 0.104, 'anticipation': 0.125, 'sadness': 0.502}"
+315,440,440,fear,"When I was convinced that someonne had broken into my flat and I á
+woke up and heard sounds that frightened me.",2.0,"{'amazement_surprise': 0.003, 'anticipation': 0.016, 'anger': 0.026, 'joy_ecstasy': 0.027, 'sadness': 0.04, 'trust': 0.041, 'acceptance': 0.042, 'distraction': 0.055, 'disgust_loathing': 0.096, 'interest_vigilance': 0.166, 'fear': 0.531}"
+316,441,441,anger,"When it became clear that a man had used many people sexually á
+and psychologically, despite the fact that many people looked up á
+to him.  I understood that one could not trust him and I was á
+forced to hide this for a while.",3.0,"{'admire': 0.007, 'distraction': 0.01, 'disgust_loathing': 0.011, 'amazement_surprise': 0.013, 'interest_vigilance': 0.019, 'senerity': 0.029, 'anger': 0.046, 'trust': 0.055, 'joy_ecstasy': 0.064, 'sadness': 0.076, 'boredom': 0.091, 'anticipation': 0.189, 'acceptance': 0.432}"
+317,442,442,sadness,"When I feel helpless after having tried to help someone without á
+any result.",4.0,"{'senerity': 0.003, 'acceptance': 0.017, 'interest_vigilance': 0.032, 'anger': 0.04, 'joy_ecstasy': 0.04, 'boredom': 0.087, 'disgust_loathing': 0.135, 'sadness': 0.687}"
+318,443,443,disgust,"When I think now about the way my father behaved when filing a á
+divorce.",5.0,"{'joy_ecstasy': 0.011, 'fear': 0.015, 'distraction': 0.017, 'boredom': 0.024, 'senerity': 0.026, 'disgust_loathing': 0.038, 'admire': 0.069, 'interest_vigilance': 0.109, 'sadness': 0.14, 'acceptance': 0.251, 'anticipation': 0.34}"
+319,446,446,joy,"When I recently got a very positive answer from a clinic telling á
+me that they would willingly assist and collect data for me for a á
+clinical pilot study.",1.0,"{'admire': 0.013, 'anger': 0.027, 'disgust_loathing': 0.027, 'interest_vigilance': 0.028, 'boredom': 0.033, 'trust': 0.063, 'senerity': 0.068, 'amazement_surprise': 0.135, 'acceptance': 0.315, 'joy_ecstasy': 0.332}"
+320,447,447,fear,Every time I meet a certain dog that has once bitten me.,2.0,"{'interest_vigilance': 0.012, 'admire': 0.02, 'joy_ecstasy': 0.042, 'fear': 0.06, 'boredom': 0.145, 'sadness': 0.159, 'anger': 0.291, 'disgust_loathing': 0.311}"
+321,448,448,anger,"When after a lot of provocation my child threw a plate on the á
+floor.",3.0,"{'anger': 0.016, 'boredom': 0.02, 'fear': 0.022, 'acceptance': 0.031, 'admire': 0.033, 'distraction': 0.067, 'anticipation': 0.135, 'sadness': 0.348, 'disgust_loathing': 0.37}"
+322,449,449,sadness,"When I realized that I could not communicate properly with my á
+closest friend.",4.0,"{'disgust_loathing': 0.004, 'fear': 0.012, 'interest_vigilance': 0.024, 'boredom': 0.025, 'senerity': 0.051, 'amazement_surprise': 0.067, 'sadness': 0.078, 'trust': 0.087, 'admire': 0.091, 'joy_ecstasy': 0.133, 'anticipation': 0.136, 'acceptance': 0.331}"
+323,450,450,disgust,"When I tried to explain to my child as to why there were á
+magazines wiith naked girls on them at the kiosk.",5.0,"{'sadness': 0.001, 'boredom': 0.002, 'senerity': 0.007, 'joy_ecstasy': 0.015, 'trust': 0.023, 'anger': 0.025, 'fear': 0.026, 'disgust_loathing': 0.029, 'admire': 0.037, 'amazement_surprise': 0.082, 'interest_vigilance': 0.087, 'acceptance': 0.17, 'distraction': 0.207, 'anticipation': 0.331}"
+324,453,453,joy,"When I began dansing, the teacher came and told me that I was á
+very good and would soon get into the ballet academy.",1.0,"{'interest_vigilance': 0.016, 'trust': 0.022, 'admire': 0.042, 'acceptance': 0.063, 'amazement_surprise': 0.424, 'joy_ecstasy': 0.473}"
+325,454,454,fear,"A late Saturday night I found myself locked in the central á
+underground station of Stockholm with a group of 50 hard rockers á
+who were drunk and equipped with various kinds of chains, etc.",2.0,"{'interest_vigilance': 0.008, 'senerity': 0.015, 'joy_ecstasy': 0.024, 'distraction': 0.024, 'amazement_surprise': 0.034, 'admire': 0.038, 'boredom': 0.045, 'fear': 0.051, 'anticipation': 0.247, 'disgust_loathing': 0.271, 'sadness': 0.286}"
+326,455,455,anger,"When I was forced to call the telephone company about a bill á
+concerning a disconnected phone belonging to my landlord.  The á
+bill was four months overdue and in the meanwhile he had been á
+using my phone, he seemed to have no intention of having his own á
+phone reconnected.",3.0,"{'trust': 0.031, 'admire': 0.034, 'fear': 0.038, 'senerity': 0.042, 'interest_vigilance': 0.045, 'disgust_loathing': 0.078, 'sadness': 0.102, 'acceptance': 0.134, 'boredom': 0.155, 'anticipation': 0.38}"
+327,456,456,sadness,"Whenever I read or think about the way people treat animals and á
+nature.",4.0,"{'disgust_loathing': 0.007, 'distraction': 0.029, 'senerity': 0.036, 'fear': 0.038, 'boredom': 0.039, 'trust': 0.043, 'amazement_surprise': 0.058, 'anticipation': 0.111, 'joy_ecstasy': 0.124, 'admire': 0.167, 'acceptance': 0.387}"
+328,457,457,disgust,"When I saw a T.V programme on animals in the film world á
+(mistreated and used).",5.0,"{'interest_vigilance': 0.003, 'fear': 0.012, 'admire': 0.04, 'acceptance': 0.04, 'boredom': 0.063, 'distraction': 0.073, 'anticipation': 0.206, 'sadness': 0.288, 'disgust_loathing': 0.316}"
+329,460,460,joy,When my 6 month old son is happy and well.,1.0,"{'senerity': 0.009, 'acceptance': 0.009, 'trust': 0.024, 'admire': 0.046, 'joy_ecstasy': 0.953}"
+330,461,461,fear,"A four year girl ran away from her father straight in front of my á
+car.  I was forced to use the emergency brakes.",2.0,"{'fear': 0.007, 'boredom': 0.051, 'disgust_loathing': 0.463, 'sadness': 0.52}"
+331,462,462,anger,[ After an examine I had been satisfied with.],3.0,"{'disgust_loathing': 0.04, 'admire': 0.054, 'trust': 0.074, 'anticipation': 0.078, 'senerity': 0.186, 'joy_ecstasy': 0.186, 'acceptance': 0.422}"
+332,463,463,sadness,When a colleague failed to contact me at the arranged time.,4.0,"{'fear': 0.034, 'trust': 0.04, 'admire': 0.047, 'sadness': 0.054, 'distraction': 0.061, 'disgust_loathing': 0.071, 'senerity': 0.073, 'boredom': 0.079, 'interest_vigilance': 0.136, 'acceptance': 0.176, 'anticipation': 0.269}"
+333,464,464,disgust,When I read racist slogans on the walls.,5.0,"{'admire': 0.033, 'boredom': 0.103, 'anticipation': 0.118, 'fear': 0.127, 'sadness': 0.171, 'anger': 0.222, 'disgust_loathing': 0.266}"
+334,467,467,joy,When I gave birth to a healthy boy.,1.0,"{'boredom': 0.011, 'admire': 0.047, 'anticipation': 0.062, 'amazement_surprise': 0.072, 'interest_vigilance': 0.1, 'trust': 0.106, 'acceptance': 0.177, 'joy_ecstasy': 0.465}"
+335,468,468,fear,"When my husband and I spent a night by ourselves in a house which á
+was in an area on the outskirts of a large town with which we were  á
+not familiar.  We  heard strange noises outside the house and the  á
+house had glass walls so the whole thing was even more á
+frightening.",2.0,"{'sadness': 0.001, 'trust': 0.01, 'boredom': 0.013, 'senerity': 0.016, 'anger': 0.029, 'joy_ecstasy': 0.033, 'disgust_loathing': 0.038, 'distraction': 0.08, 'interest_vigilance': 0.087, 'anticipation': 0.191, 'fear': 0.541}"
+336,469,469,anger,"Jealous of my husband's old girlfriend.  We met her with her á
+husband and there was a lot of reminiscing.",3.0,"{'boredom': 0.001, 'disgust_loathing': 0.011, 'senerity': 0.022, 'distraction': 0.023, 'anticipation': 0.038, 'amazement_surprise': 0.057, 'sadness': 0.107, 'joy_ecstasy': 0.781}"
+337,470,470,sadness,"When my daughter had problems with her friends and I could see á
+her predicament from the window.  She was given a the cold á
+shoulder.",4.0,"{'anger': 0.013, 'fear': 0.013, 'acceptance': 0.022, 'joy_ecstasy': 0.037, 'interest_vigilance': 0.052, 'boredom': 0.061, 'disgust_loathing': 0.14, 'sadness': 0.702}"
+338,471,471,disgust,"When I was an auxiliary nurse at the hospital and I had to change á
+the nappies, for the first time, of a very old and sick woman.",5.0,"{'anticipation': 0.008, 'fear': 0.011, 'trust': 0.014, 'senerity': 0.022, 'interest_vigilance': 0.063, 'anger': 0.076, 'boredom': 0.083, 'disgust_loathing': 0.101, 'joy_ecstasy': 0.111, 'acceptance': 0.203, 'sadness': 0.349}"
+339,474,474,joy,"When my husband and I decided to take a few days holiday after a á
+particularly trying period.",1.0,"{'distraction': 0.01, 'interest_vigilance': 0.012, 'senerity': 0.013, 'fear': 0.017, 'trust': 0.021, 'sadness': 0.027, 'disgust_loathing': 0.038, 'amazement_surprise': 0.04, 'anticipation': 0.068, 'anger': 0.081, 'boredom': 0.11, 'acceptance': 0.242, 'joy_ecstasy': 0.362}"
+340,475,475,fear,"Before a hospital visit prior to a D&C under anasthesia for an á
+expected miscarriage.",2.0,"{'anger': 0.009, 'trust': 0.016, 'admire': 0.025, 'amazement_surprise': 0.039, 'sadness': 0.056, 'fear': 0.062, 'acceptance': 0.125, 'disgust_loathing': 0.185, 'interest_vigilance': 0.207, 'anticipation': 0.315}"
+341,476,476,anger,Exchange of points of view with my sister on a family matter.,3.0,"{'sadness': 0.016, 'fear': 0.019, 'senerity': 0.027, 'trust': 0.033, 'distraction': 0.036, 'admire': 0.047, 'anger': 0.048, 'boredom': 0.054, 'interest_vigilance': 0.056, 'disgust_loathing': 0.064, 'anticipation': 0.067, 'joy_ecstasy': 0.103, 'acceptance': 0.469}"
+342,477,477,sadness,Treatment to become pregnant with a negative result.,4.0,"{'distraction': 0.023, 'senerity': 0.024, 'admire': 0.026, 'fear': 0.061, 'disgust_loathing': 0.078, 'acceptance': 0.082, 'boredom': 0.091, 'interest_vigilance': 0.109, 'sadness': 0.256, 'anticipation': 0.291}"
+343,478,478,disgust,"When I woke up one morning and went to the kitchen I discovered á
+that our dog had diarrhoea.  There were small ""piles"" all over á
+the floor and the smell was choking.",5.0,"{'amazement_surprise': 0.005, 'trust': 0.01, 'senerity': 0.011, 'fear': 0.024, 'acceptance': 0.024, 'distraction': 0.033, 'boredom': 0.042, 'joy_ecstasy': 0.043, 'interest_vigilance': 0.053, 'anticipation': 0.058, 'sadness': 0.12, 'disgust_loathing': 0.617}"
+344,481,481,joy,"When I gave birth to a child and saw that it was normal when it á
+was put against my breast.",1.0,"{'amazement_surprise': 0.028, 'interest_vigilance': 0.03, 'anger': 0.033, 'boredom': 0.038, 'admire': 0.045, 'trust': 0.046, 'sadness': 0.051, 'joy_ecstasy': 0.223, 'acceptance': 0.546}"
+345,482,482,fear,"During labour when the foetal sounds became faint and there was a á
+big alert for a forceps delivery.",2.0,"{'boredom': 0.004, 'amazement_surprise': 0.014, 'senerity': 0.028, 'fear': 0.033, 'trust': 0.035, 'sadness': 0.038, 'anger': 0.042, 'admire': 0.073, 'joy_ecstasy': 0.087, 'distraction': 0.096, 'disgust_loathing': 0.11, 'anticipation': 0.132, 'acceptance': 0.151, 'interest_vigilance': 0.196}"
+346,483,483,anger,"At a cash desk where I had gone to buy 16 rolls of kitchen paper á
+at a reduced price.  After queuing with screaming children; it á
+turned out that I had taken two 8 roll packets instead of the one á
+16 roll packet to which the rebate applied.  The assistant said á
+""You will have to get it another time.""",3.0,"{'senerity': 0.006, 'trust': 0.007, 'amazement_surprise': 0.014, 'distraction': 0.02, 'joy_ecstasy': 0.027, 'admire': 0.029, 'anger': 0.031, 'fear': 0.041, 'interest_vigilance': 0.056, 'disgust_loathing': 0.066, 'boredom': 0.082, 'sadness': 0.169, 'acceptance': 0.198, 'anticipation': 0.295}"
+347,484,484,sadness,When I first heard that Tage Dannielsson had died.,4.0,"{'trust': 0.012, 'admire': 0.016, 'senerity': 0.032, 'disgust_loathing': 0.037, 'interest_vigilance': 0.043, 'acceptance': 0.07, 'amazement_surprise': 0.081, 'boredom': 0.082, 'sadness': 0.092, 'joy_ecstasy': 0.147, 'distraction': 0.165, 'anticipation': 0.263}"
+348,485,485,disgust,The lift of Stockholm central station stank of vomit and urine.,5.0,"{'trust': 0.004, 'anger': 0.007, 'boredom': 0.017, 'fear': 0.033, 'senerity': 0.037, 'distraction': 0.045, 'acceptance': 0.079, 'anticipation': 0.088, 'sadness': 0.09, 'joy_ecstasy': 0.096, 'disgust_loathing': 0.148, 'admire': 0.398}"
+349,488,488,joy,The high school entrance exam.,1.0,"{'anger': 0.02, 'fear': 0.032, 'disgust_loathing': 0.041, 'trust': 0.05, 'acceptance': 0.058, 'interest_vigilance': 0.074, 'admire': 0.1, 'anticipation': 0.136, 'joy_ecstasy': 0.22, 'amazement_surprise': 0.31}"
+350,489,489,fear,"A gang of screaming and drunk youths ""captured"" a tram.",2.0,"{'anticipation': 0.007, 'trust': 0.008, 'acceptance': 0.019, 'distraction': 0.023, 'boredom': 0.041, 'sadness': 0.044, 'joy_ecstasy': 0.069, 'anger': 0.104, 'disgust_loathing': 0.329, 'fear': 0.397}"
+351,490,490,anger,"An unjust refree decision at a sports event when I was the team á
+leader.",3.0,"{'joy_ecstasy': 0.007, 'senerity': 0.009, 'fear': 0.017, 'anticipation': 0.04, 'disgust_loathing': 0.045, 'admire': 0.087, 'boredom': 0.093, 'anger': 0.158, 'acceptance': 0.248, 'sadness': 0.336}"
+352,491,491,sadness,When my girlfriend left me.,4.0,"{'anticipation': 0.007, 'distraction': 0.021, 'amazement_surprise': 0.032, 'senerity': 0.045, 'disgust_loathing': 0.171, 'boredom': 0.211, 'sadness': 0.553}"
+353,492,492,disgust,"I was dominated by a certain person and even though I knew it I á
+could not change my own reactions.",5.0,"{'disgust_loathing': 0.003, 'sadness': 0.022, 'interest_vigilance': 0.025, 'senerity': 0.03, 'anticipation': 0.047, 'trust': 0.047, 'anger': 0.06, 'boredom': 0.069, 'joy_ecstasy': 0.096, 'acceptance': 0.641}"
+354,495,495,joy,"Yesterday, when the final whistle blew at the final match between á
+OIS and IFK and it was certain that OIS had won the Swedish á
+title.",1.0,"{'senerity': 0.009, 'interest_vigilance': 0.031, 'admire': 0.033, 'trust': 0.066, 'amazement_surprise': 0.131, 'acceptance': 0.133, 'joy_ecstasy': 0.638}"
+355,496,496,fear,"I was teaching someone to drive and when we were about to crash I á
+was scared.",2.0,"{'disgust_loathing': 0.006, 'trust': 0.009, 'acceptance': 0.01, 'boredom': 0.018, 'senerity': 0.022, 'amazement_surprise': 0.024, 'joy_ecstasy': 0.026, 'anticipation': 0.033, 'anger': 0.034, 'distraction': 0.097, 'interest_vigilance': 0.199, 'fear': 0.562}"
+356,497,497,anger,"A drummer who had borrowed my drums destroyed both the drumskin á
+and the sticks.  He did not repair them nor did he tell me about á
+it.",3.0,"{'anger': 0.002, 'interest_vigilance': 0.013, 'fear': 0.02, 'senerity': 0.025, 'boredom': 0.233, 'sadness': 0.351, 'disgust_loathing': 0.397}"
+357,498,498,sadness,"When my dad gives priority to my kid brother's band and his á
+other activities.  We both play in different bands and rehearse á
+in my parents garage.",4.0,"{'senerity': 0.002, 'distraction': 0.005, 'admire': 0.012, 'sadness': 0.03, 'trust': 0.031, 'fear': 0.038, 'disgust_loathing': 0.089, 'anger': 0.093, 'boredom': 0.096, 'acceptance': 0.288, 'joy_ecstasy': 0.357}"
+358,499,499,disgust,"A friend unjustly put the blame on me to relieve his conscience á
+and also spread lies for the same purpose.",5.0,"{'fear': 0.003, 'disgust_loathing': 0.115, 'anger': 0.156, 'boredom': 0.319, 'sadness': 0.447}"
+359,502,502,joy,"When I dived among sharks and the brightly coloured fish on the á
+outer reef of Tvavni, Fidgi.",1.0,"{'disgust_loathing': 0.004, 'sadness': 0.01, 'admire': 0.016, 'senerity': 0.033, 'acceptance': 0.035, 'distraction': 0.037, 'anticipation': 0.043, 'fear': 0.069, 'anger': 0.084, 'amazement_surprise': 0.091, 'boredom': 0.13, 'joy_ecstasy': 0.49}"
+360,503,503,fear,"When I missed crashing, by a hair's breadth, into a man who came á
+out 20 metres ahead of me when I was driving at 110km/h.",2.0,"{'admire': 0.024, 'boredom': 0.027, 'fear': 0.032, 'senerity': 0.038, 'distraction': 0.054, 'anger': 0.056, 'interest_vigilance': 0.081, 'sadness': 0.1, 'acceptance': 0.131, 'joy_ecstasy': 0.137, 'disgust_loathing': 0.159, 'amazement_surprise': 0.202}"
+361,504,504,anger,"When I told off a computer teacher who did not want to teach me á
+beacause of prejudice.",3.0,"{'fear': 0.038, 'admire': 0.05, 'anger': 0.053, 'anticipation': 0.086, 'disgust_loathing': 0.188, 'boredom': 0.229, 'sadness': 0.398}"
+362,505,505,sadness,When I could not do anything because of a bad back.,4.0,"{'amazement_surprise': 0.024, 'fear': 0.037, 'disgust_loathing': 0.238, 'boredom': 0.281, 'sadness': 0.461}"
+363,506,506,disgust,"When I discovered that the house we had hired in Tonga was full á
+of cockroaches.",5.0,"{'acceptance': 0.004, 'anticipation': 0.006, 'boredom': 0.009, 'fear': 0.016, 'admire': 0.047, 'anger': 0.054, 'joy_ecstasy': 0.255, 'amazement_surprise': 0.65}"
+364,509,509,joy,"When I passed the driving test three weeks ago and got my á
+licence.",1.0,"{'trust': 0.005, 'acceptance': 0.021, 'admire': 0.022, 'joy_ecstasy': 0.349, 'amazement_surprise': 0.643}"
+365,510,510,fear,"When the car I was driving skidded on an icy road and landed in   á
+a ditch with one side against a rock.",2.0,"{'admire': 0.004, 'anticipation': 0.011, 'boredom': 0.012, 'joy_ecstasy': 0.02, 'acceptance': 0.04, 'fear': 0.042, 'amazement_surprise': 0.063, 'distraction': 0.229, 'sadness': 0.239, 'disgust_loathing': 0.38}"
+366,511,511,anger,[ No response.],3.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+367,512,512,sadness,[ No response.],4.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+368,513,513,disgust,[ No response.],5.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+369,516,516,joy,When I met friends I had not seen for the last 2-4 years.,1.0,"{'disgust_loathing': 0.017, 'admire': 0.023, 'interest_vigilance': 0.028, 'sadness': 0.03, 'trust': 0.034, 'joy_ecstasy': 0.036, 'distraction': 0.036, 'fear': 0.038, 'anger': 0.052, 'boredom': 0.076, 'amazement_surprise': 0.173, 'anticipation': 0.229, 'acceptance': 0.269}"
+370,517,517,fear,When a guy chased me when I was out jogging.,2.0,"{'boredom': 0.008, 'amazement_surprise': 0.02, 'disgust_loathing': 0.034, 'senerity': 0.038, 'trust': 0.042, 'anticipation': 0.052, 'fear': 0.056, 'admire': 0.073, 'acceptance': 0.08, 'interest_vigilance': 0.107, 'distraction': 0.15, 'joy_ecstasy': 0.38}"
+371,518,518,anger,[ No response.],3.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+372,519,519,sadness,[ No reponse.],4.0,"{'sadness': 0.014, 'fear': 0.036, 'joy': 0.038, 'boredom': 0.067, 'trust': 0.069, 'interest_vigilance': 0.106, 'distraction': 0.11, 'disgust': 0.214, 'surprise': 0.387}"
+373,520,520,disgust,[ No response.],5.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+374,523,523,joy,[ No response.],1.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+375,524,524,fear,[ No response.],2.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+376,525,525,anger,When the morning newspaper has not arrived.,3.0,"{'fear': 0.002, 'sadness': 0.002, 'anger': 0.011, 'boredom': 0.016, 'admire': 0.027, 'distraction': 0.031, 'trust': 0.035, 'disgust_loathing': 0.048, 'amazement_surprise': 0.06, 'senerity': 0.104, 'acceptance': 0.136, 'interest_vigilance': 0.183, 'anticipation': 0.385}"
+377,526,526,sadness,[ No response.],4.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+378,527,527,disgust,[ No response.],5.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+379,528,528,disgust,[ No response.],5.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+380,531,531,joy,"I feel unbelievably happy about the relationship between my á
+boyfriend and me, it is a reoccurring feeling.",1.0,"{'trust': 0.016, 'admire': 0.025, 'acceptance': 0.03, 'senerity': 0.048, 'joy_ecstasy': 0.922}"
+381,532,532,fear,A reoccurring fear that something will happen to my relatives.,2.0,"{'acceptance': 0.011, 'trust': 0.014, 'disgust_loathing': 0.024, 'anger': 0.028, 'joy_ecstasy': 0.037, 'interest_vigilance': 0.08, 'distraction': 0.089, 'anticipation': 0.117, 'fear': 0.642}"
+382,533,533,anger,"When I argue with my boyfriend, I feel as though he feels á
+superior to me.",3.0,"{'senerity': 0.047, 'disgust_loathing': 0.066, 'anger': 0.078, 'anticipation': 0.091, 'admire': 0.096, 'boredom': 0.207, 'acceptance': 0.228, 'sadness': 0.229}"
+383,534,534,sadness,"When I failed an exam last Summer.  I had worked very hard for it á
+and I was very disappointed thinking that it was hopeless to á
+continue at college.  I did overreact.",4.0,"{'amazement_surprise': 0.016, 'disgust_loathing': 0.141, 'sadness': 0.287, 'boredom': 0.598}"
+384,535,535,disgust,[ No response.],5.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+385,538,538,joy,I was very happy when I got an attractive Summer job.,1.0,"{'trust': 0.023, 'acceptance': 0.028, 'senerity': 0.038, 'admire': 0.041, 'joy_ecstasy': 0.911}"
+386,539,539,joy,The birth of my child.,1.0,"{'fear': 0.013, 'senerity': 0.014, 'admire': 0.029, 'disgust_loathing': 0.032, 'sadness': 0.062, 'trust': 0.062, 'anticipation': 0.136, 'acceptance': 0.156, 'interest_vigilance': 0.18, 'joy_ecstasy': 0.358}"
+387,540,540,fear,"When I have to leave the baby in the carriage and go shopping, I á
+fear that something will happen to the baby.",2.0,"{'boredom': 0.006, 'senerity': 0.008, 'joy_ecstasy': 0.033, 'distraction': 0.078, 'anticipation': 0.104, 'interest_vigilance': 0.15, 'fear': 0.661}"
+388,541,541,anger,"When during Winter the water pipes froze and we did not have any á
+water for two days.",3.0,"{'anger': 0.023, 'interest_vigilance': 0.025, 'distraction': 0.041, 'amazement_surprise': 0.053, 'acceptance': 0.065, 'fear': 0.069, 'anticipation': 0.093, 'disgust_loathing': 0.158, 'sadness': 0.168, 'boredom': 0.345}"
+389,542,542,sadness,I did not quite succeed in breast feeding my baby.,4.0,"{'disgust_loathing': 0.299, 'sadness': 0.36, 'boredom': 0.382}"
+390,543,543,disgust,The smell of garlic in rush-hour bus.,5.0,"{'fear': 0.004, 'interest_vigilance': 0.006, 'boredom': 0.023, 'trust': 0.024, 'senerity': 0.028, 'distraction': 0.051, 'acceptance': 0.061, 'anger': 0.064, 'sadness': 0.069, 'admire': 0.073, 'anticipation': 0.085, 'disgust_loathing': 0.221, 'joy_ecstasy': 0.331}"
+391,546,546,joy,"During the Christmas holidays, I met some of my old friends, á
+after not having seen them for six months.",1.0,"{'disgust_loathing': 0.007, 'trust': 0.008, 'anger': 0.01, 'interest_vigilance': 0.014, 'admire': 0.016, 'fear': 0.023, 'sadness': 0.04, 'boredom': 0.046, 'anticipation': 0.085, 'distraction': 0.11, 'amazement_surprise': 0.121, 'acceptance': 0.224, 'joy_ecstasy': 0.338}"
+392,547,547,fear,"We were driving a car of a friend of mine when we turned in the á
+wrong direction towards an unknown district, and nearly drove á
+down a precipice.",2.0,"{'disgust_loathing': 0.003, 'sadness': 0.005, 'fear': 0.02, 'admire': 0.045, 'acceptance': 0.052, 'joy_ecstasy': 0.091, 'interest_vigilance': 0.096, 'distraction': 0.105, 'anticipation': 0.258, 'amazement_surprise': 0.366}"
+393,548,548,anger,"When our religion teacher presented shocking sectarian thoughts á
+and doom's day as official teaching.",3.0,"{'joy_ecstasy': 0.004, 'interest_vigilance': 0.019, 'boredom': 0.03, 'distraction': 0.09, 'acceptance': 0.102, 'fear': 0.109, 'disgust_loathing': 0.122, 'anger': 0.127, 'anticipation': 0.148, 'amazement_surprise': 0.29}"
+394,549,549,sadness,"My grandfather died, when I was an exchange student in the USA.",4.0,"{'admire': 0.009, 'amazement_surprise': 0.012, 'fear': 0.019, 'senerity': 0.025, 'anticipation': 0.03, 'acceptance': 0.04, 'boredom': 0.055, 'interest_vigilance': 0.103, 'sadness': 0.282, 'disgust_loathing': 0.465}"
+395,550,550,disgust,"I happened to see the video-tape movie ""This is America - Part á
+one"" at my friend's place.",5.0,"{'admire': 0.004, 'fear': 0.008, 'anger': 0.017, 'disgust_loathing': 0.03, 'sadness': 0.037, 'anticipation': 0.06, 'acceptance': 0.073, 'distraction': 0.076, 'boredom': 0.1, 'amazement_surprise': 0.176, 'joy_ecstasy': 0.46}"
+396,553,553,joy,"In the underground's escalator, a youngish bum asked me for á
+money.  Although I did not give him anything, the fellow told me á
+that I was really good-looking.  A man who was in front of me á
+also turned to look at me.",1.0,"{'sadness': 0.003, 'distraction': 0.006, 'admire': 0.013, 'interest_vigilance': 0.025, 'trust': 0.032, 'boredom': 0.033, 'disgust_loathing': 0.033, 'anticipation': 0.056, 'senerity': 0.064, 'anger': 0.069, 'joy_ecstasy': 0.105, 'amazement_surprise': 0.198, 'acceptance': 0.406}"
+397,554,554,fear,"I was afraid of moving away from home and moving to Helsinki for á
+my studies.",2.0,"{'senerity': 0.003, 'anger': 0.01, 'anticipation': 0.011, 'disgust_loathing': 0.025, 'joy_ecstasy': 0.033, 'sadness': 0.039, 'distraction': 0.082, 'interest_vigilance': 0.101, 'fear': 0.736}"
+398,555,555,anger,"In the student kitchen that we share, somebody drank from my á
+juice pot (one litre) so that I only got one glass out of the á
+whole pot.",3.0,"{'senerity': 0.002, 'admire': 0.007, 'amazement_surprise': 0.023, 'trust': 0.024, 'fear': 0.035, 'disgust_loathing': 0.053, 'anticipation': 0.086, 'anger': 0.106, 'boredom': 0.127, 'acceptance': 0.254, 'joy_ecstasy': 0.324}"
+399,556,556,sadness,My father gave money to my brother but not to me.,4.0,"{'trust': 0.01, 'joy_ecstasy': 0.011, 'admire': 0.011, 'anticipation': 0.021, 'fear': 0.039, 'anger': 0.062, 'disgust_loathing': 0.072, 'boredom': 0.174, 'acceptance': 0.215, 'sadness': 0.426}"
+400,557,557,disgust,"During the week-end at home, my mother fries greasy and unhealthy á
+meat dishes which make me feel sick.",5.0,"{'anger': 0.021, 'fear': 0.024, 'boredom': 0.202, 'disgust_loathing': 0.332, 'sadness': 0.462}"
+401,560,560,fear,"At about nine p.m., I went home by bike on a dark cycle-track; á
+because of lack of time I had to take the short-cut.",2.0,"{'senerity': 0.024, 'interest_vigilance': 0.027, 'trust': 0.052, 'fear': 0.058, 'joy_ecstasy': 0.067, 'amazement_surprise': 0.069, 'disgust_loathing': 0.115, 'acceptance': 0.127, 'boredom': 0.144, 'sadness': 0.174, 'anticipation': 0.185}"
+402,561,561,fear,"Once I had to go home on foot at 5 a.m. I had to pass through a á
+forest and I was going alone.",2.0,"{'senerity': 0.001, 'joy_ecstasy': 0.002, 'acceptance': 0.003, 'anticipation': 0.053, 'interest_vigilance': 0.054, 'disgust_loathing': 0.118, 'boredom': 0.254, 'sadness': 0.556}"
+403,562,562,anger,"I missed the train and had to wait for the next for two hours. á
+For this reason I missed an appointment which had been very á
+important for me.",3.0,"{'anger': 0.006, 'senerity': 0.02, 'acceptance': 0.033, 'anticipation': 0.036, 'fear': 0.037, 'disgust_loathing': 0.077, 'amazement_surprise': 0.11, 'distraction': 0.158, 'boredom': 0.266, 'sadness': 0.299}"
+404,563,563,sadness,When my grandmother died. I had lived with her for ten years.,4.0,"{'anticipation': 0.003, 'admire': 0.009, 'interest_vigilance': 0.033, 'anger': 0.035, 'joy_ecstasy': 0.042, 'acceptance': 0.062, 'boredom': 0.091, 'disgust_loathing': 0.098, 'sadness': 0.667}"
+405,564,564,disgust,"When I went home by train from Sicilia, I was molested by a man.",5.0,"{'fear': 0.033, 'anger': 0.137, 'boredom': 0.149, 'sadness': 0.338, 'disgust_loathing': 0.383}"
+406,567,567,joy,"A person with whom I had been on bad terms, gave me a present. We á
+became reconciled.",1.0,"{'anticipation': 0.003, 'disgust_loathing': 0.01, 'interest_vigilance': 0.013, 'trust': 0.021, 'anger': 0.045, 'senerity': 0.06, 'boredom': 0.171, 'sadness': 0.287, 'acceptance': 0.432}"
+407,568,568,fear,"A friend's father had died, I was to come and see this friend á
+although I did not know his family.",2.0,"{'admire': 0.006, 'disgust_loathing': 0.014, 'joy_ecstasy': 0.017, 'anger': 0.029, 'trust': 0.039, 'amazement_surprise': 0.041, 'fear': 0.051, 'boredom': 0.078, 'interest_vigilance': 0.087, 'distraction': 0.097, 'anticipation': 0.142, 'sadness': 0.174, 'acceptance': 0.267}"
+408,569,569,anger,"I was watching TV with a friend. After the first film I wanted to á
+watch another film on the same channel. My friend switched over á
+to the other cannel without asking me what I wanted.",3.0,"{'senerity': 0.004, 'interest_vigilance': 0.011, 'anger': 0.021, 'disgust_loathing': 0.022, 'amazement_surprise': 0.031, 'fear': 0.047, 'sadness': 0.053, 'trust': 0.054, 'joy_ecstasy': 0.054, 'distraction': 0.055, 'boredom': 0.137, 'anticipation': 0.167, 'acceptance': 0.385}"
+409,570,570,sadness,My boy-friend an I seperated on his initiative.,4.0,"{'senerity': 0.016, 'fear': 0.033, 'admire': 0.037, 'disgust_loathing': 0.049, 'trust': 0.051, 'interest_vigilance': 0.058, 'boredom': 0.063, 'anger': 0.096, 'anticipation': 0.113, 'joy_ecstasy': 0.159, 'acceptance': 0.366}"
+410,571,571,disgust,"A friend's boy-friend treated her very badly, let her serve him, á
+provoked her and just utilized her.",5.0,"{'anger': 0.026, 'disgust_loathing': 0.157, 'boredom': 0.312, 'sadness': 0.546}"
+411,574,574,joy,"After having considered it for hours I was able to overcome my á
+scruples and to call a friend with whom I had fallen in love. I á
+realized that my decision was right - and was very glad.",1.0,"{'anticipation': 0.007, 'trust': 0.029, 'admire': 0.059, 'acceptance': 0.14, 'senerity': 0.158, 'joy_ecstasy': 0.648}"
+412,575,575,fear,"After having slept for a short time I woke up - I had the feeling á
+of someone standing beside me and was very frightened. I had to á
+turn on the light turn on the light for several minutes before I á
+was able to get to sleep again.",2.0,"{'trust': 0.006, 'sadness': 0.014, 'senerity': 0.018, 'anger': 0.02, 'anticipation': 0.034, 'amazement_surprise': 0.034, 'joy_ecstasy': 0.038, 'disgust_loathing': 0.061, 'distraction': 0.078, 'interest_vigilance': 0.211, 'fear': 0.526}"
+413,576,576,anger,"I moved to a flat. A friend who had lived there before, had left á
+the flat in a terrible mess. I was very angry about that á
+sloppiness and impudence.",3.0,"{'sadness': 0.041, 'boredom': 0.18, 'disgust_loathing': 0.356, 'anger': 0.464}"
+414,577,577,sadness,"My father had a complicated operation. A long time before and á
+also a long time after that, we did not know how he would get á
+over it. During all that time I felt very sad.",4.0,"{'disgust_loathing': 0.009, 'anticipation': 0.013, 'amazement_surprise': 0.038, 'anger': 0.04, 'distraction': 0.096, 'boredom': 0.146, 'sadness': 0.699}"
+415,578,578,disgust,"It was in a tramway-carriage: A stranger insulted a girl just á
+because she blew her nose. I detested his behaviour.",5.0,"{'acceptance': 0.005, 'anticipation': 0.011, 'sadness': 0.082, 'boredom': 0.211, 'disgust_loathing': 0.267, 'anger': 0.464}"
+416,581,581,joy,In summer when I was sailing with friends in Greece I felt joy.,1.0,"{'fear': 0.002, 'anticipation': 0.004, 'distraction': 0.007, 'senerity': 0.01, 'admire': 0.02, 'acceptance': 0.02, 'joy_ecstasy': 0.977}"
+417,582,582,fear,"I was riding with a friend in his car. At a speed of 120 km/h on á
+the snow-covered motorway I would have liked to get out.",2.0,"{'senerity': 0.002, 'anger': 0.011, 'sadness': 0.028, 'boredom': 0.032, 'amazement_surprise': 0.037, 'distraction': 0.056, 'acceptance': 0.073, 'anticipation': 0.118, 'joy_ecstasy': 0.685}"
+418,584,584,joy,"Walking along the beach with a friend (another girl), talking, á
+picking up shells, laughing, chasing seagulls.",1.0,"{'sadness': 0.003, 'amazement_surprise': 0.008, 'distraction': 0.013, 'admire': 0.051, 'joy_ecstasy': 0.965}"
+419,585,585,fear,"Climbing a mountain to see a view, towards the top we suddenly á
+came across a ledge with a nearly sheer drop on either side, á
+which I had to cross.",2.0,"{'trust': 0.003, 'boredom': 0.016, 'senerity': 0.028, 'acceptance': 0.046, 'anger': 0.06, 'anticipation': 0.087, 'joy_ecstasy': 0.254, 'amazement_surprise': 0.546}"
+420,586,586,anger,"A friend suggested in a round-about way that the reason we were á
+late for something was because of me, and that I'm often late. I á
+know this was partly true, but felt it unjustified that á
+particular time and I felt I couldn't do  anything about it á
+anyway (i.e. being late).",3.0,"{'trust': 0.019, 'joy_ecstasy': 0.019, 'amazement_surprise': 0.021, 'disgust_loathing': 0.055, 'fear': 0.079, 'anticipation': 0.083, 'anger': 0.1, 'boredom': 0.122, 'sadness': 0.146, 'acceptance': 0.397}"
+421,587,587,sadness,"Talking to a very good friend who had just had a very bad á
+experience which was changing his whole way of looking at life á
+etc.",4.0,"{'anticipation': 0.013, 'disgust_loathing': 0.028, 'senerity': 0.062, 'joy_ecstasy': 0.112, 'boredom': 0.159, 'acceptance': 0.291, 'sadness': 0.376}"
+422,588,588,disgust,"I came across a group of people with the same basic ideas/beliefs á
+who were all fighting and going against what they would say was á
+good.",5.0,"{'senerity': 0.02, 'interest_vigilance': 0.021, 'anger': 0.028, 'anticipation': 0.031, 'boredom': 0.04, 'admire': 0.047, 'joy_ecstasy': 0.1, 'trust': 0.149, 'acceptance': 0.606}"
+423,591,591,joy,On meeting an old friend of mine.,1.0,"{'disgust_loathing': 0.002, 'senerity': 0.008, 'trust': 0.013, 'sadness': 0.024, 'amazement_surprise': 0.069, 'fear': 0.078, 'admire': 0.083, 'interest_vigilance': 0.125, 'anticipation': 0.177, 'joy_ecstasy': 0.221, 'acceptance': 0.239}"
+424,592,592,fear,When my brother was very late in arriving home from work.,2.0,"{'joy_ecstasy': 0.027, 'acceptance': 0.033, 'fear': 0.042, 'anticipation': 0.045, 'distraction': 0.06, 'amazement_surprise': 0.065, 'boredom': 0.096, 'senerity': 0.125, 'disgust_loathing': 0.155, 'interest_vigilance': 0.162, 'sadness': 0.23}"
+425,593,593,anger,During a fight with my best friend.,3.0,"{'trust': 0.02, 'boredom': 0.031, 'admire': 0.042, 'distraction': 0.054, 'senerity': 0.065, 'fear': 0.082, 'acceptance': 0.082, 'sadness': 0.111, 'disgust_loathing': 0.132, 'joy_ecstasy': 0.159, 'anger': 0.262}"
+426,594,594,sadness,When my dog died.,4.0,"{'boredom': 0.153, 'disgust_loathing': 0.22, 'sadness': 0.668}"
+427,595,595,disgust,"During a movie in which I saw the effect of white settlers in á
+Africa.",5.0,"{'joy_ecstasy': 0.024, 'fear': 0.025, 'disgust_loathing': 0.026, 'admire': 0.03, 'sadness': 0.038, 'distraction': 0.047, 'boredom': 0.047, 'anticipation': 0.17, 'amazement_surprise': 0.634}"
+428,598,598,joy,"When I realised that I was forgiven by the God who is there, when á
+I realised how much God loves me and that my acceptance with him á
+is not based on my performance - that he loves me unconditionally á
+and showed that love in Christ who died because I do need á
+forgiveness.",1.0,"{'anticipation': 0.011, 'interest_vigilance': 0.031, 'trust': 0.045, 'admire': 0.049, 'boredom': 0.073, 'anger': 0.079, 'joy_ecstasy': 0.129, 'sadness': 0.212, 'acceptance': 0.411}"
+429,599,599,fear,"Fear - paralysing - that I would not be accepted by the God who I á
+believed to be there because I was ""morally bankrupt"" (before á
+becoming a Christian and realising that that was why Christ came to á
+free us from sin and to forgive us).",2.0,"{'joy_ecstasy': 0.037, 'distraction': 0.05, 'trust': 0.053, 'boredom': 0.053, 'disgust_loathing': 0.066, 'anger': 0.069, 'acceptance': 0.087, 'interest_vigilance': 0.118, 'sadness': 0.189, 'fear': 0.318}"
+430,600,600,anger,"At my father's treatment of my mother, at his disregard for her, á
+and not being committed to her.",3.0,"{'anger': 0.026, 'disgust_loathing': 0.16, 'boredom': 0.284, 'sadness': 0.571}"
+431,601,601,sadness,"At a lack of love of my father for my mum, sadness for him more á
+than anyone else because he does not realise how much love and á
+happiness there could be between them, and is, and how much he is á
+damaging himself apart from mum.",4.0,"{'anger': 0.009, 'distraction': 0.014, 'amazement_surprise': 0.02, 'boredom': 0.209, 'sadness': 0.789}"
+432,602,602,disgust,"At what I was capable of of selfishly using others for sexual á
+encounters, while I held a vision of having a deepening á
+above-board (you know, ""girl next door"") devotion to a girl in my á
+head. My drives and actions did not match this so consequently I á
+felt disgusted at my failure.",5.0,"{'sadness': 0.064, 'disgust_loathing': 0.283, 'anger': 0.319, 'boredom': 0.374}"
+433,605,605,fear,"I was rock-climbing and absailing & felt OK, but suddenly as I á
+was going over the cliff I was hit by fear - I couldn't go on á
+absailing down the cliff and had to be actually hauled back up á
+it.",2.0,"{'senerity': 0.011, 'anger': 0.014, 'acceptance': 0.018, 'joy_ecstasy': 0.033, 'disgust_loathing': 0.039, 'trust': 0.041, 'anticipation': 0.062, 'distraction': 0.073, 'interest_vigilance': 0.128, 'fear': 0.621}"
+434,606,606,anger,"I told my boy friend not to park in a certain place because the á
+car would ger towed away - he didn't listen and it was towed away. á
+At that stage, our finances were below the poverty line & it á
+cost us $10.00 - all the money we had to get us through that week á
+(including rent).",3.0,"{'acceptance': 0.038, 'disgust_loathing': 0.151, 'boredom': 0.269, 'sadness': 0.584}"
+435,607,607,sadness,"My sister won a scholarship to Norway and it was particularly as á
+she walked across the tarmac to get on the plane and she looked á
+back at us.",4.0,"{'sadness': 0.008, 'distraction': 0.016, 'senerity': 0.028, 'anger': 0.049, 'joy_ecstasy': 0.298, 'amazement_surprise': 0.642}"
+436,608,608,disgust,"I work part-time as a shop-assistant and a customer spoke to me á
+very loudly about an Indian man & white woman with children - how á
+horrible that was and would I want to have little dark children.",5.0,"{'amazement_surprise': 0.004, 'fear': 0.009, 'anticipation': 0.011, 'boredom': 0.085, 'disgust_loathing': 0.247, 'sadness': 0.686}"
+437,611,611,joy,"I received a wedding invitation from an ex-flatmate, enclosed was á
+a small note that overcame a lot of the differences that had á
+arisen between us due to the circumstances in which she left the á
+flat.",1.0,"{'senerity': 0.011, 'anticipation': 0.02, 'sadness': 0.02, 'interest_vigilance': 0.022, 'fear': 0.025, 'disgust_loathing': 0.037, 'joy_ecstasy': 0.044, 'anger': 0.055, 'boredom': 0.066, 'trust': 0.067, 'acceptance': 0.673}"
+438,612,612,fear,"One afternoon, helping at home on the property, I was á
+(mustering) getting in cattle and a bull turned and came for me.",2.0,"{'anticipation': 0.007, 'senerity': 0.014, 'fear': 0.02, 'disgust_loathing': 0.022, 'admire': 0.028, 'amazement_surprise': 0.029, 'trust': 0.032, 'boredom': 0.035, 'interest_vigilance': 0.052, 'sadness': 0.056, 'acceptance': 0.056, 'joy_ecstasy': 0.689}"
+439,613,613,anger,"Getting a terrible exam mark, which I couldn't understand the á
+reason for, and trying to see a lecturer or tutor, but being á
+given the runaround.",3.0,"{'distraction': 0.006, 'acceptance': 0.02, 'interest_vigilance': 0.03, 'anticipation': 0.067, 'boredom': 0.078, 'sadness': 0.224, 'fear': 0.233, 'disgust_loathing': 0.384}"
+440,614,614,sadness,"Watching an old lady running up the street to catch her bus and á
+miss it, it reminded me of my own mother and how dreadful it á
+would be to be her in the same situation.",4.0,"{'fear': 0.065, 'boredom': 0.117, 'disgust_loathing': 0.327, 'sadness': 0.532}"
+441,615,615,disgust,"Coming home one night - my sister was home, and had been drinking á
+heavily and started picking arguments.",5.0,"{'distraction': 0.012, 'anticipation': 0.022, 'admire': 0.027, 'anger': 0.035, 'senerity': 0.057, 'disgust_loathing': 0.155, 'boredom': 0.242, 'sadness': 0.49}"
+442,616,616,fear,"When I am travelling by car and have to meet an oncoming car á
+while overtaking.",2.0,"{'joy_ecstasy': 0.002, 'admire': 0.031, 'fear': 0.032, 'anger': 0.042, 'acceptance': 0.073, 'boredom': 0.076, 'sadness': 0.095, 'amazement_surprise': 0.102, 'interest_vigilance': 0.106, 'distraction': 0.132, 'disgust_loathing': 0.145, 'anticipation': 0.205}"
+443,617,617,anger,When a close relative is treated badly.,3.0,"{'acceptance': 0.012, 'boredom': 0.159, 'disgust_loathing': 0.306, 'sadness': 0.563}"
+444,618,618,sadness,When a close friend died.,4.0,"{'admire': 0.008, 'joy_ecstasy': 0.011, 'anticipation': 0.014, 'acceptance': 0.039, 'interest_vigilance': 0.085, 'senerity': 0.091, 'boredom': 0.106, 'disgust_loathing': 0.231, 'sadness': 0.455}"
+445,619,619,disgust,"When I saw all the starving people in Ethiopia on T.V.  It felt á
+awful to see such suffering.",5.0,"{'fear': 0.029, 'boredom': 0.194, 'disgust_loathing': 0.295, 'sadness': 0.522}"
+446,622,622,joy,When I called my boyfriend he asked me if I would live with him.,1.0,"{'disgust_loathing': 0.004, 'senerity': 0.007, 'admire': 0.02, 'boredom': 0.02, 'anger': 0.037, 'amazement_surprise': 0.041, 'trust': 0.059, 'joy_ecstasy': 0.071, 'sadness': 0.096, 'distraction': 0.141, 'anticipation': 0.216, 'acceptance': 0.329}"
+447,623,623,fear,"Last Summer in Italy I was attacked by a dog.It was terrible to á
+feel that untidy dirty dog against my naked skin.",2.0,"{'fear': 0.026, 'boredom': 0.085, 'anger': 0.089, 'sadness': 0.37, 'disgust_loathing': 0.471}"
+448,624,624,anger,"When my father's new fiancee treats me like a child.  She does á
+not trust me and constantly misunderstands me.  I get á
+particularly angry when she says nasty things about my boyfriend á
+with whom she works.",3.0,"{'sadness': 0.059, 'boredom': 0.238, 'disgust_loathing': 0.298, 'anger': 0.447}"
+449,625,625,sadness,"When the guy I was in love with told me that he had met someone á
+else and that we would not meet again for a year.  Although we á
+did not have a steady relatioship, we were having an affair.",4.0,"{'anger': 0.024, 'disgust_loathing': 0.024, 'fear': 0.039, 'amazement_surprise': 0.04, 'anticipation': 0.068, 'boredom': 0.071, 'distraction': 0.108, 'acceptance': 0.125, 'sadness': 0.543}"
+450,626,626,disgust,[ No response.],5.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+451,629,629,joy,When my love for a guy was returned.,1.0,"{'disgust_loathing': 0.002, 'senerity': 0.007, 'trust': 0.017, 'anger': 0.027, 'amazement_surprise': 0.038, 'acceptance': 0.071, 'distraction': 0.084, 'boredom': 0.087, 'joy_ecstasy': 0.12, 'anticipation': 0.172, 'sadness': 0.416}"
+452,630,630,fear,"When I think of death - not my own but that of my parents, á
+brothers and sisters.",2.0,"{'amazement_surprise': 0.007, 'admire': 0.012, 'senerity': 0.017, 'joy_ecstasy': 0.031, 'fear': 0.039, 'disgust_loathing': 0.042, 'anticipation': 0.052, 'anger': 0.064, 'distraction': 0.069, 'interest_vigilance': 0.083, 'acceptance': 0.168, 'boredom': 0.181, 'sadness': 0.274}"
+453,631,631,anger,"My parents did not approve my choice of a boyfriend (now an á
+ex-boyfriend).  He happened to be 13 years older than me and he á
+was considered completely unsuitable for me.  IDIOT.",3.0,"{'fear': 0.014, 'anticipation': 0.033, 'distraction': 0.059, 'disgust_loathing': 0.18, 'sadness': 0.318, 'boredom': 0.437}"
+454,632,632,sadness,[ No response.],4.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+455,633,633,disgust,"When my uncle comes (3 times a year) for the traditional á
+Christmas dinner with my grandparents and other relatives and is á
+very drunk.",5.0,"{'anticipation': 0.01, 'amazement_surprise': 0.016, 'disgust_loathing': 0.022, 'anger': 0.033, 'distraction': 0.047, 'boredom': 0.071, 'sadness': 0.092, 'joy_ecstasy': 0.749}"
+456,636,636,joy,"I met my present boyfriend on a boat trip to England.  We had á
+said that we would call each other when we got back to Sweden (we á
+were not going to the same town in England).  As soon as I walked á
+in he called from England as he could not wait till he came á
+home.",1.0,"{'disgust_loathing': 0.014, 'sadness': 0.015, 'trust': 0.027, 'fear': 0.033, 'interest_vigilance': 0.043, 'distraction': 0.045, 'amazement_surprise': 0.07, 'anticipation': 0.072, 'boredom': 0.111, 'anger': 0.113, 'joy_ecstasy': 0.118, 'acceptance': 0.38}"
+457,637,637,fear,When my mother's heart nearly stopped.,2.0,"{'acceptance': 0.034, 'fear': 0.035, 'distraction': 0.046, 'interest_vigilance': 0.051, 'boredom': 0.121, 'amazement_surprise': 0.122, 'disgust_loathing': 0.246, 'sadness': 0.386}"
+458,638,638,anger,"There was a sofa in my flat which belonged to the old tenants who á
+were acquaintances.  It should have been picked up a year ago but á
+they had postponed it.  Eventually they decided on one date and I á
+stayed at home despite the fact that I had other things to do.  á
+They did not come, nor did they call and they still have not got á
+in touch with me.",3.0,"{'trust': 0.027, 'anger': 0.03, 'disgust_loathing': 0.036, 'amazement_surprise': 0.037, 'anticipation': 0.043, 'fear': 0.057, 'senerity': 0.059, 'distraction': 0.106, 'boredom': 0.182, 'sadness': 0.197, 'acceptance': 0.267}"
+459,639,639,sadness,When my ex-boyfriend and I separated.,4.0,"{'interest_vigilance': 0.007, 'anticipation': 0.019, 'fear': 0.024, 'senerity': 0.024, 'acceptance': 0.03, 'amazement_surprise': 0.033, 'distraction': 0.04, 'disgust_loathing': 0.113, 'boredom': 0.189, 'sadness': 0.562}"
+460,640,640,disgust,"Very intoxicated men who incite each other to fight.   I met a á
+vile smelling man on the tram who got closer and closer to me á
+till I got up, then he got angry.",5.0,"{'sadness': 0.071, 'boredom': 0.167, 'disgust_loathing': 0.273, 'anger': 0.531}"
+461,643,643,joy,When I fell in love.,1.0,"{'senerity': 0.011, 'boredom': 0.015, 'interest_vigilance': 0.016, 'trust': 0.019, 'disgust_loathing': 0.03, 'amazement_surprise': 0.037, 'distraction': 0.045, 'anticipation': 0.145, 'acceptance': 0.176, 'sadness': 0.244, 'joy_ecstasy': 0.304}"
+462,644,644,fear,"Earlier, I was afraid of speaking in front of a crowd of people.",2.0,"{'joy_ecstasy': 0.005, 'anger': 0.016, 'anticipation': 0.026, 'senerity': 0.032, 'disgust_loathing': 0.042, 'distraction': 0.085, 'interest_vigilance': 0.131, 'fear': 0.704}"
+463,645,645,anger,A girl I was with went off with another guy.,3.0,"{'fear': 0.032, 'admire': 0.035, 'acceptance': 0.035, 'senerity': 0.042, 'amazement_surprise': 0.044, 'interest_vigilance': 0.047, 'joy_ecstasy': 0.051, 'disgust_loathing': 0.1, 'distraction': 0.112, 'boredom': 0.143, 'anticipation': 0.179, 'sadness': 0.222}"
+464,646,646,sadness,At set-backs.,4.0,"{'trust': 0.004, 'boredom': 0.022, 'admire': 0.026, 'disgust_loathing': 0.038, 'distraction': 0.042, 'sadness': 0.047, 'senerity': 0.054, 'joy_ecstasy': 0.068, 'acceptance': 0.076, 'anger': 0.077, 'anticipation': 0.106, 'fear': 0.208, 'interest_vigilance': 0.273}"
+465,647,647,disgust,"I worked in a harbour and emptied latrine containers from the á
+back of the lorries.",5.0,"{'distraction': 0.008, 'trust': 0.017, 'admire': 0.032, 'fear': 0.035, 'joy_ecstasy': 0.044, 'acceptance': 0.045, 'senerity': 0.078, 'disgust_loathing': 0.095, 'boredom': 0.121, 'interest_vigilance': 0.131, 'anticipation': 0.195, 'sadness': 0.24}"
+466,650,650,joy,"When I was accepted as a student of Psychology here at á
+Gutttenburg.",1.0,"{'anger': 0.023, 'admire': 0.033, 'interest_vigilance': 0.033, 'disgust_loathing': 0.036, 'joy_ecstasy': 0.045, 'trust': 0.068, 'boredom': 0.073, 'anticipation': 0.206, 'acceptance': 0.526}"
+467,651,651,fear,"I woke up in the middle of the night as I had jumped and shouted á
+with fear.  I thought that someone's cold hand or something á
+similar had touched my hand.  I crept down under the covers and á
+went back to sleep.",2.0,"{'anticipation': 0.016, 'trust': 0.023, 'acceptance': 0.024, 'anger': 0.026, 'sadness': 0.026, 'senerity': 0.027, 'joy_ecstasy': 0.047, 'disgust_loathing': 0.05, 'distraction': 0.099, 'interest_vigilance': 0.141, 'fear': 0.562}"
+468,652,652,anger,[ No response.],3.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+469,653,653,sadness,[ No response.],4.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+470,654,654,disgust,"When I was a young teenager (14)  my brother-in-law to be had á
+made heavy advances to me.  I did not understand very well what á
+it was all about but I reacted strongly and the feelings are á
+still there.",5.0,"{'senerity': 0.011, 'anticipation': 0.019, 'boredom': 0.022, 'admire': 0.03, 'trust': 0.055, 'joy_ecstasy': 0.14, 'interest_vigilance': 0.212, 'acceptance': 0.552}"
+471,657,657,joy,I made dinner for some friends and they appreciated it very much.,1.0,"{'anticipation': 0.031, 'interest_vigilance': 0.041, 'amazement_surprise': 0.051, 'acceptance': 0.121, 'admire': 0.215, 'joy_ecstasy': 0.583}"
+472,658,658,fear,I was nearly knocked down while I was cycling.,2.0,"{'admire': 0.008, 'boredom': 0.012, 'joy_ecstasy': 0.019, 'acceptance': 0.03, 'fear': 0.054, 'amazement_surprise': 0.075, 'distraction': 0.126, 'sadness': 0.231, 'disgust_loathing': 0.486}"
+473,659,659,anger,"My father and I had an argument because I do not help enough at á
+home.",3.0,"{'sadness': 0.165, 'boredom': 0.242, 'anger': 0.313, 'disgust_loathing': 0.322}"
+474,660,660,sadness,[ No response.],4.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+475,661,661,disgust,"I had intercourse with someone and then I realized that what I á
+had done was wrong and it disgusted me.",5.0,"{'acceptance': 0.052, 'admire': 0.064, 'anger': 0.178, 'sadness': 0.183, 'disgust_loathing': 0.209, 'boredom': 0.354}"
+476,664,664,joy,After intercourse.,1.0,"{'senerity': 0.011, 'trust': 0.036, 'disgust_loathing': 0.042, 'admire': 0.069, 'acceptance': 0.141, 'interest_vigilance': 0.141, 'anticipation': 0.259, 'joy_ecstasy': 0.341}"
+477,665,665,fear,Disappointment over a friend.,2.0,"{'distraction': 0.012, 'amazement_surprise': 0.027, 'disgust_loathing': 0.066, 'sadness': 0.337, 'boredom': 0.598}"
+478,666,666,anger,Quarrelled with my younger brother.,3.0,"{'fear': 0.018, 'distraction': 0.024, 'sadness': 0.136, 'boredom': 0.183, 'anger': 0.276, 'disgust_loathing': 0.404}"
+479,667,667,sadness,When I woke up after a nightmare.,4.0,"{'acceptance': 0.025, 'anger': 0.029, 'disgust_loathing': 0.044, 'amazement_surprise': 0.047, 'joy_ecstasy': 0.051, 'sadness': 0.063, 'distraction': 0.065, 'boredom': 0.096, 'interest_vigilance': 0.179, 'fear': 0.18, 'anticipation': 0.261}"
+480,668,668,disgust,Helping older people on the toilet.,5.0,"{'fear': 0.008, 'disgust_loathing': 0.012, 'acceptance': 0.036, 'interest_vigilance': 0.041, 'senerity': 0.043, 'distraction': 0.045, 'admire': 0.056, 'boredom': 0.153, 'joy_ecstasy': 0.202, 'sadness': 0.446}"
+481,671,671,joy,"When I was notified that I had been accepted as a Psychology á
+student.",1.0,"{'interest_vigilance': 0.017, 'boredom': 0.046, 'amazement_surprise': 0.069, 'trust': 0.088, 'joy_ecstasy': 0.109, 'admire': 0.124, 'acceptance': 0.588}"
+482,672,672,fear,"Motor failure on a boat outside Gottenburg when we were in heavy  á
+seas and the wind was strong.  As we could not steer the boat we á
+drifted towards the rocks.  We did not succeed in attracting the á
+attention of any passerby until 4 hours had elapsed.",2.0,"{'distraction': 0.007, 'amazement_surprise': 0.026, 'interest_vigilance': 0.036, 'fear': 0.039, 'acceptance': 0.044, 'boredom': 0.267, 'sadness': 0.296, 'disgust_loathing': 0.326}"
+483,673,673,anger,"A lady I live with had not bothered to clean up before she went   á
+on holiday (I live in a collective).",3.0,"{'distraction': 0.049, 'boredom': 0.067, 'interest_vigilance': 0.091, 'joy': 0.24200000000000002, 'sadness': 0.283, 'disgust': 0.307}"
+484,674,674,sadness,When I heard that a good friend had committed suicide.,4.0,"{'joy_ecstasy': 0.003, 'trust': 0.006, 'admire': 0.01, 'anticipation': 0.011, 'fear': 0.024, 'amazement_surprise': 0.029, 'anger': 0.033, 'interest_vigilance': 0.034, 'boredom': 0.052, 'acceptance': 0.082, 'senerity': 0.1, 'disgust_loathing': 0.161, 'sadness': 0.496}"
+485,675,675,disgust,"I was present when they found a shop-keeper dead in his shop.  á
+He had been shot with a shotgun at close range.",5.0,"{'senerity': 0.029, 'interest_vigilance': 0.032, 'trust': 0.033, 'distraction': 0.033, 'sadness': 0.041, 'acceptance': 0.064, 'anger': 0.244, 'disgust_loathing': 0.268, 'fear': 0.298}"
+486,678,678,joy,"After I had made my debut at Ullevi against IFK, Gottenburg and á
+got a good write up in the paper.",1.0,"{'disgust_loathing': 0.008, 'fear': 0.011, 'admire': 0.024, 'boredom': 0.033, 'senerity': 0.037, 'anger': 0.038, 'interest_vigilance': 0.039, 'trust': 0.043, 'amazement_surprise': 0.151, 'joy_ecstasy': 0.26, 'acceptance': 0.397}"
+487,679,679,fear,"When I was 7-8 years old, I woke up one night and found myself á
+alone at home.  My mother had gone out to buy cigarattes from a á
+machine.",2.0,"{'acceptance': 0.001, 'anger': 0.009, 'amazement_surprise': 0.019, 'interest_vigilance': 0.053, 'anticipation': 0.056, 'disgust_loathing': 0.082, 'joy_ecstasy': 0.14, 'boredom': 0.173, 'sadness': 0.509}"
+488,680,680,anger,[ No response.],3.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"
+489,681,681,sadness,"When I found out that I had failed to pass my exams during the á
+term by one point.  The fact that exactly the same thing had á
+happened last term did not help.",4.0,"{'distraction': 0.012, 'amazement_surprise': 0.017, 'disgust_loathing': 0.138, 'sadness': 0.322, 'boredom': 0.551}"
+490,682,682,disgust,"When I was touring Asia with my present football team, I saw old á
+Europeans with young asiatic prostitutes.",5.0,"{'senerity': 0.013, 'interest_vigilance': 0.026, 'admire': 0.035, 'acceptance': 0.042, 'boredom': 0.057, 'anger': 0.06, 'fear': 0.064, 'disgust_loathing': 0.065, 'sadness': 0.075, 'amazement_surprise': 0.115, 'distraction': 0.12, 'joy_ecstasy': 0.143, 'anticipation': 0.225}"
+491,685,685,joy,"As an evening class teacher I got positive feedback.  When the á
+atmosphere is good and a kind of relaxed understanding exists.",1.0,"{'trust': 0.022, 'interest_vigilance': 0.035, 'acceptance': 0.079, 'admire': 0.108, 'senerity': 0.195, 'joy_ecstasy': 0.602}"
+492,686,686,fear,"After mischieviously ringing on the chemist's trade-entrance á
+doorbell and getting caught by him.",2.0,"{'fear': 0.019, 'admire': 0.023, 'anger': 0.051, 'anticipation': 0.056, 'acceptance': 0.057, 'amazement_surprise': 0.084, 'disgust_loathing': 0.16, 'boredom': 0.162, 'distraction': 0.185, 'sadness': 0.242}"
+493,687,687,anger,The sight of a man who ran amok (fighting) at a dance.,3.0,"{'interest_vigilance': 0.01, 'trust': 0.019, 'admire': 0.026, 'fear': 0.03, 'acceptance': 0.031, 'sadness': 0.042, 'boredom': 0.066, 'anger': 0.068, 'anticipation': 0.072, 'distraction': 0.082, 'amazement_surprise': 0.183, 'joy_ecstasy': 0.412}"
+494,688,688,sadness,When out of work.,4.0,"{'sadness': 0.008, 'trust': 0.008, 'boredom': 0.009, 'distraction': 0.02, 'admire': 0.028, 'amazement_surprise': 0.035, 'acceptance': 0.074, 'anticipation': 0.096, 'fear': 0.118, 'joy_ecstasy': 0.144, 'interest_vigilance': 0.238, 'senerity': 0.262}"
+495,689,689,disgust,"With my mouth full of bun, I drank directly from a packet of milk á
+which turned out to be weeks old (completely separated).  It took á
+a while for the milk to seep through the bun.",5.0,"{'amazement_surprise': 0.004, 'distraction': 0.016, 'admire': 0.019, 'trust': 0.024, 'fear': 0.028, 'sadness': 0.041, 'senerity': 0.058, 'anger': 0.094, 'boredom': 0.098, 'disgust_loathing': 0.117, 'joy_ecstasy': 0.128, 'anticipation': 0.137, 'acceptance': 0.278}"
+496,692,692,joy,"When I was accepted as supervisor for a student teacher.  The á
+notification came by post.",1.0,"{'anger': 0.012, 'disgust_loathing': 0.024, 'amazement_surprise': 0.029, 'anticipation': 0.047, 'boredom': 0.054, 'joy_ecstasy': 0.059, 'trust': 0.081, 'interest_vigilance': 0.087, 'admire': 0.155, 'acceptance': 0.491}"
+497,693,693,fear,"When I was involved in a car accident last November, after the á
+first fall of snow.  I lost control of the car and it spun round á
+and landed on the opposite side of the road, on the hard á
+shoulder.  It was stopped by a pole on top of a bank sloping down á
+to a stream.",2.0,"{'interest_vigilance': 0.024, 'boredom': 0.05, 'acceptance': 0.051, 'fear': 0.077, 'amazement_surprise': 0.12, 'distraction': 0.189, 'sadness': 0.211, 'disgust_loathing': 0.319}"
+498,694,694,anger,"With the job appointments committee when the headmaster in charge á
+explained that a male teacher was more suitable for the á
+particular post.  I had more years of service than the male á
+teacher, but this was not taken into consideration.  I could have á
+been given a less attractive job if things had gone the way the á
+headmaster wanted.",3.0,"{'boredom': 0.011, 'fear': 0.019, 'anger': 0.024, 'trust': 0.027, 'sadness': 0.029, 'disgust_loathing': 0.033, 'senerity': 0.044, 'joy_ecstasy': 0.045, 'admire': 0.052, 'distraction': 0.067, 'anticipation': 0.08, 'interest_vigilance': 0.141, 'amazement_surprise': 0.188, 'acceptance': 0.281}"
+499,695,695,sadness,"A colleague's 17 year old daughter is seriously ill with cancer á
+and has only a year to live.  I  heard about it 6 weeks ago.",4.0,"{'fear': 0.011, 'acceptance': 0.016, 'amazement_surprise': 0.019, 'distraction': 0.022, 'interest_vigilance': 0.073, 'anticipation': 0.098, 'disgust_loathing': 0.396, 'sadness': 0.407}"
+500,696,696,disgust,[ No response.],5.0,"{'fear': 0.001, 'acceptance': 0.026, 'senerity': 0.055, 'anticipation': 0.06, 'disgust_loathing': 0.109, 'sadness': 0.3, 'boredom': 0.49}"

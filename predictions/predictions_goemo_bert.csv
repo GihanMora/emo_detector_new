@@ -1,0 +1,2050 @@
+,Unnamed: 0,Unnamed: 0.1,sentiment,text,sentiment_id,predictions
+0,0,0,joy,"During the period of falling in love, each time that we met and á
+especially when we had not met for a long time.",1.0,18
+1,1,1,fear,When I was involved in a traffic accident.,2.0,24
+2,2,2,anger,"When I was driving home after  several days of hard work, there á
+was a motorist ahead of me who was driving at 50 km/hour and á
+refused, despite his low speeed to let me overtake.",3.0,13
+3,3,3,sadness,When I lost the person who meant the most to me.,4.0,16
+4,4,4,disgust,"The time I knocked a deer down - the sight of the animal's á
+injuries and helplessness.  The realization that the animal was á
+so badly hurt that it had to be put down, and when the animal á
+screamed at the moment of death.",5.0,22
+5,7,7,joy,"When I got a letter offering me the Summer job that I had applied á
+for.",1.0,15
+6,8,8,fear,"When I was going home alone one night in Paris and a man came up á
+behind me and asked me if I was not afraid to be out alone so á
+late at night.",2.0,19
+7,9,9,anger,When I was talking to HIM at a party for the first time in a long while and a friend came and interrupted us and HE left.,3.0,6
+8,10,10,sadness,"When my friends did not ask me to go to a New Year's party á
+with them.",4.0,10
+9,11,11,disgust,"When I saw all the very drunk kids (13-14 years old) in town on á
+Walpurgis night.",5.0,13
+10,14,14,joy,"[ On days when I feel close to my partner and other friends.  á
+When I feel at peace with myself and also experience a close á
+contact with people whom I regard greatly.]",1.0,5
+11,15,15,fear,"Every time I imagine that someone I love or I could contact a á
+serious illness, even death.",2.0,18
+12,16,16,anger,"When I had been obviously unjustly treated and had no possibility á
+of elucidating this.",3.0,9
+13,17,17,sadness,"When I think about the short time that we live and relate it to á
+the periods of my life when I think that I did not use this á
+short time.",4.0,6
+14,18,18,disgust,"At a gathering I found myself involuntarily sitting next to two á
+people who expressed opinions that I considered very low and á
+discriminating.",5.0,6
+15,21,21,joy,"After my girlfriend had taken her exam we went to her parent's á
+place.",1.0,5
+16,22,22,fear,"When, for the first time I realized the meaning of death.",2.0,22
+17,23,23,anger,"When a car is overtaking another and I am forced to drive off the á
+road.",3.0,6
+18,24,24,sadness,"When I recently thought about the hard work it takes to study, and  á
+how one wants to try something else.  When I read a theoretical á
+book in English that I did not understand.",4.0,6
+19,25,25,disgust,When I found a bristle in the liver paste tube.,5.0,22
+20,28,28,joy,When I pass an examination which I did not think I did well.,1.0,9
+21,29,29,fear,"When one has arranged to meet someone and that person arrives á
+late, in the meantime one starts thinking about all that could á
+have gone wrong e.g a traffic accident.",2.0,6
+22,30,30,anger,When one is unjustly accused of something one has not done.,3.0,22
+23,31,31,sadness,When one's studies seem hopelessly difficult and uninteresting.,4.0,9
+24,32,32,disgust,"When one finds out that someone you know is not at all like one á
+had thought, for instance friends who steal and things like that, á
+quite unwarranted.",5.0,22
+25,35,35,joy,Passing an exam I did not expect to pass.,1.0,26
+26,36,36,fear,"When I climbed up a tree to pick apples.  The angle of the ladder á
+I was on did not enable me to get high enough.  This implied á
+that the ladder was not very stable.",2.0,9
+27,37,37,anger,Friends who torture animals.,3.0,10
+28,38,38,sadness,[ Same as in anger.],4.0,2
+29,39,39,disgust,Friends who torture animals.,5.0,10
+30,42,42,joy,When I had my children.,1.0,22
+31,43,43,fear,"When my 2 year old son climbed up and sat on the 7th floor á
+balcony with his legs hanging out.  He was holding on tightly to á
+the upper railing of the balcony but he could have easily lost á
+his balance when he sat down.",2.0,19
+32,44,44,anger,When my partner was attacked and lost three teeth.,3.0,2
+33,45,45,sadness,"When I see children on T.V from areas devastated by drought and á
+war.",4.0,22
+34,46,46,disgust,When I nearly walked on a blindworm and then saw it crawl away.,5.0,19
+35,49,49,joy,When my child was born.,1.0,22
+36,50,50,fear,"It was winter/spring and the ice was melting.  I was far out on a á
+jetty and I poked the ice with a long branch to try and break it. á
+ The branch went through the ice and I fell in, the water closed á
+in over my head.",2.0,4
+37,51,51,anger,"Unjust accusations directed at me and my way of acting, by á
+someone close to me.",3.0,10
+38,52,52,sadness,Failing an examination.,4.0,9
+39,53,53,disgust,"A drunkard fell, started bleeding and wet himself.  Disgust that á
+turned into sadness-unpleasantness.",5.0,11
+40,56,56,joy,When I saw a person I had not seen for a long time.,1.0,26
+41,57,57,fear,"When, as a child, I was nearly knocked down by a car.",2.0,13
+42,58,58,anger,"When I heard on the radio that the football match in Belgium had á
+ended in a catastrophe, and several people had died.  I could not á
+ understand how normal people could behave in such a way.",3.0,6
+43,59,59,sadness,"When I feel lonely, perhaps because I have to study a lot and I á
+am shut up in my appartment.  Nothing happens in particular á
+because there is no time for anything else.",4.0,25
+44,60,60,disgust,"When one learns through the mass media all the wars and killing á
+going on in the world.",5.0,22
+45,63,63,joy,When I was accepted for a course on finance and accounting.,1.0,22
+46,64,64,fear,"A bus drove over my right leg.  The event itself was not very á
+frightening but when I had to wait in the emergency ward for á
+three hours and then my leg began to swell, I was frightened.",2.0,19
+47,65,65,anger,"At my Summer job, nobody looked after me in particular and I had á
+to learn all on my own.",3.0,9
+48,66,66,sadness,When I was not accepted as a student in finance and accounting.,4.0,9
+49,67,67,disgust,"When I had just moved into my new appartment I found a ventilator á
+in the kitchen.  I was going to clean it when I found that the á
+drum was full of mud and slime.  I felt disgusted.",5.0,11
+50,70,70,joy,Passed an exam by 2 points.,1.0,22
+51,71,71,fear,"In a cottage in a large forest, I was alone for a while in the á
+dark.",2.0,4
+52,72,72,anger,When I spoke to Jan-Erik Wikstr÷m on the telephone.,3.0,22
+53,73,73,sadness,Railway station good-bye.,4.0,19
+54,74,74,disgust,"I saw a cripple in rags with small children in Italy.  He was á
+probably an imposter.",5.0,6
+55,77,77,joy,I passed an exam that I was absolutely certain that I had failed.,1.0,9
+56,78,78,fear,"On the way back from Denmark with a friend on a small yatch, á
+there was a storm and my friend was blown overboard;  I was very á
+scared till I managed to get him back onboard.",2.0,19
+57,79,79,anger,I locked myself out.,3.0,19
+58,80,80,sadness,I missed the last tram home and had to walk in the pouring rain.,4.0,19
+59,81,81,disgust,I found some worms in the food and I had obviously eaten some.,5.0,22
+60,84,84,joy,When I won a trip to Greece in a competition.,1.0,22
+61,85,85,fear,"When I am out in the dark and a suspicious looking character á
+comes towards me.",2.0,7
+62,86,86,anger,"At work, when an elderly man complained unjustifiably about me and á
+distrusted me.",3.0,10
+63,87,87,sadness,When I had not understood anything after a lecture.,4.0,6
+64,88,88,disgust,When an alcoholic stood dribbling over a food counter.,5.0,3
+65,91,91,joy,"At a friend's birthday party with some of my closest friends.  It á
+was all very pleasant and one could say that I was happy to have á
+such good friends.",1.0,17
+66,92,92,fear,"On the way home one Friday night in the heavy rain the car á
+acquaplanned.  I lost contact with the road surface for a few á
+seconds.",2.0,19
+67,93,93,anger,Mad at my dad.,3.0,2
+68,94,94,sadness,A case of unrequited love.,4.0,18
+69,95,95,disgust,A bad smelling cucumber.,5.0,11
+70,98,98,joy,I felt very happy when I won the football pools.,1.0,13
+71,99,99,fear,"When I flew from Athens to Copenhagen after a holiday.  The plane á
+was caught in a storm and it began to shake and I thouhght that á
+we were going to crash.",2.0,13
+72,100,100,anger,When someone stole my bike.,3.0,12
+73,101,101,sadness,"When I saw the list of books to read for an acccouting course, I á
+thought "" Oh God how will I ever manaage it!""",4.0,12
+74,102,102,disgust,"It was when I read a newspaper article on the future and they á
+foresaw that we would be eating frog-burgers by the year 2000.  á
+An illustration showed a frog between two pieces of bread.",5.0,5
+75,105,105,joy,"When the whole family gets together for a one week holiday.  á
+Everybody feels free and the trip is well planned.  It works out á
+well and we enjoy ourselves.",1.0,20
+76,106,106,fear,"When I could not find my 2 year old daughter.  I ran and looked á
+for her everywhere and could not find her.  (I finally found her, á
+she had gone to bed to sleep)",2.0,6
+77,107,107,anger,When friends try to put me down or hurt me.,3.0,2
+78,108,108,sadness,Marriage crises.  Boredom.,4.0,3
+79,109,109,disgust,When someone makes advances that one does not want.,5.0,10
+80,112,112,joy,When I passed the first examination that I had to repeat.,1.0,22
+81,113,113,fear,"When I drove to Stockholm for the first time and drove off the á
+Stora Hissingen road at the wrong exit.",2.0,6
+82,114,114,anger,When my boyfriend went away for a month long holiday without me.,3.0,24
+83,115,115,sadness,"Last year when I worked during the Summer holidays and studied á
+at the same time for an examination I had to repeat; my boyfriend á
+went to Greece for a holiday for a month.",4.0,4
+84,116,116,disgust,When a dog is left whining outside a shop.,5.0,3
+85,119,119,joy,"The day I was told that I had been accepted as a student of á
+economics.",1.0,22
+86,120,120,fear,"While taking a short cut through the Vasa park, I was surrounded á
+by three people who tried to steal my money.  I was scared and á
+was saved only by the appearance of other people.",2.0,14
+87,121,121,anger,"At a restaurant I observed how the gypsies tried to get money by á
+cheating the foreigners i.e non Swedish speaking.  My anger had á
+nothing to do with hatred against foreigners, but it was an á
+expression of the anger I feel when I see people being used .",3.0,2
+88,122,122,sadness,"At the begining of a new course one is afraid of encountering á
+problems one can not manage.  Thoughts revolve around failing á
+the subject and the consequences it would have for the future.",4.0,14
+89,123,123,disgust,"While walking in town I noticed how the police harrassed a man á
+who was under the influence of alcohol.  They terrified him with á
+the thought of arrest by driving close behind him on a pedestrian á
+street.  My disgust was directed at the gestures and the facial á
+expressions of the policemen; they seemed to be enjoying á
+themselves.",5.0,11
+90,126,126,joy,"When I found out that I had passed the last two exams by a á
+margin of three marks.",1.0,22
+91,127,127,fear,When my father was ill and was waiting for the results of his tests.,2.0,19
+92,128,128,anger,"When I got caught in the pouring rain last Thursday and did not á
+have a raincoat on me.",3.0,26
+93,129,129,sadness,When I failed an exam.,4.0,9
+94,130,130,disgust,"At a Sm÷rgasbord table, a man mixed differnet kinds of picked á
+herrings with fruit salad.",5.0,7
+95,133,133,joy,"When I gave birth to my son and saw that he was alive and that I á
+had managed it well.  He was born a month too early with a á
+malfunctioning lung.  This happened a year ago.",1.0,5
+96,134,134,fear,"When I found out that my father had lung cancer and they did not á
+know how long he would live.",2.0,26
+97,135,135,anger,"When a colleague asked me for help at work, despite the fact á
+that he had more time to do it than I had.",3.0,8
+98,136,136,sadness,"When I did not get the salary increase that I had been expecting á
+and understood how little one's work was appreciated.",4.0,9
+99,137,137,disgust,When I was weeding the garden I found a lizard in my hand.,5.0,3
+100,140,140,joy,"New year's eve 1983/1984, I met my girlfriend.  We stood on the á
+steps outside her parents home and I kissed her for the á
+first time.",1.0,13
+101,141,141,fear,"When I was stopped by plain clothes policemen because the car I á
+was driving had overturned on the Avenue.  I had been driving too á
+fast, and I was afraid when I was stopped, questionned and then á
+toild to go.  The situation ended happily since there were no á
+consequences.",2.0,19
+102,142,142,anger,"The editor changed the heading of an article that I had written.  á
+He considered the heading to be derogatory towards the person I had written á
+about.",3.0,10
+103,143,143,sadness,"A close acquaintance of the family died of lung cancer.  á
+Although it was expected, I still felt depressed.",4.0,25
+104,144,144,disgust,"When I saw a picture, in the Gothenburg Post, of a totally á
+demolished car with two fatally injured passengers.  The car was á
+so badly damaged that they couldn't get the bodies out at the á
+scene of the accident.",5.0,4
+105,147,147,joy,When I got the loan for my studies.,1.0,5
+106,148,148,fear,"I met intoxicated people with dubious intentions in a back alley á
+one Wednesday night.",2.0,6
+107,149,149,anger,"On the T.V I saw a news feature on South Africa.  A policeman      á
+attacked a group of black people with a whip.",3.0,2
+108,150,150,sadness,"The thought of having to read a boring book of 400 pages in á
+English.",4.0,3
+109,151,151,disgust,Grovelling people.,5.0,7
+110,154,154,disgust,"Observing someone in the cafeteria noisily gulping in his food, á
+having extremely bad manners.",5.0,12
+111,157,157,joy,"When my sister - after a history of one abortion and one á
+stillbirth - gave birth to a perfectly healty boy.",1.0,5
+112,158,158,fear,"When my sister had the still born child, she was emotionally very á
+deep down, and it took her a long time to recover.",2.0,25
+113,159,159,anger,"We were starting a student project, and the teacher we talked to á
+was very negative and not very helpful.",3.0,9
+114,160,160,sadness,"When my boyfriend openly let me down, preferring another girl.",4.0,10
+115,161,161,disgust,"I felt some disgust for my boyfriend for a time, after he had á
+left me.",5.0,10
+116,164,164,joy,"Unexpected visit by a close friend, whom I hadn't seen for half a á
+year.",1.0,26
+117,165,165,fear,"I wandered by mistake into the safety zone of a shooting range, á
+and was shot at.",2.0,6
+118,166,166,anger,Being treated unfairly.,3.0,10
+119,167,167,sadness,Breaking up with a girl.,4.0,25
+120,168,168,disgust,Nothing.,5.0,27
+121,171,171,joy,"When I was accepted as a student at the college, not having á
+thought it possible.",1.0,6
+122,172,172,fear,"When I was the first to arrive at the scene after an accident, á
+and found that a close school friend had been killed.",2.0,13
+123,173,173,anger,"I was accused of having done something, which I hadn't and got á
+very angry.",3.0,2
+124,174,174,sadness,When my grandmother died.,4.0,16
+125,175,175,disgust,Not applicable.,5.0,6
+126,176,176,joy,"A couple of years ago during the summer holiday, I was fishing at á
+a lake with my husband.  Suddenly it started raining while the á
+sun was still shining. I experienced a feeling of joy, happiness á
+and fulfillment.  the whole nature was full of music.",1.0,17
+127,177,177,fear,"I was alone at home, in bed reading a womens' magazine in which á
+there were storiees of paranormal experiences.  My leg was á
+itching and I stretched my hand to scratch and I felt another á
+strange hand. (later I realized that it was the corner of the á
+blanket)",2.0,6
+128,178,178,anger,"I went to a lecture and once again it had been cancelled, this á
+was the second time.  One had a negative attitude towards the á
+lecturer.á",3.0,10
+129,179,179,sadness,"I heard that a former superior of mine had died, I was later at á
+home home reading about it in the newspaper and I thought of our á
+interaction and how it was no longer possible.  The limited scope á
+of human life is sad.",4.0,25
+130,180,180,disgust,"In the tram there was a fat, sickly looking woman in front of me á
+who was asking for directions in a thick voice.  When she got up to á
+go a disgusting smell of urine came from her.  I felt that I á
+would choke.",5.0,11
+131,183,183,joy,"I had a summer job in Sweden, and my boyfriend came to meet me on á
+my birthday.",1.0,13
+132,184,184,fear,"I went to practice in Sweden during summer, and I was afraid that á
+I would not do well.",2.0,14
+133,185,185,anger,"In the holiday cottage of our association, two of my pals came to á
+wake me up early one morning by bringing a radio played at the á
+highest volume into my room - it was the morning service at its á
+loudest.",3.0,13
+134,186,186,sadness,My grandmother died suddenly last summer.,4.0,16
+135,187,187,disgust,"My superior at the summer job swindled customers as much as he á
+could, and once put me in a difficult situation after which I á
+could not but detest him.",5.0,9
+136,190,190,joy,"I was told quite unexpectedly that one wanted me to become the á
+vice-chairman of our student organisation.  I was really á
+surprised and joy was the first emotion I felt, though behind it á
+there was worry - how shall I succeed ?",1.0,26
+137,191,191,fear,"Our tutorial group was soon to be divided, and we got a list of á
+names of freshmen, out of which five were to be in my group.  We á
+read the names and then each group went its own way to a seminar á
+room.  I wondered how I would cope with the new situation and if á
+I would succeed as a group leader.",2.0,7
+138,192,192,anger,"We were in a disco and the evening was not at all pleasant.  á
+Despite my not knowing why, I was angry with my companion.  I let á
+him feel my bad humour as I cannot hide my feelings.",3.0,2
+139,193,193,sadness,"My grandmother died, and my mother called me one sunday morning á
+in the Autumn.  The way my mother told me about it, I hated her á
+at that moment.  She sounded as if she had been waiting for the á
+death of my grandmother.  I had lost a person close to me.  I á
+felt guilty too as I had been bad to my grandmother of late.  I had not á
+remained calm when she no longer understood everything so well.",4.0,25
+140,194,194,disgust,"At the underground station, a drunkard came to speak to me.  He á
+tried to ask me something but I did not answer so he began to á
+speak about me with his companion.  I detested this dirty á
+growling man.",5.0,3
+141,197,197,joy,"Last night I had a chat with a fellow student.  I had known her á
+for about half a year, and for the first time we were speaking á
+""the same language""- meaning an inspiring discussion and á
+encounter.",1.0,5
+142,198,198,anger,"[ I sometimes quarrel with my mother because she blames me, á
+though I have not in any way been connected to some events.]",3.0,2
+143,199,199,sadness,"After hearing about the death of my grandfather.  First I could á
+not believe it, but later I wept and felt the situation was á
+hopeless.  I felt lonely and wanted to be consolated.",4.0,25
+144,200,200,disgust,"In the evening, while I was watching TV, my little brother came á
+in and started eating food he had brought from the kitchen while á
+I was trying to concentrate on the program.",5.0,4
+145,203,203,joy,"I met a dear friend of mine after a long time.  I expressed my feelings á
+in our own usual way, by mutual scolding and abusing (with á
+complete understanding) and by touching, patting and taking the á
+hand of the other person, etc...",1.0,5
+146,204,204,fear,"I felt fear of the purest kind after a car accident.  The á
+incident and images of horror kept coming back to my mind.  I á
+wondered what could have happened to my sister, my friend and me, á
+though nothing very serious actually happened.",2.0,14
+147,205,205,anger,"Two boys whom I know were telling me, in an indecent manner, how á
+they had teased a young and shy girl I know.  They had despised á
+her conviction, scorned and touched her.  I got very angry and á
+did not try to conceal it and gave it back to them.",3.0,2
+148,206,206,sadness,"My sweetheart left me, or rather we decided to break it off by á
+mutual consent.  The consequences were - unrestrained weeping, á
+feelings of loneliness, hopelessness and disconsolation.  I felt á
+that I should find a friend, to talk to joyfully and to forget.",4.0,25
+149,207,207,disgust,"Out of sheer curiosity, I went to see a pornographic movie in á
+Copenhagen.  The room was full of men, who panted and á
+masturbated.  Very disgusting.",5.0,11
+150,211,211,joy,When I won a tennis match.,1.0,22
+151,212,212,fear,When my dog ran out on thin ice last spring.,2.0,9
+152,213,213,anger,"When my tennis match was interrupted because a kid cycled right á
+into the court.",3.0,13
+153,214,214,sadness,[ No response.],4.0,9
+154,215,215,disgust,[ No response.],5.0,9
+155,218,218,joy,"Celebrations on the graduation day with the orchestra playing in á
+the garden ( I am a part of this orchestra).",1.0,13
+156,219,219,fear,Risk of being involved in a fight after a party.,2.0,14
+157,220,220,anger,"I had a very heavy work load and two colleagues, whom I have á
+nothing against, disturbed me by ""terror ringing"", i.e á
+continously interrupting me by telephoning.",3.0,19
+158,221,221,sadness,After an exam which I failed.,4.0,9
+159,222,222,disgust,[ Normally I do not feel disgusted.],5.0,27
+160,225,225,joy,"When I met an old schhol friend (school love) who works in á
+Sk+vde.",1.0,5
+161,226,226,fear,"When I was cycling to school, I nearly got knocked down by a car á
+which (overtook me too closely) did not give me any swerving space.",2.0,9
+162,227,227,anger,"When I was deputy manager during the Summer, certain deputies á
+took liberties, more than what was normal.",3.0,22
+163,228,228,sadness,"When I realized that my girlfriend, whom I like, and I were going á
+to separate.",4.0,22
+164,229,229,disgust,Dog dirt which thaws in the spring.,5.0,9
+165,232,232,joy,Passed the last exam.,1.0,22
+166,233,233,fear,Was nearly knocked down by a car.,2.0,25
+167,234,234,anger,"I reached the bus stop and realized that I had forgotten my bus á
+pass.",3.0,22
+168,235,235,sadness,"My current work load is too much.  The feeling comes back from á
+time to time.",4.0,3
+169,236,236,disgust,[ Can not think of any situation.],5.0,6
+170,239,239,joy,When my one year old son gives me a spontaneous kiss.,1.0,5
+171,240,240,fear,When someone close to me is travelling by car and is delayed.,2.0,3
+172,241,241,anger,When someone does something wrong which affects me negatively.,3.0,22
+173,242,242,sadness,When I think about my parents getting old.,4.0,25
+174,243,243,disgust,[ Can not remember.],5.0,6
+175,246,246,joy,"An ex-colleague asked me if I was interested in working in their á
+accounts bureau.  They needed ""clever people"" and he had á
+""immediately thought of me.""",1.0,7
+176,247,247,fear,"I was driving and a deer suddenly appeared in front of the á
+car when there was a lot of traffic behind me.",2.0,13
+177,248,248,anger,I saw a report on T.V news on apartheid in South Africa.,3.0,7
+178,249,249,sadness,[ No response.],4.0,9
+179,250,250,disgust,[ No response.],5.0,9
+180,253,253,joy,When my girlfriend became pregnant.,1.0,9
+181,254,254,fear,When I nearly collided with another car.,2.0,13
+182,255,255,anger,The time when someone let the air out of the tyres of my cycle.,3.0,3
+183,256,256,sadness,When I read a lot and did not remember anything.,4.0,6
+184,257,257,disgust,[ No response.],5.0,9
+185,260,260,joy,[ No response.],1.0,9
+186,261,261,fear,[ No response.],2.0,9
+187,262,262,anger,[ No response.],3.0,9
+188,263,263,sadness,Long illness.,4.0,25
+189,264,264,joy,When I passed an exam.,1.0,22
+190,265,265,fear,"When I was travelling by tram, I tripped and fell against the á
+door.  I thought that I was going to fall out.",2.0,19
+191,266,266,anger,When I missed the tram after having run for it.,3.0,13
+192,267,267,sadness,The inability to read a book at college.,4.0,9
+193,268,268,disgust,If a guy one is not interested in makes advances.,5.0,8
+194,271,271,joy,"I worked at a lawyer's office during Summer and I got a very á
+good reference from him.",1.0,5
+195,272,272,fear,"I had been watching a triller a dark night in the country and I á
+had to go the outside toilet on my own.",2.0,3
+196,273,273,anger,"When I am accused of something I have not done, I get unbelievably á
+angry.",3.0,2
+197,274,274,sadness,"When I began to read a thick book, which I had a limited time to á
+read.  Also when I have a lot of work to do and I cannot keep up.",4.0,3
+198,275,275,disgust,Someone vomited on the street.,5.0,12
+199,278,278,joy,When I was finally qualified for my profession.,1.0,22
+200,279,279,fear,Someone attacked me with a knife.,2.0,2
+201,280,280,anger,Someone drove into my car and then denied that it had happened.,3.0,6
+202,281,281,sadness,When I was told that my friend's wife had cancer.,4.0,10
+203,282,282,disgust,When I saw a dog which had been knocked down by a car.,5.0,13
+204,285,285,joy,I stopped working (had a boring job).,1.0,9
+205,286,286,fear,"I was going home by car late one night when it was cold, dark and á
+windy.  I became rather panicky on the way to my house.",2.0,19
+206,287,287,anger,Quarrel in the family.,3.0,2
+207,288,288,sadness,"When I am alone in a room with no contact with anyone - á
+loneliness drains me.",4.0,25
+208,289,289,disgust,When I was on holiday someone vomited in front of me.,5.0,11
+209,292,292,joy,When I get a hug from someone I love.,1.0,18
+210,293,293,fear,"I was driving very fast on a small road and I met an oncoming car á
+in a right handed bend.  The other driver was on his own side of á
+the road and I had to skid out of it to avoid a collision.  It á
+was dark.",2.0,4
+211,294,294,anger,"My car had been towed away by the traffic police because it had á
+been wrongly parked.  However the sign had been put up only after á
+I had already parked.",3.0,6
+212,295,295,sadness,After an operation I had to stay in bed for a long time.,4.0,4
+213,296,296,disgust,"I was forced to stay in the canteen and eat the food that I had á
+not asked for but got it anyway.",5.0,6
+214,299,299,joy,When I won an unexpected sum of money.,1.0,26
+215,300,300,fear,"My 2 year old daughter disappeared in a moment of inattention; I á
+was responsible for her.",2.0,16
+216,301,301,anger,"A colleague asked me for some advice and as he did not have á
+enough confidence in me he asked a third person.",3.0,9
+217,302,302,sadness,"I wanted to be pregnant and did not succeed, so I was depressed    á
+at every menstruation.",4.0,9
+218,303,303,disgust,"In a warm bus full of people, someone vomited and the whole bus á
+stank.",5.0,11
+219,306,306,joy,"When I was at a party I met an old friend from an adult á
+education course.  We had not met for 2 years but had both thought á
+a lot about each other.  A wonderful experience.á",1.0,17
+220,307,307,fear,"When I was cycling through the park late one night, two people á
+jumped out of the woods and tried to stop me.  There were á
+shouting something at the same time.",2.0,13
+221,308,308,anger,"When close relatives tried to dissuade me from studying á
+Psychology because of its low status.",3.0,10
+222,309,309,sadness,"I had a long discussion on politics with an acquaintance.  He á
+was more knowledgeable than me and I failed to explain my point á
+of view and was misunderstood so I felt depressed and left.",4.0,25
+223,310,310,disgust,"When I read a newspaper article on a young girl who had been á
+raped and assaulted one night by several men when she was unconscious.",5.0,10
+224,313,313,joy,When I recently got an appartment in central Gottenburg.,1.0,4
+225,314,314,fear,When I saw a large spider crawling up the wall.,2.0,13
+226,315,315,anger,"My employer took too many aspirins for a bad back and also drank á
+an enormous amount of spirit.  This was dangerous  and he did á
+not understand that he had done anything wrong.",3.0,6
+227,316,316,sadness,"When I left New York, and all my family and my friends behind me.",4.0,24
+228,317,317,disgust,"When I slept with a guy because my best friend wanted me to.  á
+He had never had intercourse with anyone and had a terrible á
+complex about it.",5.0,8
+229,320,320,joy,"When my son returned from mountaineering - healthy in body and á
+soul.",1.0,22
+230,321,321,fear,"When one meets new people with whom one is forced to collaborate á
+with.",2.0,22
+231,322,322,anger,"The sports fishermen who catch gulls instead of fish with their hooks. á
+  It is often a mistake but it makes me angry.",3.0,3
+232,323,323,sadness,I feel sad about an event I can not influence.,4.0,25
+233,324,324,disgust,"When a member of the family complains about the food that is á
+served, it disgusts me.",5.0,11
+234,327,327,joy,"When I was informed that I had been accepted as a student of á
+Psychology.",1.0,22
+235,328,328,fear,"When I was in a little fishing boat and we ran into hard weather á
+in the open sea.",2.0,4
+236,329,329,anger,"When I found out that the guy I was dating at a particular time á
+had a steady relationship going on with someone else for a long á
+time.",3.0,22
+237,330,330,sadness,I felt sad and depressed when I heard that our cat had died.,4.0,25
+238,331,331,disgust,"When I was working as a nurse in a mental hospital, a patient ate á
+up the contents of another patient's spitoon.",5.0,10
+239,334,334,joy,When I was acceptted as a student of psychology.,1.0,22
+240,335,335,fear,When my son has a pain in his leg (for no apparent reason).,2.0,6
+241,336,336,anger,"When, after a week at school, a teacher sent a note home saying á
+that my son was inattentive and unable to do his lessons.",3.0,10
+242,337,337,sadness,"When I thought that it was going to be impossible for me to start á
+studying (due to wrong information from the student advisor).",4.0,6
+243,338,338,disgust,"At a certain person's lack of cleanliness, at home and á
+personally.",5.0,10
+244,341,341,joy,When my son was born.,1.0,22
+245,342,342,fear,"When I nearly drowned in icy water wearing ice skates.  It was á
+difficult to get out.",2.0,4
+246,343,343,anger,"When I was pointed out as a problem child in primary school and á
+my mother took the teacher's point of view.",3.0,10
+247,344,344,sadness,When I was accused of neglecting work for the wrong reasons.,4.0,10
+248,345,345,disgust,"My parents attitude towards each other when they should become á
+reconciled, despite my father's long-time addiction.",5.0,5
+249,348,348,joy,"When after 10 months of national service I was ""downgraded"" and á
+did not have to do the remaining 5 months.",1.0,10
+250,349,349,fear,"When I was reprimanded by the manager of the hotel where I á
+worked during Autumn 1984.",2.0,10
+251,350,350,anger,"When my parents drove me to a nearby place and went home á
+immediately instead of waiting a few hours.  They could have á
+easily waited.",3.0,4
+252,351,351,sadness,"When my ex-girlfriend and I discovered that there was a certain risk á
+of her being pregnant.",4.0,22
+253,352,352,disgust,"When I was about to clean the draining board and saw it looked á
+underneath the sink (I live in a students hostel).",5.0,6
+254,355,355,joy,"When my older sister told us that she was thinking of joining the á
+rest of the family for the winter sports holiday.",1.0,8
+255,356,356,fear,"Slept in a chapel and in the middle of the night I realized that á
+there was someeone else in the chapel.  I never discovered who á
+it was and why he was there.",2.0,22
+256,357,357,anger,"When we were in high school a few guys sometimes provoked a á
+friend of mine.  They called her a pig and then grunted.  This á
+irritated most of the girls.  Once, one of the girls got angry at á
+my friend and said something nasty and this made me terribly á
+angry.",3.0,2
+257,358,358,sadness,"I talked to my boyfriend on the phone when I was in high spirits á
+and had a lot to tell him.  I had been looking forward to this á
+conversation and he did not listen to me to the extent that I á
+had anticipated.",4.0,13
+258,359,359,disgust,A mother who shouts at her child for nothing.,5.0,2
+259,362,362,joy,When I got through the first day here at the department.,1.0,22
+260,363,363,fear,"When I was cycling past a parked car someone opened the door and á
+nearly pushed me off my bike and into the traffic.",2.0,13
+261,364,364,anger,"When my boyfriend sat up half the night playing computer games á
+with a friend.",3.0,3
+262,365,365,sadness,When I had to leave my mother and my sister after a week's visit.,4.0,25
+263,366,366,disgust,When I saw a big spider from very close.,5.0,13
+264,369,369,joy,When i was asked to be a child's godmother.,1.0,5
+265,370,370,fear,On the way down a ski slope which was difficult and steep.,2.0,7
+266,371,371,anger,When my mother interfered in my life.,3.0,10
+267,372,372,sadness,"When I was left alone one week-end without being prepared for á
+it.",4.0,9
+268,373,373,disgust,"The first time that I saw a surgeon cut off a leg and put it in a á
+black rubbish bag.",5.0,9
+269,376,376,joy,"When my husband suddenly came to see me at my new job and á
+brought some flowers and cake with him.",1.0,26
+270,377,377,fear,When I was nearly attackad by a man who had been chasing me.,2.0,13
+271,378,378,anger,"When my father asked me if I was a communist, at the same time he á
+made it clear that I should no longer see myself as his daughter.",3.0,10
+272,379,379,sadness,"When I applied for a job which I thought I had a good chance of á
+getting, I was not even granted an interview and did not get the á
+job.",4.0,9
+273,380,380,disgust,T.V features showing the violation of defenceless people.,5.0,10
+274,383,383,joy,"When we were able to afford a new sofa - a leather one which cost á
+SEK 20000.  I had waited for it for 2-3 years.",1.0,5
+275,384,384,fear,Vertigo - standing on a ladder and painting the house.,2.0,6
+276,385,385,anger,"When my boss enrolled in a course to satisfy his own ends - to á
+trample on his associates.  I have the misfortune to have one of á
+my superiors in my course.",3.0,12
+277,386,386,sadness,"When I argue with my mother about the way she treats her two á
+children differently.",4.0,10
+278,387,387,disgust,Spit and vomit.,5.0,11
+279,390,390,joy,"When I recently managed to get my first consulting assignment á
+""myself"" i.e on my own initiative.",1.0,22
+280,391,391,fear,"I was within a hair's breadth of knocking down a drunkard who á
+suddenly ran into the street.  The fear came later when I     á
+realized what could have happened.",2.0,14
+281,392,392,anger,"When my friend, as usual, forgot the tickets at home for a á
+performance.  We missed it.",3.0,9
+282,393,393,sadness,"The elections of 1982 and 1985.  The thought of what a social á
+democrat and communist majority could achieve, especially ""worker á
+share"" funds and its extension.",4.0,7
+283,394,394,disgust,"A study visit to a chicken factory : the butchery, the smell, á
+the environment and the noise.",5.0,7
+284,397,397,joy,"When I was appointed to position of trust in a group set up to á
+change the working environment.",1.0,5
+285,398,398,fear,"I was alone in a cottage I often stay in.  I was woken up by a á
+rustling sound in the middle of the night.",2.0,26
+286,399,399,anger,"When I tried to explain to a plumber, face to face, that the á
+toilet was broken and he did not believe it (it had been mended á
+ten times).",3.0,6
+287,400,400,sadness,"When the result of a project work was treated nonchalantly á
+intead of being criticized by the teacher.",4.0,10
+288,401,401,disgust,When programmes on violence or pornography are shown on T.V.,5.0,10
+289,404,404,joy,"After my girl and I talked things over our relationship changed á
+and became positive.  A diificult time turned into pleasant one.",1.0,23
+290,405,405,fear,"When we could not land our plane and we knew that the fuel was á
+running out.  Bad weather had already frightened us.",2.0,19
+291,406,406,anger,"When I read about Reagan's tactical decision concerning the á
+South African boycott.",3.0,7
+292,407,407,sadness,"When my half brother became seriously ill with cancer and died á
+later.",4.0,25
+293,408,408,disgust,"A film were a woman was attacked and raped.  One did not see the á
+worst but it had the desired effect - very strong.",5.0,8
+294,411,411,joy,"When I was offered a high position of trust, which I later á
+accepted.",1.0,4
+295,412,412,fear,"I had the window open and the door was shut so that the kitten á
+would not go out.  My partner came in and started talking about á
+something and I forgot about the window and suddenly I saw the á
+kitten hanging from the window frame. I was rigid with fright á
+till I got hold of her.",2.0,19
+296,413,413,anger,"Some noisy guests arrived at the hotel.  I had been slightly á
+irritated earlier.  At night when I was trying to sleep they were á
+having a party so I went and yelled at them.  I wanted to sleep á
+as I had to get up early the next day.",3.0,3
+297,414,414,sadness,"When I was told that I had not been successful in getting the job I á
+had been expecting.  I was sure that I was sufficiently á
+qualified.",4.0,9
+298,415,415,disgust,"When my cat vomited and a worm came out which was still alive.  I á
+was forced to wipe it up.",5.0,4
+299,418,418,joy,"[ Cycling in the spring sunshine gives me such delight.  á
+Happiness is to be healthy, my wonderful finance.  Simply being á
+here on earth.]",1.0,17
+300,419,419,fear,"When my relationship with my family is very poor I often fear á
+being excluded from the group, a fear which is stronger in á
+situations when an argument is on hand.",2.0,14
+301,420,420,anger,"Recently when my sister, who is four years younger than me and á
+very spoiled, shouted at my mother for no apparent reason .  The á
+heart-broken expression on my mother's face made me feel very á
+angry.",3.0,2
+302,421,421,sadness,"When I watched the T.V programme called ""The living planet"" and á
+saw the far reaching environmental destruction caused by man.",4.0,22
+303,422,422,disgust,"Disgust is a feeling that I have never experienced with peoplie á
+but , on the other hand, it has been with repulsive animals, i;e á
+snakes on T.V.",5.0,11
+304,425,425,joy,"On a boat trip to Denmark, 14 of us had a lot of fun and we á
+spent SEK 10 each on one armed bandits and against all odds we á
+won the jackpot of SEK 1000.",1.0,13
+305,426,426,fear,"A rainy day, I was cycling downhill and a car door suddenly á
+opened and while trying to avoid it the back wheels of my bike á
+got caught in the tram tracks.  I somersaulted but had no á
+injuries.",2.0,4
+306,427,427,anger,"On the way home from Marstrand I was driving behind my father's á
+car.  Another car tried to push in front of my father and he was á
+forced to swerve and he thus collided the car with a pillar.  The á
+other car drove off without even seeing what had happened.",3.0,4
+307,428,428,sadness,"My girlfriend who had spent 6 months abroad broke off our á
+relationship by letter.",4.0,10
+308,429,429,disgust,"At the police centre a man between 40-50 was brought in.  He was á
+very drunk and in all likelihood had not slept indoors for a long á
+time and had relieved himself in his trousers.",5.0,4
+309,432,432,joy,"When I was at the end-of-term party last week and had fun - was á
+happy and sang and drank only soft drinks.  It is possible to á
+have a good time without alcohol.",1.0,13
+310,433,433,fear,"Last Summer I was walking along the beach in a bikini and an á
+awful man came cycling after me.  He was shouting and I ran as á
+fast as my legs could carry me.",2.0,13
+311,434,434,anger,"In a course I thought that I deserved good marks but I only got á
+ordinary marks with no justification as to why I was given these á
+marks.",3.0,6
+312,435,435,sadness,"When I crashed my car and it had to be scrapped then.  It was my á
+fault and I feel depressed as I miss the car.",4.0,25
+313,436,436,disgust,"I had some sort of a stomach virus last week and  I vomited in á
+college in the morning, then in the cake shop, three times during á
+the trip home and again when I got home.",5.0,4
+314,439,439,joy,When I felt that my love was returned.,1.0,18
+315,440,440,fear,"When I was convinced that someonne had broken into my flat and I á
+woke up and heard sounds that frightened me.",2.0,14
+316,441,441,anger,"When it became clear that a man had used many people sexually á
+and psychologically, despite the fact that many people looked up á
+to him.  I understood that one could not trust him and I was á
+forced to hide this for a while.",3.0,22
+317,442,442,sadness,"When I feel helpless after having tried to help someone without á
+any result.",4.0,25
+318,443,443,disgust,"When I think now about the way my father behaved when filing a á
+divorce.",5.0,22
+319,446,446,joy,"When I recently got a very positive answer from a clinic telling á
+me that they would willingly assist and collect data for me for a á
+clinical pilot study.",1.0,20
+320,447,447,fear,Every time I meet a certain dog that has once bitten me.,2.0,22
+321,448,448,anger,"When after a lot of provocation my child threw a plate on the á
+floor.",3.0,2
+322,449,449,sadness,"When I realized that I could not communicate properly with my á
+closest friend.",4.0,22
+323,450,450,disgust,"When I tried to explain to my child as to why there were á
+magazines wiith naked girls on them at the kiosk.",5.0,7
+324,453,453,joy,"When I began dansing, the teacher came and told me that I was á
+very good and would soon get into the ballet academy.",1.0,4
+325,454,454,fear,"A late Saturday night I found myself locked in the central á
+underground station of Stockholm with a group of 50 hard rockers á
+who were drunk and equipped with various kinds of chains, etc.",2.0,4
+326,455,455,anger,"When I was forced to call the telephone company about a bill á
+concerning a disconnected phone belonging to my landlord.  The á
+bill was four months overdue and in the meanwhile he had been á
+using my phone, he seemed to have no intention of having his own á
+phone reconnected.",3.0,6
+327,456,456,sadness,"Whenever I read or think about the way people treat animals and á
+nature.",4.0,22
+328,457,457,disgust,"When I saw a T.V programme on animals in the film world á
+(mistreated and used).",5.0,10
+329,460,460,joy,When my 6 month old son is happy and well.,1.0,20
+330,461,461,fear,"A four year girl ran away from her father straight in front of my á
+car.  I was forced to use the emergency brakes.",2.0,13
+331,462,462,anger,[ After an examine I had been satisfied with.],3.0,4
+332,463,463,sadness,When a colleague failed to contact me at the arranged time.,4.0,9
+333,464,464,disgust,When I read racist slogans on the walls.,5.0,10
+334,467,467,joy,When I gave birth to a healthy boy.,1.0,22
+335,468,468,fear,"When my husband and I spent a night by ourselves in a house which á
+was in an area on the outskirts of a large town with which we were  á
+not familiar.  We  heard strange noises outside the house and the  á
+house had glass walls so the whole thing was even more á
+frightening.",2.0,14
+336,469,469,anger,"Jealous of my husband's old girlfriend.  We met her with her á
+husband and there was a lot of reminiscing.",3.0,2
+337,470,470,sadness,"When my daughter had problems with her friends and I could see á
+her predicament from the window.  She was given a the cold á
+shoulder.",4.0,25
+338,471,471,disgust,"When I was an auxiliary nurse at the hospital and I had to change á
+the nappies, for the first time, of a very old and sick woman.",5.0,4
+339,474,474,joy,"When my husband and I decided to take a few days holiday after a á
+particularly trying period.",1.0,8
+340,475,475,fear,"Before a hospital visit prior to a D&C under anasthesia for an á
+expected miscarriage.",2.0,5
+341,476,476,anger,Exchange of points of view with my sister on a family matter.,3.0,5
+342,477,477,sadness,Treatment to become pregnant with a negative result.,4.0,9
+343,478,478,disgust,"When I woke up one morning and went to the kitchen I discovered á
+that our dog had diarrhoea.  There were small ""piles"" all over á
+the floor and the smell was choking.",5.0,4
+344,481,481,joy,"When I gave birth to a child and saw that it was normal when it á
+was put against my breast.",1.0,22
+345,482,482,fear,"During labour when the foetal sounds became faint and there was a á
+big alert for a forceps delivery.",2.0,5
+346,483,483,anger,"At a cash desk where I had gone to buy 16 rolls of kitchen paper á
+at a reduced price.  After queuing with screaming children; it á
+turned out that I had taken two 8 roll packets instead of the one á
+16 roll packet to which the rebate applied.  The assistant said á
+""You will have to get it another time.""",3.0,6
+347,484,484,sadness,When I first heard that Tage Dannielsson had died.,4.0,26
+348,485,485,disgust,The lift of Stockholm central station stank of vomit and urine.,5.0,11
+349,488,488,joy,The high school entrance exam.,1.0,22
+350,489,489,fear,"A gang of screaming and drunk youths ""captured"" a tram.",2.0,2
+351,490,490,anger,"An unjust refree decision at a sports event when I was the team á
+leader.",3.0,9
+352,491,491,sadness,When my girlfriend left me.,4.0,24
+353,492,492,disgust,"I was dominated by a certain person and even though I knew it I á
+could not change my own reactions.",5.0,6
+354,495,495,joy,"Yesterday, when the final whistle blew at the final match between á
+OIS and IFK and it was certain that OIS had won the Swedish á
+title.",1.0,13
+355,496,496,fear,"I was teaching someone to drive and when we were about to crash I á
+was scared.",2.0,19
+356,497,497,anger,"A drummer who had borrowed my drums destroyed both the drumskin á
+and the sticks.  He did not repair them nor did he tell me about á
+it.",3.0,9
+357,498,498,sadness,"When my dad gives priority to my kid brother's band and his á
+other activities.  We both play in different bands and rehearse á
+in my parents garage.",4.0,5
+358,499,499,disgust,"A friend unjustly put the blame on me to relieve his conscience á
+and also spread lies for the same purpose.",5.0,12
+359,502,502,joy,"When I dived among sharks and the brightly coloured fish on the á
+outer reef of Tvavni, Fidgi.",1.0,13
+360,503,503,fear,"When I missed crashing, by a hair's breadth, into a man who came á
+out 20 metres ahead of me when I was driving at 110km/h.",2.0,26
+361,504,504,anger,"When I told off a computer teacher who did not want to teach me á
+beacause of prejudice.",3.0,10
+362,505,505,sadness,When I could not do anything because of a bad back.,4.0,9
+363,506,506,disgust,"When I discovered that the house we had hired in Tonga was full á
+of cockroaches.",5.0,22
+364,509,509,joy,"When I passed the driving test three weeks ago and got my á
+licence.",1.0,22
+365,510,510,fear,"When the car I was driving skidded on an icy road and landed in   á
+a ditch with one side against a rock.",2.0,4
+366,511,511,anger,[ No response.],3.0,9
+367,512,512,sadness,[ No response.],4.0,9
+368,513,513,disgust,[ No response.],5.0,9
+369,516,516,joy,When I met friends I had not seen for the last 2-4 years.,1.0,26
+370,517,517,fear,When a guy chased me when I was out jogging.,2.0,13
+371,518,518,anger,[ No response.],3.0,9
+372,519,519,sadness,[ No reponse.],4.0,27
+373,520,520,disgust,[ No response.],5.0,9
+374,523,523,joy,[ No response.],1.0,9
+375,524,524,fear,[ No response.],2.0,9
+376,525,525,anger,When the morning newspaper has not arrived.,3.0,3
+377,526,526,sadness,[ No response.],4.0,9
+378,527,527,disgust,[ No response.],5.0,9
+379,528,528,disgust,[ No response.],5.0,9
+380,531,531,joy,"I feel unbelievably happy about the relationship between my á
+boyfriend and me, it is a reoccurring feeling.",1.0,17
+381,532,532,fear,A reoccurring fear that something will happen to my relatives.,2.0,14
+382,533,533,anger,"When I argue with my boyfriend, I feel as though he feels á
+superior to me.",3.0,2
+383,534,534,sadness,"When I failed an exam last Summer.  I had worked very hard for it á
+and I was very disappointed thinking that it was hopeless to á
+continue at college.  I did overreact.",4.0,9
+384,535,535,disgust,[ No response.],5.0,9
+385,538,538,joy,I was very happy when I got an attractive Summer job.,1.0,13
+386,539,539,joy,The birth of my child.,1.0,22
+387,540,540,fear,"When I have to leave the baby in the carriage and go shopping, I á
+fear that something will happen to the baby.",2.0,14
+388,541,541,anger,"When during Winter the water pipes froze and we did not have any á
+water for two days.",3.0,4
+389,542,542,sadness,I did not quite succeed in breast feeding my baby.,4.0,9
+390,543,543,disgust,The smell of garlic in rush-hour bus.,5.0,7
+391,546,546,joy,"During the Christmas holidays, I met some of my old friends, á
+after not having seen them for six months.",1.0,4
+392,547,547,fear,"We were driving a car of a friend of mine when we turned in the á
+wrong direction towards an unknown district, and nearly drove á
+down a precipice.",2.0,13
+393,548,548,anger,"When our religion teacher presented shocking sectarian thoughts á
+and doom's day as official teaching.",3.0,26
+394,549,549,sadness,"My grandfather died, when I was an exchange student in the USA.",4.0,16
+395,550,550,disgust,"I happened to see the video-tape movie ""This is America - Part á
+one"" at my friend's place.",5.0,13
+396,553,553,joy,"In the underground's escalator, a youngish bum asked me for á
+money.  Although I did not give him anything, the fellow told me á
+that I was really good-looking.  A man who was in front of me á
+also turned to look at me.",1.0,8
+397,554,554,fear,"I was afraid of moving away from home and moving to Helsinki for á
+my studies.",2.0,14
+398,555,555,anger,"In the student kitchen that we share, somebody drank from my á
+juice pot (one litre) so that I only got one glass out of the á
+whole pot.",3.0,4
+399,556,556,sadness,My father gave money to my brother but not to me.,4.0,6
+400,557,557,disgust,"During the week-end at home, my mother fries greasy and unhealthy á
+meat dishes which make me feel sick.",5.0,11
+401,560,560,fear,"At about nine p.m., I went home by bike on a dark cycle-track; á
+because of lack of time I had to take the short-cut.",2.0,24
+402,561,561,fear,"Once I had to go home on foot at 5 a.m. I had to pass through a á
+forest and I was going alone.",2.0,4
+403,562,562,anger,"I missed the train and had to wait for the next for two hours. á
+For this reason I missed an appointment which had been very á
+important for me.",3.0,24
+404,563,563,sadness,When my grandmother died. I had lived with her for ten years.,4.0,16
+405,564,564,disgust,"When I went home by train from Sicilia, I was molested by a man.",5.0,12
+406,567,567,joy,"A person with whom I had been on bad terms, gave me a present. We á
+became reconciled.",1.0,22
+407,568,568,fear,"A friend's father had died, I was to come and see this friend á
+although I did not know his family.",2.0,6
+408,569,569,anger,"I was watching TV with a friend. After the first film I wanted to á
+watch another film on the same channel. My friend switched over á
+to the other cannel without asking me what I wanted.",3.0,8
+409,570,570,sadness,My boy-friend an I seperated on his initiative.,4.0,4
+410,571,571,disgust,"A friend's boy-friend treated her very badly, let her serve him, á
+provoked her and just utilized her.",5.0,2
+411,574,574,joy,"After having considered it for hours I was able to overcome my á
+scruples and to call a friend with whom I had fallen in love. I á
+realized that my decision was right - and was very glad.",1.0,22
+412,575,575,fear,"After having slept for a short time I woke up - I had the feeling á
+of someone standing beside me and was very frightened. I had to á
+turn on the light turn on the light for several minutes before I á
+was able to get to sleep again.",2.0,14
+413,576,576,anger,"I moved to a flat. A friend who had lived there before, had left á
+the flat in a terrible mess. I was very angry about that á
+sloppiness and impudence.",3.0,2
+414,577,577,sadness,"My father had a complicated operation. A long time before and á
+also a long time after that, we did not know how he would get á
+over it. During all that time I felt very sad.",4.0,25
+415,578,578,disgust,"It was in a tramway-carriage: A stranger insulted a girl just á
+because she blew her nose. I detested his behaviour.",5.0,10
+416,581,581,joy,In summer when I was sailing with friends in Greece I felt joy.,1.0,17
+417,582,582,fear,"I was riding with a friend in his car. At a speed of 120 km/h on á
+the snow-covered motorway I would have liked to get out.",2.0,8
+418,584,584,joy,"Walking along the beach with a friend (another girl), talking, á
+picking up shells, laughing, chasing seagulls.",1.0,1
+419,585,585,fear,"Climbing a mountain to see a view, towards the top we suddenly á
+came across a ledge with a nearly sheer drop on either side, á
+which I had to cross.",2.0,26
+420,586,586,anger,"A friend suggested in a round-about way that the reason we were á
+late for something was because of me, and that I'm often late. I á
+know this was partly true, but felt it unjustified that á
+particular time and I felt I couldn't do  anything about it á
+anyway (i.e. being late).",3.0,24
+421,587,587,sadness,"Talking to a very good friend who had just had a very bad á
+experience which was changing his whole way of looking at life á
+etc.",4.0,5
+422,588,588,disgust,"I came across a group of people with the same basic ideas/beliefs á
+who were all fighting and going against what they would say was á
+good.",5.0,10
+423,591,591,joy,On meeting an old friend of mine.,1.0,5
+424,592,592,fear,When my brother was very late in arriving home from work.,2.0,22
+425,593,593,anger,During a fight with my best friend.,3.0,2
+426,594,594,sadness,When my dog died.,4.0,16
+427,595,595,disgust,"During a movie in which I saw the effect of white settlers in á
+Africa.",5.0,7
+428,598,598,joy,"When I realised that I was forgiven by the God who is there, when á
+I realised how much God loves me and that my acceptance with him á
+is not based on my performance - that he loves me unconditionally á
+and showed that love in Christ who died because I do need á
+forgiveness.",1.0,22
+429,599,599,fear,"Fear - paralysing - that I would not be accepted by the God who I á
+believed to be there because I was ""morally bankrupt"" (before á
+becoming a Christian and realising that that was why Christ came to á
+free us from sin and to forgive us).",2.0,14
+430,600,600,anger,"At my father's treatment of my mother, at his disregard for her, á
+and not being committed to her.",3.0,10
+431,601,601,sadness,"At a lack of love of my father for my mum, sadness for him more á
+than anyone else because he does not realise how much love and á
+happiness there could be between them, and is, and how much he is á
+damaging himself apart from mum.",4.0,25
+432,602,602,disgust,"At what I was capable of of selfishly using others for sexual á
+encounters, while I held a vision of having a deepening á
+above-board (you know, ""girl next door"") devotion to a girl in my á
+head. My drives and actions did not match this so consequently I á
+felt disgusted at my failure.",5.0,9
+433,605,605,fear,"I was rock-climbing and absailing & felt OK, but suddenly as I á
+was going over the cliff I was hit by fear - I couldn't go on á
+absailing down the cliff and had to be actually hauled back up á
+it.",2.0,14
+434,606,606,anger,"I told my boy friend not to park in a certain place because the á
+car would ger towed away - he didn't listen and it was towed away. á
+At that stage, our finances were below the poverty line & it á
+cost us $10.00 - all the money we had to get us through that week á
+(including rent).",3.0,10
+435,607,607,sadness,"My sister won a scholarship to Norway and it was particularly as á
+she walked across the tarmac to get on the plane and she looked á
+back at us.",4.0,13
+436,608,608,disgust,"I work part-time as a shop-assistant and a customer spoke to me á
+very loudly about an Indian man & white woman with children - how á
+horrible that was and would I want to have little dark children.",5.0,25
+437,611,611,joy,"I received a wedding invitation from an ex-flatmate, enclosed was á
+a small note that overcame a lot of the differences that had á
+arisen between us due to the circumstances in which she left the á
+flat.",1.0,5
+438,612,612,fear,"One afternoon, helping at home on the property, I was á
+(mustering) getting in cattle and a bull turned and came for me.",2.0,13
+439,613,613,anger,"Getting a terrible exam mark, which I couldn't understand the á
+reason for, and trying to see a lecturer or tutor, but being á
+given the runaround.",3.0,9
+440,614,614,sadness,"Watching an old lady running up the street to catch her bus and á
+miss it, it reminded me of my own mother and how dreadful it á
+would be to be her in the same situation.",4.0,25
+441,615,615,disgust,"Coming home one night - my sister was home, and had been drinking á
+heavily and started picking arguments.",5.0,2
+442,616,616,fear,"When I am travelling by car and have to meet an oncoming car á
+while overtaking.",2.0,13
+443,617,617,anger,When a close relative is treated badly.,3.0,9
+444,618,618,sadness,When a close friend died.,4.0,16
+445,619,619,disgust,"When I saw all the starving people in Ethiopia on T.V.  It felt á
+awful to see such suffering.",5.0,25
+446,622,622,joy,When I called my boyfriend he asked me if I would live with him.,1.0,7
+447,623,623,fear,"Last Summer in Italy I was attacked by a dog.It was terrible to á
+feel that untidy dirty dog against my naked skin.",2.0,11
+448,624,624,anger,"When my father's new fiancee treats me like a child.  She does á
+not trust me and constantly misunderstands me.  I get á
+particularly angry when she says nasty things about my boyfriend á
+with whom she works.",3.0,2
+449,625,625,sadness,"When the guy I was in love with told me that he had met someone á
+else and that we would not meet again for a year.  Although we á
+did not have a steady relatioship, we were having an affair.",4.0,18
+450,626,626,disgust,[ No response.],5.0,9
+451,629,629,joy,When my love for a guy was returned.,1.0,18
+452,630,630,fear,"When I think of death - not my own but that of my parents, á
+brothers and sisters.",2.0,25
+453,631,631,anger,"My parents did not approve my choice of a boyfriend (now an á
+ex-boyfriend).  He happened to be 13 years older than me and he á
+was considered completely unsuitable for me.  IDIOT.",3.0,10
+454,632,632,sadness,[ No response.],4.0,9
+455,633,633,disgust,"When my uncle comes (3 times a year) for the traditional á
+Christmas dinner with my grandparents and other relatives and is á
+very drunk.",5.0,13
+456,636,636,joy,"I met my present boyfriend on a boat trip to England.  We had á
+said that we would call each other when we got back to Sweden (we á
+were not going to the same town in England).  As soon as I walked á
+in he called from England as he could not wait till he came á
+home.",1.0,13
+457,637,637,fear,When my mother's heart nearly stopped.,2.0,16
+458,638,638,anger,"There was a sofa in my flat which belonged to the old tenants who á
+were acquaintances.  It should have been picked up a year ago but á
+they had postponed it.  Eventually they decided on one date and I á
+stayed at home despite the fact that I had other things to do.  á
+They did not come, nor did they call and they still have not got á
+in touch with me.",3.0,6
+459,639,639,sadness,When my ex-boyfriend and I separated.,4.0,24
+460,640,640,disgust,"Very intoxicated men who incite each other to fight.   I met a á
+vile smelling man on the tram who got closer and closer to me á
+till I got up, then he got angry.",5.0,2
+461,643,643,joy,When I fell in love.,1.0,18
+462,644,644,fear,"Earlier, I was afraid of speaking in front of a crowd of people.",2.0,14
+463,645,645,anger,A girl I was with went off with another guy.,3.0,9
+464,646,646,sadness,At set-backs.,4.0,22
+465,647,647,disgust,"I worked in a harbour and emptied latrine containers from the á
+back of the lorries.",5.0,4
+466,650,650,joy,"When I was accepted as a student of Psychology here at á
+Gutttenburg.",1.0,22
+467,651,651,fear,"I woke up in the middle of the night as I had jumped and shouted á
+with fear.  I thought that someone's cold hand or something á
+similar had touched my hand.  I crept down under the covers and á
+went back to sleep.",2.0,14
+468,652,652,anger,[ No response.],3.0,9
+469,653,653,sadness,[ No response.],4.0,9
+470,654,654,disgust,"When I was a young teenager (14)  my brother-in-law to be had á
+made heavy advances to me.  I did not understand very well what á
+it was all about but I reacted strongly and the feelings are á
+still there.",5.0,6
+471,657,657,joy,I made dinner for some friends and they appreciated it very much.,1.0,15
+472,658,658,fear,I was nearly knocked down while I was cycling.,2.0,13
+473,659,659,anger,"My father and I had an argument because I do not help enough at á
+home.",3.0,2
+474,660,660,sadness,[ No response.],4.0,9
+475,661,661,disgust,"I had intercourse with someone and then I realized that what I á
+had done was wrong and it disgusted me.",5.0,22
+476,664,664,joy,After intercourse.,1.0,8
+477,665,665,fear,Disappointment over a friend.,2.0,9
+478,666,666,anger,Quarrelled with my younger brother.,3.0,2
+479,667,667,sadness,When I woke up after a nightmare.,4.0,14
+480,668,668,disgust,Helping older people on the toilet.,5.0,5
+481,671,671,joy,"When I was notified that I had been accepted as a Psychology á
+student.",1.0,22
+482,672,672,fear,"Motor failure on a boat outside Gottenburg when we were in heavy  á
+seas and the wind was strong.  As we could not steer the boat we á
+drifted towards the rocks.  We did not succeed in attracting the á
+attention of any passerby until 4 hours had elapsed.",2.0,4
+483,673,673,anger,"A lady I live with had not bothered to clean up before she went   á
+on holiday (I live in a collective).",3.0,8
+484,674,674,sadness,When I heard that a good friend had committed suicide.,4.0,25
+485,675,675,disgust,"I was present when they found a shop-keeper dead in his shop.  á
+He had been shot with a shotgun at close range.",5.0,13
+486,678,678,joy,"After I had made my debut at Ullevi against IFK, Gottenburg and á
+got a good write up in the paper.",1.0,5
+487,679,679,fear,"When I was 7-8 years old, I woke up one night and found myself á
+alone at home.  My mother had gone out to buy cigarattes from a á
+machine.",2.0,6
+488,680,680,anger,[ No response.],3.0,9
+489,681,681,sadness,"When I found out that I had failed to pass my exams during the á
+term by one point.  The fact that exactly the same thing had á
+happened last term did not help.",4.0,9
+490,682,682,disgust,"When I was touring Asia with my present football team, I saw old á
+Europeans with young asiatic prostitutes.",5.0,13
+491,685,685,joy,"As an evening class teacher I got positive feedback.  When the á
+atmosphere is good and a kind of relaxed understanding exists.",1.0,20
+492,686,686,fear,"After mischieviously ringing on the chemist's trade-entrance á
+doorbell and getting caught by him.",2.0,6
+493,687,687,anger,The sight of a man who ran amok (fighting) at a dance.,3.0,13
+494,688,688,sadness,When out of work.,4.0,22
+495,689,689,disgust,"With my mouth full of bun, I drank directly from a packet of milk á
+which turned out to be weeks old (completely separated).  It took á
+a while for the milk to seep through the bun.",5.0,4
+496,692,692,joy,"When I was accepted as supervisor for a student teacher.  The á
+notification came by post.",1.0,5
+497,693,693,fear,"When I was involved in a car accident last November, after the á
+first fall of snow.  I lost control of the car and it spun round á
+and landed on the opposite side of the road, on the hard á
+shoulder.  It was stopped by a pole on top of a bank sloping down á
+to a stream.",2.0,4
+498,694,694,anger,"With the job appointments committee when the headmaster in charge á
+explained that a male teacher was more suitable for the á
+particular post.  I had more years of service than the male á
+teacher, but this was not taken into consideration.  I could have á
+been given a less attractive job if things had gone the way the á
+headmaster wanted.",3.0,9
+499,695,695,sadness,"A colleague's 17 year old daughter is seriously ill with cancer á
+and has only a year to live.  I  heard about it 6 weeks ago.",4.0,4
+500,696,696,disgust,[ No response.],5.0,9
+501,699,699,joy,"When a close friend met me at the station in the middle of the á
+night, when I came back from a long and tiring journey.",1.0,5
+502,700,700,fear,"Having quarreled with a boyfriend, he threatened to leave me.",2.0,2
+503,701,701,anger,"Someone didn't show up at a meeting in spite of having agreed to á
+come.",3.0,9
+504,702,702,sadness,"When I understood that my marriage was falling apart, and we á
+decided to be legally separated.",4.0,22
+505,703,703,disgust,"At an anti-pornography meeting, when samples from films and á
+magazines were shown.",5.0,10
+506,706,706,joy,"When I was able to buy my new car, after lots of problems.",1.0,9
+507,707,707,fear,"After my car accident, when I woke up in a heap of stones.",2.0,12
+508,708,708,anger,"When I tried to put up a tent some years ago, I was teased and á
+hindered by my cousin.",3.0,3
+509,709,709,sadness,When my grandfather died.,4.0,16
+510,710,710,disgust,NO RESPONSE.,5.0,9
+511,713,713,joy,When I was admitted to a certain school as a student.,1.0,22
+512,714,714,fear,"My father has a chronic desease. In the autumn of 1983 he had a á
+very strong fit or seizure.",2.0,25
+513,715,715,anger,"A drunken friend of mine was beating up another friend, who was á
+also drunk.",3.0,2
+514,716,716,sadness,"When I didn't get a certain job at Lillehammer which I wanted á
+very much.",4.0,8
+515,717,717,disgust,"My boss on the job failed to keep his promise about something he á
+knew was extremely important to me.",5.0,9
+516,720,720,joy,"When my father managed to begin a ""new life"" after the divorce á
+from my mother; resulting in a new little sister for me.",1.0,9
+517,721,721,fear,"A ""near-accident"" in a car, driving too fast on an icy road.",2.0,9
+518,722,722,anger,"My mother and her friends were speaking badly about my father á
+when they were separated, and my brothers and sisters and myself á
+were allowed to listen.",3.0,10
+519,723,723,sadness,"Being bored in school, not being able to marry and have children.",4.0,9
+520,724,724,disgust,"When my mother's new husband treated her and my brothers and á
+sisters badly.",5.0,9
+521,727,727,joy,"I was in hospital, and then was visited by someone quite á
+unexpected.",1.0,26
+522,728,728,fear,"I was hunting, and was lost in the fog in the mountains.",2.0,6
+523,729,729,anger,"I was accused of a misdemeanour, unjustly.",3.0,10
+524,730,730,sadness,When my girlfriend left me.,4.0,24
+525,731,731,disgust,Slaughtering of animals.,5.0,10
+526,734,734,joy,"When I finally managed to get a specific sound from my guitar, á
+after baving tried for a long time.",1.0,7
+527,735,735,fear,"Climbing a mountain, I got stuck and realized I could get neither á
+up nor down.",2.0,22
+528,736,736,anger,Meeting generally dominating persons in social occasions.,3.0,22
+529,737,737,sadness,"Discovering that Lillehammer provided no musical environment that á
+suits my taste, even though I had been told so.",4.0,22
+530,738,738,disgust,Can't describe any disgust situation.,5.0,27
+531,741,741,joy,When my children were born.,1.0,22
+532,742,742,fear,"When I almost ran over a small boy who suddenly was in front of á
+my car.",2.0,13
+533,743,743,anger,"When my father phoned me to come home from my vacation, since he á
+no longer had the time to look after my garden and animals.",3.0,3
+534,744,744,sadness,When I was told that a good friend was seriously ill.,4.0,25
+535,745,745,disgust,"When I learned that a relative had been spreading rumours about á
+me.",5.0,22
+536,748,748,joy,"When my special friend said ""I love you"" for the first time.",1.0,18
+537,749,749,fear,"After having watched a crime show on the TV, I was about to take á
+the dog for a walk. Then, suddenly, there was a man on the á
+porch... (We live some distance away from other people).",2.0,26
+538,750,750,anger,When my car suddenly broke down !,3.0,13
+539,751,751,sadness,When an earlier friend was spreading negative rumours about me.,4.0,10
+540,752,752,disgust,"There is a certain person, whom I only have seen. He makes me á
+cringe, feel disgust.",5.0,11
+541,755,755,joy,When my term paper was evaluated.,1.0,7
+542,756,756,fear,"After seeing a terror movie at the cinema, I was so scared that I á
+couldn't even drive the car into the garage. I often thought á
+about the film afterwards, hoping such things couldn't exist in á
+the ""real world"".",2.0,14
+543,757,757,anger,"Angry with my brother, who was making fun of me, teasing me.",3.0,2
+544,758,758,sadness,When my gradmother died.,4.0,16
+545,761,761,joy,Got in touch with earlier friends after a long absence.,1.0,5
+546,762,762,fear,I lost my way on a trip in the mountains.,2.0,6
+547,763,763,anger,"Being subject to unfair treatment in a working group, someone á
+""bending the rules"" was protected by the boss. This resulted in á
+more work for the others.",3.0,10
+548,764,764,sadness,The death of a close friend.,4.0,25
+549,765,765,disgust,"Was confronted with a person having negative thoughts of other á
+people because of their social status, beliefs, color and á
+outlook on life (perspective).",5.0,22
+550,768,768,joy,"Receiving a much wanted letter from a very good friend who lives á
+abroad.",1.0,8
+551,769,769,fear,"Before getting back the results of a test in school, when I had á
+worked very hard and was worried about not succeeding.",2.0,19
+552,770,770,anger,"One of my best friends accused me of giving up to early on á
+problems. It was only a casual remark on her side, but I was á
+angry and hurt.",3.0,2
+553,771,771,sadness,"Realizing that school will soon be over, and we will all go á
+different ways, perhaps never meeting again our friends from this á
+year.",4.0,22
+554,772,772,disgust,"In a public swimming hall I saw a very aggressive man who á
+practically attacked the children who got in his way when he was á
+swimming.",5.0,2
+555,775,775,joy,"A friend which I hadn't seen for years, sent me a small present.",1.0,15
+556,776,776,fear,"One dark night with no street lights, a car was obviously á
+following me.",2.0,26
+557,777,777,anger,"I was subject to false accusations, and got very angry.",3.0,2
+558,778,778,sadness,"I was told by a good friend that we couldn't be friends any more á
+because of his relationship with another girl.",4.0,10
+559,779,779,disgust,"This is difficult, since I don't remember feeling disgust towards á
+anyone.",5.0,10
+560,782,782,joy,"When my fiancee travelled 2000 Km to visit me, and I hadn't seen á
+her for 4 months.",1.0,6
+561,783,783,fear,"I was beaten up at a private New Year's party once, through no á
+fault of mine.",2.0,2
+562,784,784,anger,"I felt unfairly treated at an airport, being told to use a á
+different counter (for domestic traffic only).",3.0,3
+563,785,785,sadness,When my grandmother died.,4.0,16
+564,786,786,disgust,"The murder of two girls on a school trip to Berlin (and sexual á
+crimes generally) a couple of years ago.",5.0,22
+565,789,789,joy,"When the person that I was very fond of, returned to me.",1.0,5
+566,790,790,fear,Not applicable to myself.,2.0,6
+567,791,791,anger,"When students in our working group showed no responsibility or á
+interest in our work.",3.0,27
+568,792,792,sadness,A very close friend left me.,4.0,25
+569,793,793,disgust,"Some people were unfairly treated, because of their á
+nationality/colour.",5.0,10
+570,796,796,joy,"A close acquaintace cried for me. I felt happy because somebody á
+cared.",1.0,5
+571,797,797,fear,"A letter from my boyfriend began in such a way that I thought he á
+was going to end our relationship. I was afraid of reading the á
+rest.",2.0,14
+572,798,798,anger,"My nephew is a deaf and also ""hyperactive"" boy. I had been á
+responsible for looking after him for a full day, and was very á
+tired. Then he suddenly grabbed a knife and stabbed me in the á
+leg. I got so angry that I didn't feel any pain.",3.0,2
+573,799,799,sadness,"A woman I know is slowly dying from cancer. Observing this á
+process makes me sad.",4.0,25
+574,800,800,disgust,Close friends talking badly of other friends.,5.0,10
+575,803,803,joy,Renewed contact with an earlier friend.,1.0,22
+576,804,804,fear,"Fearing the use of power or reprimands when I belong to the á
+minority.",2.0,14
+577,805,805,anger,"A close friend first said he accepted an agreement, but later á
+used that agreement as a reason for attacking me.",3.0,2
+578,806,806,sadness,"When realizing that my girlfriend and myself in fact had started á
+the process of breaking up.",4.0,22
+579,807,807,disgust,"Political and military trnsgressions around the world, generally á
+speaking. This cannot be described through this questionaire.",5.0,6
+580,810,810,joy,"Receiving a postcard form my sweetheart who was abroad on á
+vacation, not being at all sure if he would write me or not.",1.0,6
+581,811,811,fear,Doesn't apply.,2.0,6
+582,812,812,anger,"When I tried to breake it up with my boyfriend, and he refused to á
+let me go.",3.0,10
+583,813,813,sadness,"Having to go back home form the U.S. after having been there for á
+ten weeks to visit my brother and his family.",4.0,25
+584,814,814,disgust,Doesn't apply.,5.0,6
+585,817,817,joy,Finding my glasses again after having lost them in town.,1.0,22
+586,818,818,fear,Falling off a cliff in the mountains.,2.0,12
+587,819,819,anger,Having a fight with a class mate.,3.0,2
+588,820,820,sadness,When the gear broke on my car.,4.0,13
+589,821,821,disgust,Can't remember having had this feeling.,5.0,6
+590,824,824,joy,I got a job right after school was over.,1.0,22
+591,825,825,fear,"Going home alone through the forest after a girl guide (scout ?) á
+meeting.",2.0,6
+592,826,826,anger,I get angry when people disbelieve me or misunderstand me.,3.0,2
+593,827,827,sadness,At the death of a close relative.,4.0,25
+594,828,828,disgust,"Having been unjustly punished, I feel disgust towards the person á
+responsible.",5.0,11
+595,831,831,joy,"Having passed the exam required to be an authorized Radio/TV á
+dealer.",1.0,22
+596,832,832,fear,"Climbing a mountain where the rocks were very loose. When we á
+realized the danger, we were very high up, but still had a long á
+climb ahead.",2.0,22
+597,833,833,anger,"Being a spokesman for the union, I got into a quarrel with a á
+colleague who had been acting disloyally over a sustained period á
+of time.",3.0,2
+598,834,834,sadness,"When my grandfather died, with whom I had a very close á
+relationship.",4.0,16
+599,835,835,disgust,"Reading about executions and massacres which happened during á
+World War II, I felt disgust towards those who did it.",5.0,10
+600,838,838,joy,Succeeding in helping others.,1.0,5
+601,839,839,fear,"When I realized that we are living on borrowed time, and that the á
+nuclear holocaust appears to come closer every day.",2.0,22
+602,840,840,anger,"When others let me down, fail to keep agreements.",3.0,9
+603,841,841,sadness,Death in the close family.,4.0,25
+604,842,842,disgust,"When people manipulate others through appearing better than what á
+they really are.",5.0,22
+605,845,845,joy,"I received the message that I'd been accepted at the school where I á
+really wanted to go.",1.0,8
+606,846,846,fear,"I came home and discovered that someone had broken in. Then I á
+realized that they probably were still there.",2.0,22
+607,847,847,anger,"I was accused of having drunk a bottle of liquor and then á
+refilling with water.",3.0,6
+608,848,848,sadness,"Got a package from my parents, without even a small note á
+enclosed.",4.0,5
+609,849,849,disgust,"Quarreling with my father, when he made false assertions.",5.0,3
+610,852,852,joy,Winning the local soccer championships this year was a great joy.,1.0,17
+611,853,853,fear,Before important sports events.,2.0,22
+612,854,854,anger,When colliding with my car. I myself was to blame.,3.0,24
+613,855,855,sadness,"Not succeeding in a cross-country skiing competition, which I á
+intended to win.",4.0,9
+614,856,856,disgust,Can't remember any episode of disgust.,5.0,11
+615,859,859,joy,Getting the top price in the football pools.,1.0,22
+616,860,860,fear,"Was threatened with a knife ... in the military by soldiers form á
+another unit. The reason was girls.",2.0,2
+617,861,861,anger,When my mother treats me as a 10-year old boy.,3.0,22
+618,862,862,sadness,Getting to know that my uncle in America had a brain tumor.,4.0,22
+619,863,863,disgust,"Outside a night club, a grown man was sitting on top of a younger á
+woman, beating her up.",5.0,2
+620,866,866,joy,"Receiving close friends form abroad, whom I hadn't seen for á
+years.",1.0,26
+621,867,867,fear,"Motorcycle accident with two people involved, running off the á
+road. Broke an arm, only.",2.0,13
+622,868,868,anger,"Having agreed to share the taxi expenses, three people in the á
+back of the car just ran off, leaving the person up front with á
+the entire bill.",3.0,4
+623,869,869,sadness,Death of a close friend.,4.0,25
+624,870,870,disgust,Can't remember any such feelings now.,5.0,6
+625,873,873,joy,Selling my used car.,1.0,8
+626,874,874,fear,"Almost crashing my car, something which could have led to great á
+problems.",2.0,12
+627,875,875,anger,"Realizing that a friend had been talked into signing a certain á
+contract.",3.0,22
+628,876,876,sadness,"Talking to a pensioned and bitter ""street order"" policeman.",4.0,2
+629,877,877,disgust,The sadistinc exacution of a student in the USA.,5.0,25
+630,880,880,joy,Managed to run 30 Km on skis fairly simply.,1.0,8
+631,881,881,fear,"Afraid I wouldn't catch the train when I was going to see my á
+sweetheart.",2.0,14
+632,882,882,anger,Receiving personal criticisms early in the morning.,3.0,10
+633,883,883,sadness,Not getting a job.,4.0,9
+634,884,884,disgust,Seeing a pornographic film when looking for a place to live.,5.0,8
+635,887,887,joy,Reunion with my wife after a legal separation.,1.0,5
+636,888,888,fear,"The house was on fire, and I was saved by the dog. I am afraid of á
+the fire, verging on panic.",2.0,14
+637,889,889,anger,"Physical violence. A friend wouldn't listen to me I repeatedly á
+tried to warn him, to no avail. Result: eight people were ""pissed á
+off"".",3.0,2
+638,890,890,sadness,My father dying.,4.0,16
+639,891,891,disgust,Maltreatment of children.,5.0,10
+640,894,894,joy,Relating to my closest family.,1.0,5
+641,895,895,fear,"Thinking of the unknown, what happens at the moment of death, á
+etc.",2.0,7
+642,896,896,anger,"In traffic I often get relatively angry with other drivers. á
+Several transgressions make me mad, especially not yielding to á
+priority traffic (e.g. coming from the right).",3.0,2
+643,897,897,sadness,"Losing close people and animals. So far, I've felt most when á
+losing our dog in a traffic accident.",4.0,25
+644,898,898,disgust,"I feel disgust towards those who are responsible for the death of á
+others.",5.0,11
+645,901,901,joy,When the contract about my shop was signed.,1.0,22
+646,902,902,fear,"Being very close to having an auto accident, almost driving off á
+the road.",2.0,4
+647,903,903,anger,"Having gone to school without learning anything, as usual.",3.0,6
+648,904,904,sadness,"My sweatheart were away on a trip, and then she got problems.",4.0,9
+649,905,905,disgust,Overeating a traditional type of food - blood pudding.,5.0,22
+650,908,908,joy,"Receiving a letter form a girl that means a lot to me á
+emotionally.",1.0,5
+651,909,909,fear,Being close to drowning.,2.0,25
+652,910,910,anger,Being slandered by friends.,3.0,3
+653,911,911,sadness,Love problems.,4.0,18
+654,912,912,disgust,Does not apply.,5.0,6
+655,915,915,joy,I won the country ski championship.,1.0,22
+656,916,916,fear,I was scared in the dark when I was a little boy.,2.0,14
+657,917,917,anger,"Angry when our team (small boys) lost the county championship á
+football final.",3.0,2
+658,918,918,sadness,My grandfather's death.,4.0,16
+659,919,919,disgust,"A teacher gave me lower grades than I was entitled to, and was á
+hoping for.",5.0,8
+660,922,922,joy,"When the bank let me borrow some money this winter, after my á
+grant was spent.",1.0,5
+661,923,923,fear,"Once I was stopped by the police in Spain, when I had some á
+""grass"" in my tobacco.",2.0,10
+662,924,924,anger,"My father accused my brother of having bumped his car, and it was á
+wrong.",3.0,10
+663,925,925,sadness,When a girlfriend left me.,4.0,24
+664,926,926,disgust,"When a ""friend"" dropped a frog down my neck, and I didn't know á
+what it was.",5.0,6
+665,929,929,joy,"I am a school teacher. At a teacher-parent meeting I received a á
+good deal of positive feed-back on my work both from the parents á
+and through them from the pupils.",1.0,4
+666,930,930,fear,"As a child, when I was at home alone, I felt in an indefinate á
+manner afraid of the death of my father and mother.",2.0,14
+667,931,931,anger,"I had a discussion with my mother concerning my sister's divorce, á
+we disagreed strongly.",3.0,10
+668,932,932,sadness,"As a ten-year-old I was at the funeral of my grand-father.  It was more á
+the ceremonies held in the church and not really the death of my á
+grand-father which made me sad.",4.0,25
+669,933,933,disgust,"I had a discussion with my wife about an over-weight acquaintance of á
+our's, about her eating habits and the scars caused by her á
+pregnancy.",5.0,5
+670,936,936,joy,[ A successful lesson.],1.0,22
+671,937,937,fear,[ I was thinking about death.],2.0,25
+672,938,938,anger,A conflict with a pupil.,3.0,6
+673,939,939,sadness,When I am at home alone.,4.0,22
+674,940,940,disgust,A saturday night a bus full of drunken people.,5.0,3
+675,943,943,joy,When in an economic crisis I got an unexpected sum of money.,1.0,26
+676,944,944,fear,In the dark an unreal figure formed by a shadow.,2.0,6
+677,945,945,anger,"[ When I was treated unfairly, regardless of my motives or deeds.]",3.0,10
+678,946,946,sadness,"When I noticed obvious marks of old age (in a negative sense) on á
+a close relative of mine.",4.0,22
+679,947,947,disgust,"As a child, when I saw an ""unesthetic"" sight.",5.0,22
+680,950,950,joy,"I was coming home from an exam and I supposed that I had á
+passed it so I ran to a restaurant for a beer.",1.0,13
+681,951,951,fear,"I had been drinking with a pal and I later (1 o' clock) had a date  á
+with my fiancee.  We were going to a Spanish lesson and I was á
+afraid that she would smell that I had been drinking.",2.0,14
+682,952,952,anger,"My fiancee and I were at my parent's place watching TV. There á
+were  only two TV-chairs and we were sitting on them when my á
+drunken brother came in and rudely chased my fiancee off the á
+chair she was sitting on.",3.0,13
+683,953,953,sadness,I had drunk a couple of beers and my fiancee got angry at me.,4.0,2
+684,954,954,disgust,"We were at a hamburger bar and a man at a table nearby started á
+coughing and spitting into his plate.",5.0,13
+685,957,957,joy,While dancing in a restaurant last week.,1.0,13
+686,958,958,fear,"I was on the Inter Rail in Naples alone. After an evening in a á
+restaurant I was going back to the hotel when a prostitute á
+approached me to sell herself. I refused but as I carried on á
+walking I felt that I was being followed by someone.",2.0,6
+687,959,959,anger,When a girl left me.,3.0,24
+688,960,960,sadness,"I was on my way back from the Inter Rail, on board the ferry from á
+Stockholm when my father called me at 7 o'clock to tell me that my á
+uncle had died and that I would be seeing him off on his final á
+journey within four days.",4.0,13
+689,961,961,disgust,"On Reperbahn, in a restaurant, a ""charming"" old saleswoman came á
+to beg a drink for herself.",5.0,13
+690,964,964,joy,"My girlfriend gave me some feed-back and I understood that it á
+meant that our relationship was about to turn even closer.",1.0,22
+691,965,965,fear,"At the dentist's, waiting for my turn to come.",2.0,19
+692,966,966,anger,"While in the army, I was treated unfairly by my superiors.  I was á
+held responsible for a deed of which I was innocent.",3.0,10
+693,967,967,sadness,"When I came to know that my grandmother had died.  She was very á
+close to me.",4.0,25
+694,968,968,disgust,"In the army, an acquaintance of mine tended to use his position á
+to advance his own interests.",5.0,22
+695,971,971,joy,"When I look at people around and know that people who are stupid á
+look stupid.",1.0,22
+696,972,972,fear,"When I saw Russian roulette on TV. (obviously the movie ""Deer á
+hunter"")",2.0,13
+697,973,973,anger,When stupid people push me during rush time in the city.,3.0,3
+698,974,974,sadness,[ Laziness makes one sad.],4.0,25
+699,975,975,disgust,"When I saw hundreds of snakes twisting over one another in a á
+movie.",5.0,13
+700,978,978,joy,[ Being close to another person.],1.0,22
+701,979,979,fear,[ Uncertainty about my own abilities in an exam.],2.0,6
+702,980,980,anger,[ An unfair punishment.],3.0,10
+703,981,981,sadness,"Loneliness, being uncertain of myself in the Autumn.",4.0,25
+704,982,982,disgust,A rich man expressing disgust towards an alcoholic.,5.0,10
+705,985,985,joy,"I went to a doctor with a complaint. The doctor told me that I á
+was completely healthy.",1.0,5
+706,986,986,fear,"My father was away from home and he did not come back when he was á
+expected, he came back several hours later than expected.",2.0,9
+707,987,987,anger,"I had an implicit agreement with my sister about meeting her, á
+however she had not understood the situation the same way so she á
+did not turn up.",3.0,4
+708,988,988,sadness,I realized that the girl I loved had to leave me.,4.0,22
+709,989,989,disgust,"In the bus I was sitting next to a colleage who was drunk and á
+behaved in keeping with his state.",5.0,10
+710,992,992,joy,"When I unexpectedly received birthday greetings from a person I á
+like.",1.0,26
+711,993,993,fear,"I returned home late from a party last night and I felt afraid á
+trying to anticipate the reaction of my father.",2.0,14
+712,994,994,anger,When I learned that my brother had spoilt an LP of mine.,3.0,22
+713,995,995,sadness,"When I came to know that a girl I was fond of already had a á
+boyfriend.",4.0,22
+714,996,996,disgust,A too eager approach by a dirty drunken person in a bus.,5.0,13
+715,999,999,joy,I shot the decisive goal in an ice-hockey match.,1.0,22
+716,1000,1000,fear,"When I got lost in New York city a late friday night with a á
+friend of mine.",2.0,13
+717,1001,1001,anger,After having quarelled with a relative of mine about politics.,3.0,7
+718,1002,1002,sadness,The death of my grandmother.,4.0,16
+719,1003,1003,disgust,"When I noticed that a nice person was being exploited á
+economically.",5.0,22
+720,1006,1006,joy,"I passed an exam which I was not sure at all to pass.  I rejoyced á
+at the result because the possibility of continuing my studies á
+depended on it.",1.0,26
+721,1007,1007,fear,"In the traffic with a car, I nearly got crushed between a bus and á
+a tram.  The attention of other drivers saved me at the last moment.",2.0,13
+722,1008,1008,anger,"I was disappointed and angry at the bad quality of a documentay á
+program on TV.  In my opinion, the topic was important and the á
+program should have been made with seriousness and consideration.",3.0,9
+723,1009,1009,sadness,"My father had a heart attack when I was not at home (I was still á
+living with them).  He recovered relatively well although he had á
+to retire (which implied relief from the stress of a small scale á
+enterprise).",4.0,23
+724,1010,1010,disgust,"At my grandmother's detestable and selfish conduct towards my á
+elder sister, although her behavior was due to senility and lack of á
+understanding.",5.0,10
+725,1013,1013,joy,"On the cliff by the sea, the silence and the sudden voice of a á
+bird.(swans of the bay)",1.0,26
+726,1014,1014,fear,A dark night when I had to go to the outdoor lavatory.,2.0,3
+727,1015,1015,anger,"When I realized that I was far behind the others in the language á
+course and I could no longer catch up with the others.",3.0,22
+728,1016,1016,sadness,"The long lasting illness of my grand-mother, and the changes in á
+family relationships caused by it.",4.0,25
+729,1017,1017,disgust,"Spoilt, smashed and molded potatoes in the fridge, and having to á
+clean up the dish later.",5.0,9
+730,1020,1020,joy,"When I got home from my job, I found a letter from the university á
+telling me that I had been admitted to begin my studies.",1.0,4
+731,1021,1021,fear,"While watching TV (a war movie), I felt a strong fear of death, á
+threat and fear of loosing people close to me.",2.0,14
+732,1022,1022,anger,"I was angry with a friend of mine who behaved in an affected á
+manner.",3.0,2
+733,1023,1023,sadness,"I made a long-distance call to people rather close to me and I á
+thought about the sad incident that had happened to them in the á
+near past; I knew that they were thinking about it too when I made á
+the call.",4.0,25
+734,1024,1024,disgust,"My parents inherited an appartment and this made them behave in a á
+peculiar manner.",5.0,22
+735,1027,1027,joy,"I unexpectedly met a girl with whom I have always got along well. á
+( I had not seen her for several months.)",1.0,26
+736,1028,1028,fear,When my father was very drunk and raging at home.,2.0,2
+737,1029,1029,anger,"When I did not find the rack used for beating up rugs, in the á
+yard.",3.0,3
+738,1030,1030,sadness,When one of my cat died of a disease.,4.0,25
+739,1031,1031,disgust,"I felt disgusted at the environment while getting back to my á
+student lodging. I did not see anything in the suburb which had á
+been planned by taking people's comfort into account.",5.0,11
+740,1034,1034,fear,"In Sweden, a friend and I lived in an appartment owned by a Finn. á
+ One day, this man came back to the appartment heavily drunk á
+(hashish and alcohol).  He was quite dizzy and he broke down, and á
+I could not foretell his reactions.  However, nothing happened.",2.0,6
+741,1035,1035,anger,"I had an appointment downtown, and the person in question was á
+half an hour late.",3.0,7
+742,1036,1036,sadness,The death of my grandmother.,4.0,16
+743,1037,1037,disgust,"In the army, I had been in hospital for two weeks and as soon as á
+I returned to the company, a sergeant ordered me to fetch a load á
+on the tractor trailer.",5.0,4
+744,1040,1040,joy,I got a fairly large amount of my taxes back.,1.0,22
+745,1041,1041,fear,"I was jogging in the forest, in the central park area, when I saw á
+a man hiding behind a tree.  I got frigthened, turned around and á
+ran out of the forest.",2.0,13
+746,1042,1042,anger,"I was coming home in a taxi with a fellow worker of mine.  He was á
+criticizing my earlier conduct towards him, which to my mind was á
+unfounded.  When I reached home, I ran out of the taxi and á
+slammed the door.",3.0,10
+747,1043,1043,sadness,"I had had a farewell party at the place where I had been working á
+for a year.  That night I could not fall off to sleep.  I was sad á
+thinking that I would not see my nice fellow workers again.",4.0,25
+748,1044,1044,disgust,"I was travelling in a local train when a drunkard, smelling á
+terribly, entered the same carriage and started eating fish that á
+was stinking.",5.0,11
+749,1047,1047,joy,"A sunny Autumn day, after a long rainy period.",1.0,23
+750,1048,1048,fear,"Years ago, on my way to school by the forest path I came across á
+an exhibitionist.",2.0,7
+751,1049,1049,anger,"A person close to me mistook my good intentions for bad, and á
+therefore associated unpleasant traits to me.",3.0,6
+752,1050,1050,sadness,"[ A person close to me told me that his positive regard depended á
+on my conduct.]",4.0,4
+753,1051,1051,disgust,"When an untidy and heavyly drunk person made endeavours to á
+approach me.",5.0,7
+754,1054,1054,joy,I got to know that I had been accepted at university.,1.0,22
+755,1055,1055,fear,"I had been watching a TV-program on paranormal phenomena.  At á
+night I could not fall off to sleep as I feared that humanoids á
+were on the move.",2.0,14
+756,1056,1056,anger,"My superior blamed me for some neglects at work in front of á
+others.  In fact, the task in question was not supposed to be á
+done by me.",3.0,9
+757,1057,1057,sadness,My father suddenly fell ill and died.,4.0,25
+758,1058,1058,disgust,"When a friend of mine got drunk and started to blame and scorn my á
+other friends and me.",5.0,2
+759,1061,1061,joy,"My joy was the joy of meeting again.  My husband came home after á
+having been away for weeks (for work).  I was on the railway á
+station to meet him.",1.0,17
+760,1062,1062,fear,"I was alone at home and I could hear odd noises coming from above á
+our bedroom.  I knew that nobody lived there since it was an á
+office.  I got frightened (later I was given a ""natural"" á
+explanation).",2.0,14
+761,1063,1063,anger,"A relative of mine had come to see my husband to talk to him á
+about a problem concerning his sister and me.  I was angry á
+because this relative of mine did not dare to speak to me and á
+instead spoke to my husband.  I got to know about it later the á
+same day.",3.0,2
+762,1064,1064,sadness,"The death of my father, even though we had not been very close to á
+each other.",4.0,16
+763,1065,1065,disgust,"The male friend of my mother (a widow) moved in to live with us.  á
+I did not like the man.",5.0,10
+764,1068,1068,joy,"My mother, sister and I were thinking about old times, our á
+childhood, and we had a very happy time.",1.0,17
+765,1069,1069,fear,"My husband had gone to drive a strange, broken car.  At the á
+agreed time, he had not returned, and I feared that he had had an á
+accident.",2.0,14
+766,1070,1070,anger,"I am a school teacher.  One of the classes does not obey me at all, á
+keeps on talking, does no work.  One afternoon, everything went á
+wrong, and I got exceedingly angry.",3.0,2
+767,1071,1071,sadness,"A young, close relative of mine died, leaving behind a baby a few á
+months old.",4.0,16
+768,1072,1072,disgust,"A series about Freud was shown on TV.  In it, a tampon had been á
+set in the nose of a woman, and forgotten there.  After great á
+pain it was taken off (close-up picture), the woman was bleeding á
+from the nose and the mouth.",5.0,5
+769,1075,1075,joy,"I started a new branch of studies after having failed a former á
+one.  When I got back my exam papers I was very happy to know á
+that I almost had full marks.",1.0,13
+770,1076,1076,fear,"I was diving below the ice, in a cave, at a depth of 26 metres.  á
+Visibility was almost zero and the oxygen level decreased á
+threateningly.  There were three of us divers on one safety rope.",2.0,4
+771,1077,1077,anger,"My mother carried on using mental pressure concerning something á
+which was serious and a real burden to me.",3.0,22
+772,1078,1078,sadness,"My grandfather died, I went to the mortuary and saw the corpse.",4.0,25
+773,1079,1079,disgust,[ The same as in anger.],5.0,2
+774,1082,1082,joy,My girlfriend sent me a letter with a shiny picture in it.,1.0,13
+775,1083,1083,fear,"I was about to begin a journey in a car with an acquaintance of á
+mine.",2.0,13
+776,1084,1084,anger,"On the TV news I heard that Nicaragua had complained about the á
+increasing threat of war with the USA.",3.0,10
+777,1085,1085,sadness,My girlfriend gave me the mitten (left me).,4.0,10
+778,1086,1086,disgust,Watching a violent movie.,5.0,2
+779,1089,1089,joy,"When, to my surprise, I got to know about having got ""very good"" á
+high school graduation marks.",1.0,26
+780,1090,1090,fear,"My grandmother was about to die, and it had the effect that at á
+night, after having read a book, and once in bed, in perfect á
+darkness, the fear arose that I too may suddenly die.",2.0,14
+781,1091,1091,anger,"When I checked my examination paper and realized that I had been á
+careless, thoughtless, lazy and hasty so as to make unnecessary á
+mistakes concerning things I know and understand.",3.0,22
+782,1092,1092,sadness,"When we decided, my boyfriend and I, that we would separate, I á
+realized that he would have wanted to continue our relationship á
+and the coming separation hurt him.",4.0,22
+783,1093,1093,disgust,"When an acquaintance of mine told me about the way his parents á
+treated their sons in an unequal manner.  The most successful of á
+them got continuous encouragement, and the youngest was not á
+encouraged and was rejected.",5.0,10
+784,1096,1096,joy,"I am not especially good at English, and after the high school á
+graduation exam in English I tensely waited for the result the á
+whole day.  In the evening, when I heard that I had done á
+excellently, I became very happy and the anxiety vanished.  My á
+family was at home.",1.0,19
+785,1097,1097,fear,"I feared that I was pregnant.  It was not planned and I would á
+have been compelled to have an abortion, which I would not have á
+liked at all.  Fortunately, after a week's anxiety, I got to know á
+that I was not pregnant.",2.0,14
+786,1098,1098,anger,"A member of a religious sect tried to convert me, using really á
+evil tricks to persuade me.  After he had left, I was anxious and á
+angry for a long time. After the event, I was alone.",3.0,19
+787,1099,1099,sadness,"When my boyfriend wanted to leave me, I felt sad and melancholic.",4.0,25
+788,1100,1100,disgust,"In a film, there was an episode where they used a chain saw to á
+cut a man.  I could not look at it, but I could not avoid á
+listening either.  I sought shelter in my boyfriend's arms.",5.0,6
+789,1103,1103,joy,"When I got an unexpected letter from  a guy, who had been my school á
+mate.",1.0,26
+790,1104,1104,fear,"When my brother went to shoot wild ducks, I feared that the á
+boat would overturn and he would drown or that the gun would á
+accidentally go off.",2.0,14
+791,1105,1105,anger,"My father had once again told me that I should be careful and try to á
+seek admission to other places also apart from the faculty of á
+Social Sciences at the university of Helsinki.  I was not at all á
+interested in any other place and had no time to study for other á
+entrance exams.",3.0,10
+792,1106,1106,sadness,"I would have liked to go out to chat with some acquaintances, but á
+I realized that I was not wanted.  I felt hurt, disappointed, á
+lonely and deserted.",4.0,9
+793,1107,1107,disgust,"When an acquaintance (he was drunk) of my room-mate vomitted on the kitchen á
+carpet.  It was past mid-night and my room-mate had just moved in, á
+this acquaintance had helped her move in.á",5.0,4
+794,1110,1110,joy,"When I got 21/30 points in an exam of statistics. The result was á
+unexpected and it made me realize that statistics do not á
+surpass my abilities, as I have sometimes thought.",1.0,26
+795,1111,1111,fear,"When a big angry dog put its snout on my arm and had I made one á
+movement it would have bitten me.",2.0,2
+796,1112,1112,anger,"When my room-mates were watching video-tapes and prevented me á
+from watching the news.  The first feeling I had was that I was á
+being treated unfairly and then came the feeling of anger.",3.0,2
+797,1113,1113,sadness,"[ When after a night of sleeping in another's arms, one wakes á
+alone and knows that the lonely arms of the night are not the á
+same that one meets in the morning.]",4.0,22
+798,1114,1114,disgust,"When an unpleasant person tried to make friends with me.  A á
+subtle, small, insignificant, grey being whose helplessness and á
+neutrality evoked the feeling of disgust in me.",5.0,11
+799,1117,1117,joy,"When my friend told me that he would come and meet me in a á
+moment.",1.0,5
+800,1118,1118,fear,"My father had been drinking and I feared him when we went to bed á
+at night.",2.0,14
+801,1119,1119,anger,"My friends promised me that they would definitely call me to tell á
+me if they were visiting me or not.",3.0,5
+802,1120,1120,sadness,A close friend of mine had not contacted me for a long time.,4.0,6
+803,1121,1121,disgust,A friend of mine came to see me when he was quite drunk.,5.0,13
+804,1124,1124,joy,"When I felt that an exam, which I had feared, was an easy one and á
+went well.",1.0,14
+805,1125,1125,fear,"I was afraid when my dog ran out through a crack in the fence á
+when  a train was coming.",2.0,14
+806,1126,1126,anger,"When a friend of mine was drawn into a fight because of the á
+stupid gang he belonged to. I felt angry with him and his á
+friends. They could not think about anything sensible, but would á
+fool around without taking into consideration the feelings of á
+other persons.á",3.0,2
+807,1127,1127,sadness,"I felt sad after having had an argument with my boyfriend.  I felt á
+that he did not understand me and that there was no point in á
+carrying on with the relationship.",4.0,25
+808,1128,1128,disgust,"I detested my father who was a drunkard.  He would rave, á
+threaten and blame my mother and me.  He finally drove us away á
+from home.",5.0,10
+809,1131,1131,joy,"When I got home from a pleasant trip abroad, I got to know that I á
+had been accepted at university.",1.0,22
+810,1132,1132,fear,"At school, I had acted against the will of the group, and the á
+next day they promised to take revenge on me.",2.0,2
+811,1133,1133,anger,"My mother had for some time been trying to separate me from a á
+good friend who, she thought, was not good company for me.  á
+Finally, at breakfast one day, we had an argument and I tried to á
+defend my friend.",3.0,10
+812,1134,1134,sadness,I got to know about the death of a close friend.,4.0,25
+813,1135,1135,disgust,"When I was watching a movie with many violent episodes.  They á
+accurately showed the cutting of corpses, etc...",5.0,2
+814,1138,1138,joy,"When I was pressing figures on the curtain cloth. I had bought á
+the cloth after months of hindrances.",1.0,3
+815,1139,1139,fear,"I am a kindergarten teacher and I am thoroughly weary of my job.  á
+After having taken the university entrance exam I suffered from á
+anxiety for weeks as I did not want to carry on with my work - studies á
+were the only alternative.",2.0,19
+816,1140,1140,anger,"My life-partner, who was drinking more and more, spoke about á
+kicking the cat.  He had never done anything of the kind, but I á
+knew that he would do so one day, without thinking about it.",3.0,2
+817,1141,1141,sadness,"Estrangement from my best woman friend.  We have been going á
+different ways for quite some time now, but the break was total á
+when she got married as her husband is unreasonably jealous of me.",4.0,3
+818,1142,1142,disgust,"My life-partner is going through a crisis (way of life, old-fashioned values) á
+and can only get out of it by talking bold decisions.  I have á
+noticed his cowardice and attempts to escape his problems by á
+drinking.  I detest his drinking and his being full of self-pity.",5.0,25
+819,1145,1145,joy,"Begining the week-end with my girlfriend : cozyness, beer and á
+wine.",1.0,8
+820,1146,1146,fear,"The fear about my future : work, making ends meet and health. á
+Coping.",2.0,14
+821,1147,1147,anger,"A friend of mine ridiculed me, telling me that I would never á
+accomplish anything. I felt that he had interfered with my life.",3.0,10
+822,1148,1148,sadness,"I felt sad at having to leave my girlfriend after constant problems á
+and failed attempts at reconciliation.  My sadness was caused by á
+the irreversibility of the decision.",4.0,25
+823,1149,1149,disgust,A man spat on the wall of a house.,5.0,2
+824,1152,1152,joy,"When after an overwhelming anxiety and enquiry, I understood á
+something about why I exist and what my task in life is.",1.0,19
+825,1153,1153,fear,"At the railway station, while waiting for the last train at night á
+I noticed that a drunk young man was appraching me in a á
+purposeful mannner.",2.0,8
+826,1154,1154,anger,"While having a discussion with my mother, I realized that she á
+does not for a moment doubt the justification of her making the á
+decisions concerning my life.",3.0,22
+827,1155,1155,sadness,"When I think that I will probably never have a genuine contact á
+with my parents.",4.0,9
+828,1156,1156,disgust,"While reading Olli Jalonen's new book, the distant, cold and á
+selfish relationships between people (in the book) made me feel á
+disgusted.",5.0,11
+829,1159,1159,joy,"The day I got to know that I would get a shared dwelling with my á
+boyfriend.  My parents place was getting a little crowded with á
+my growing bother wanting a room to himself.  I first felt doubt, á
+then joy, but also sadness.  The feeling of joy was the á
+strongest.",1.0,25
+830,1160,1160,fear,"My grandfather had lung-cancer and was being nursed at á
+home.  I felt fear when I was alone with him and he almost choked á
+on mucus secretions.",2.0,14
+831,1161,1161,anger,"The outrageous conduct of a relative towards me and those close á
+to me.(blaming us and lying)",3.0,12
+832,1162,1162,sadness,We had to finish the life of our 8 year-old dog.,4.0,22
+833,1163,1163,disgust,A very drunk person.,5.0,12
+834,1166,1166,joy,[ A chat on the telephone with a friend.],1.0,5
+835,1167,1167,fear,"[ Meeting some new (unpleasant) people or some new, demanding á
+situation.]",2.0,3
+836,1168,1168,anger,"[ For example, unfair pushing in a bus.]",3.0,3
+837,1169,1169,sadness,"[ When I am, in my opinion, not understood correctly. ]",4.0,6
+838,1170,1170,disgust,[ When some people act very important in any situation.],5.0,22
+839,1173,1173,joy,"I was in a dancing-tavern and the atmosphere was one of waiting á
+for the end of the world.  Suddenly people began dancing wildly, á
+inspired by the band.  An unbelievable experience : wonderful á
+that even Finns sometimes flare up and forget to think ""what á
+others are thinking of me"".  It was delightful to dance to one's á
+heart content.",1.0,13
+840,1174,1174,fear,"I was travelling back home by boat with two friends of mine after á
+a lovely holiday trip.  The night and the sea were dark, and the á
+wind was blowing.  I feared that death was there on the boat, I á
+somehow felt sure about it.  I feared being left alone.",2.0,14
+841,1175,1175,anger,"I was at home, filling my tax report.  Nobody had time to help á
+me.  I would have liked to do it quickly so that I could go and á
+meet a friend of mine who had just returned from hospital.  I got á
+angry as both my brother and my father refused to give me their calculator á
+as I had not asked for it nicely.  I could not leave as I á
+had to wait for help and the tax report had to be done.",3.0,2
+842,1176,1176,sadness,"I tried to talk to my parents over the phone, as I wanted to go á
+home for the week-end and I knew that I would not be able to bear á
+it.  I tried to reduce the gulf and the conflict between us by á
+talking in order to unite our worlds.  Result : hysterical mess, á
+blinding and blaming.",4.0,6
+843,1177,1177,disgust,"My mother called me because she had read through the enveloppe a letter á
+addressed to me.  She denied having read it intentionally and á
+said ""the words just popped out through the enveloppe as the sun á
+was shining on it"". Hah Hah.",5.0,1
+844,1180,1180,joy,"The inflammation of the ear of my child got cured and the doctor á
+said that the ear was completely all right.",1.0,5
+845,1181,1181,fear,"My husband suddenly fell ill seriously and during the medical á
+examinations we did not know what would follow.",2.0,6
+846,1182,1182,anger,"The housing council asked the city to cut 40 linden trees so that á
+the inhabitants of the lower floors would have a view to the sea.",3.0,8
+847,1183,1183,sadness,"My child, unexpectedly started acting in a restless and á
+disturbing way at school.  In addition his performance at school á
+weakened.",4.0,26
+848,1184,1184,disgust,"On a trip abroad, a lady-like member of our group turned out to á
+be an alcoholic.  She spoilt many days of my holidays because of á
+her behaviour and paranoia.",5.0,9
+849,1187,1187,joy,When a student of mine (at music) performed and played remarkably well.,1.0,26
+850,1188,1188,fear,When climbing up the stairs to the top of a ski-jumping hill.,2.0,13
+851,1189,1189,anger,"My boy-friend came home late one night without having told me á
+about it before.",3.0,26
+852,1190,1190,sadness,The breaking up of a long lasting relationship.,4.0,16
+853,1191,1191,disgust,"While watching the movie called ""Deer hunter"" on TV, when it á
+showed how prisoners were treated.",5.0,7
+854,1194,1194,joy,"When I made up with a girl-friend of mine after having been on á
+unfriendly terms with her (my fault).  I cried with joy that á
+evening.",1.0,13
+855,1195,1195,fear,"While cycling in the country, I came across a large herd of á
+cows.",2.0,13
+856,1196,1196,anger,"When I heard that my step-mother had treated my mother in a wrong á
+manner.",3.0,10
+857,1197,1197,sadness,"When my friend did not pass the high school graduation á
+examinations.",4.0,9
+858,1198,1198,disgust,"When I heard about the advances an acquaintance of mine had made á
+to my friends, who did not approve of them.",5.0,10
+859,1201,1201,joy,"During lectures, I sensed an unexpressed understanding with a boy á
+I did not know.  We exchange glances ; I think he likes me, and I á
+like him too.  Perhaps he has fallen in love with me .........",1.0,6
+860,1202,1202,fear,"At night, I walk home past a forest.  Once, somebody got stabbed á
+in the forest.  I imagine someone attacking me and I hurry up.",2.0,4
+861,1203,1203,anger,"In a tram, the ticket seller was commanding, taking the role of a á
+leader, trying to emphasize her non-existent authority with undue á
+strictness towards a good-humoured drunk who could not find his á
+ticket at once.",3.0,13
+862,1204,1204,sadness,"A relationship in which I had put my trust, broke up.  I was sad á
+when I realized how easy it is to forget something that one had á
+once regarded as great and significant.",4.0,25
+863,1205,1205,disgust,"A nightmare.  I was dreaming about bloodsuckers, which I tried to á
+shake off from my body, they are everywhere, they get glued, they á
+suck.  And there are a lot of them.  I panic.",5.0,14
+864,1208,1208,joy,"[ During inter-rail-trip, after troubles, I met my little á
+sister.]",1.0,24
+865,1209,1209,fear,"Traveling as the only female in a railway carriage in the middle á
+of the night in Italy.",2.0,13
+866,1210,1210,anger,"A male, Honduran acquaintance of mine despised my opinions.",3.0,10
+867,1211,1211,sadness,When our dog died.,4.0,16
+868,1212,1212,disgust,"While walking on the street with a good friend of mine, we met an á
+acquaintance of hers.  My friend started showing off and telling á
+false stories about herself and praising herself.",5.0,13
+869,1215,1215,joy,"After having at last finished my master's thesis, I felt great á
+joy and relief.  I had been haunted by the thesis during the á
+whole of my studies.",1.0,23
+870,1216,1216,fear,"While preparing my master's thesis, I was scared that I would not á
+accomplish anything as the subject was rather difficult.",2.0,14
+871,1217,1217,anger,"During the Summer, at my workplace, a person kept interfering á
+with my tasks and making unfounded remarks.  I felt hatred for á
+him but it stopped when I realized that he just longed for attention.",3.0,10
+872,1218,1218,sadness,"The last time I felt sad and disappointed was when I did not do á
+as well as I had hoped in one of the final exams.  As compared á
+with the earlier exams, the questions, I think, were unjust.",4.0,9
+873,1219,1219,disgust,"After the first of May, I detested my fiance's friends, who had á
+piled on to our party and spoilt it completely.",5.0,10
+874,1222,1222,joy,When I met a good friend of mine after a long time.,1.0,5
+875,1223,1223,fear,"I was camping with a friend of mine and we spent the night in the á
+forest.  I could not fall off to sleep and could clearly hear á
+noises from outside (steps ?) approaching our tent.",2.0,6
+876,1224,1224,anger,When I quarelled with my parents.,3.0,13
+877,1225,1225,sadness,"Being away from a very close friend, I was away from Finland á
+for a year as an exchange student.",4.0,22
+878,1226,1226,disgust,When I saw a spider.,5.0,22
+879,1229,1229,joy,"While having a discussion with a colleague of mine, I realized that her á
+conception of man and work were similar to mine.",1.0,22
+880,1230,1230,fear,"While he was drunk, my life partner tried to hit me.  I felt á
+scared and fled to the bathroom.",2.0,14
+881,1231,1231,anger,"A ""higher status"" colleague of mine despised my attitude and á
+organization of work.",3.0,10
+882,1232,1232,sadness,"I could not meet my love, after having waited for a month, due to á
+illness.",4.0,25
+883,1233,1233,disgust,"Once again, my life partner came back home drunk at midnight.",5.0,9
+884,1236,1236,joy,"I had just moved to the town where I study and I got a postcard á
+from a good friend (from my home town).",1.0,5
+885,1237,1237,fear,"My boyfriend hinted over the phone about wanting to ""be free"".  á
+He thus did not say it point blank, silence followed.",2.0,8
+886,1238,1238,anger,They had returned much less of my taxes than I had expected.,3.0,26
+887,1239,1239,sadness,After my boyfriend and I had separated.,4.0,24
+888,1240,1240,disgust,"In the morning, the cat of my landlady had vomited on the floor, á
+near the staircase I take to go to the bathroom.",5.0,12
+889,1243,1243,joy,"I got a letter from my best friend, whom I had not heard from for á
+a long time (a good letter).",1.0,5
+890,1244,1244,fear,"Someone knocked on the door when I was alone at home (though á
+there was a door bell).  I looked through the peep hole but it á
+had been covered.  I called my sister but she could not help me á
+as she was hundreds of kilometres away.",2.0,6
+891,1245,1245,anger,"My parents put pressure on me to buy clothes, when I would not á
+have liked to do so.",3.0,10
+892,1246,1246,sadness,"When my grandfather died, I saw my grandmother crying against my á
+aunt's shoulder (I had never seen my grandmother cry before).",4.0,25
+893,1247,1247,disgust,"At school, I detested the spinach gruel which had lumps of flour á
+in it.",5.0,10
+894,1250,1250,joy,When I got a letter from home.,1.0,24
+895,1251,1251,fear,"While cycling in the country a dog started running beside me, á
+growling and barking, and trying to bite my foot.",2.0,13
+896,1252,1252,anger,"Disagreements with mother.  When I moved from KankaanpSS, she had á
+promised to help me move but broke her promise because of some á
+hindrance.",3.0,10
+897,1253,1253,sadness,"When I had to move away from home to study, and I knew that I á
+would not be coming back home for a long time.",4.0,22
+898,1254,1254,disgust,"When I noticed two spiders running on the floor in different á
+directions.",5.0,7
+899,1257,1257,joy,I found myself a place after looking for one for a long time.,1.0,8
+900,1258,1258,fear,[ In an aeroplane.],2.0,22
+901,1259,1259,anger,"I was angry at my boyfriend who had promised to come to see me á
+but did not because he spent the evening with his pals.",3.0,2
+902,1260,1260,sadness,"The breaking up of a relationship.  We decided that the á
+relationship could not carry on, so it was no surprise to me. á
+And anyhow, I had known it would happen sooner or later.",4.0,22
+903,1261,1261,disgust,The disgust I feel towards a certain person.,5.0,11
+904,1264,1264,joy,"I went to see the entrance examination results at university.  I á
+rejoyced at my success.",1.0,15
+905,1265,1265,fear,"I borrowed a car which was supposed to be used for a long journey á
+a few hours later, and one of the tyres burst in the middle of á
+the town and I did not know what to do.",2.0,6
+906,1266,1266,anger,"An utterance, which I had intended to be a joke, was taken as an á
+offence.  In my opinion, this was stupid, and I got angry.",3.0,2
+907,1267,1267,sadness,"My best friend had a relatively severe illness.  I was sad á
+because she was suffering.",4.0,25
+908,1268,1268,disgust,"A man tried to have sexual intercourse with me, though I had á
+communicated my unwillingness.  Later on, I felt disgust at that á
+person as well as myself because I had partly submitted.",5.0,10
+909,1271,1271,joy,A good report card (a scholarship) in primary school.,1.0,5
+910,1272,1272,fear,"I was walking home with a friend at night along a quiet street.  á
+Something started rustling in the bush : it was an exhibitionist.",2.0,13
+911,1273,1273,anger,"I got angry at a friend of mine whom I caught reading my notebook á
+(almanach).",3.0,2
+912,1274,1274,sadness,When my grandmother died of cancer.,4.0,16
+913,1275,1275,disgust,"In a lift a drunken, fat and untidy man tried to make advances at á
+me.",5.0,2
+914,1278,1278,joy,When I made the acquaintance of a certain person.,1.0,5
+915,1279,1279,fear,"When abroad, while driving a car along a dark, winding road.",2.0,7
+916,1280,1280,anger,"When my sister took my things without having asked for my permission á
+first.",3.0,3
+917,1281,1281,sadness,When my grandfather died.,4.0,16
+918,1282,1282,disgust,"When I was working, I got treated in a way which I felt was not á
+democratic.",5.0,10
+919,1285,1285,joy,"When I went to a job interview, I met a person who was very nice, á
+and his attitude made me glad.",1.0,15
+920,1286,1286,fear,"My episode of fright happened when I came to study.  I had to á
+stand in front of my still unknown fellow students and talk about á
+myself.  My hands shook, I flushed and became tongue-tied.",2.0,14
+921,1288,1288,joy,"I was in a restaurant with my boyfriend when I saw my best female á
+friend after not seeing her for two weeks.  We rejoyced, hugged á
+and had a long talk.",1.0,13
+922,1289,1289,fear,"One evening, while going to meet a friend of mine, I had to cross á
+a meadow by a dark road.  There were bushes on the other side of á
+the road.  The weather was damp and a bit foggy.  I heard steps á
+behind me and kept speeding up my steps all the time.",2.0,4
+923,1290,1290,anger,"My brother told me that a person (whom I know) had insulted him.  á
+I am very fond of my brother, and as he himself can not get angry á
+or hurt, my protectiveness was aroused and I got angry.",3.0,2
+924,1291,1291,sadness,"My guinea-pig had been ill for a couple of days.  One evening, á
+when I came home I enquired as to how it was doing.  My mother's á
+expression told me that it had died.  My knees refused to support á
+me and I began to weep convulsively.",4.0,25
+925,1292,1292,disgust,"I happened to see two boys fighting, one of them fell down and á
+hurt his head.  The other one used this to spank the head of the 
+boy on the ground.",5.0,2
+926,1295,1295,joy,When I was sick my husband bought me a piece of cake.,1.0,5
+927,1296,1296,fear,"I saw a man who had had a heart-attack and who was being á
+treated for it.  I feared that my own father could have been á
+there.",2.0,14
+928,1297,1297,anger,"When I saw a big man hit another one, and nobody did anything.",3.0,9
+929,1298,1298,sadness,"When my sister left to go home, in Sweden, after the Christmas á
+Holidays.",4.0,22
+930,1299,1299,disgust,"I once watched the series called ""Dynasty"" on TV, and I detested á
+it.",5.0,10
+931,1301,1301,joy,"When my red-cheeked, content child runs to meet me in the yard of á
+the kindergarten and gives me a moist kiss on my cheek.",1.0,5
+932,1302,1302,fear,"A neighbour's girl had disappeared and many people were looking á
+for her.  Someone had gone to notify the police.  Something had á
+certainly happened to her.",2.0,25
+933,1303,1303,anger,"Without my permission, my son had made popcorn after coming back á
+from school.  The consequences were a spoilt kettle and chaos in á
+the kitchen but what could have happened with the hot grease ?",3.0,7
+934,1304,1304,sadness,The death of a close relative.,4.0,25
+935,1305,1305,disgust,"One of my fellow students used questionable and unfair means to á
+advance her studies faster than others.  I detested her.",5.0,10
+936,1308,1308,joy,"After my vacations, one day after a lecture it occured to me to á
+buy a rose for my mother.  We went together to a pub and my á
+mother told me that she would be getting married next Spring.  I á
+did not known about it and so was all the more glad.",1.0,15
+937,1309,1309,fear,"I work at a day care centre, and one day when the children were á
+outdoors a four-year old boy disappeared from the yard.  I was á
+not looking after them then, but as the manager it was me who was á
+responsible.",2.0,6
+938,1310,1310,anger,"I was on vacation, and therefore I did not attend a meeting of á
+the day care centre.  Nevertheless, the very day I came back they á
+called me early morining to ask me ""what are you going to do á
+about the matter ?"" (which had been discussed in the meeting).  á
+Then I got angry.",3.0,2
+939,1311,1311,sadness,"The fact that my mother is getting married again (my mother and á
+father divorced about 15 years ago) means that she will probably á
+move to Turku, and our home, which is a one family house, will be á
+sold (I myself have not been living at home for the past six á
+years).",4.0,22
+940,1312,1312,disgust,"While travelling in a bus, there were three people sitting behind á
+me (two men and a woman).  They were drunk and the conversation á
+was unbelievable (about fucking, fellatio, etc...).  They tried á
+to get others to take part in the conversation.  I loathed it and á
+felt like crying.",5.0,9
+941,1315,1315,joy,"I had been away from home for a long time and when I came home I á
+was delighted.  It was wonderful to see familiar, dear people and á
+I was rejoycing in advance.  I had been feeling very lonely.",1.0,15
+942,1316,1316,fear,"I awoke at night and did not remember dreaming about antthing in á
+particular.  I just felt oppressing fear, it was dark and all the á
+others were sleeping.",2.0,14
+943,1317,1317,anger,"One winter day I, unwillingly, was outdoors with my younger á
+brother (10 years younger than me).  I lost my temper on him and á
+wanted to throw my brother down the snow bank we were on.  I á
+pushed him but not as hard as I had wanted to. We were alone the á
+two of us.",3.0,2
+944,1318,1318,sadness,"I was on a class excursion, by boat to Stockholm.  At night my á
+class mates prepared to clebrate their motive in life which was á
+""life is merriment"".  I felt depressed about the way they sought á
+happiness.",4.0,25
+945,1319,1319,disgust,"I was on my way home by bus.  A man who had drunk a fair amount of á
+alcohol started talking, trying to hug and pat a woman sitting á
+next to him.  Fortunately it was not me.",5.0,23
+946,1322,1322,joy,"When, after a long time, I saw a girl with whom I was in love.",1.0,18
+947,1323,1323,fear,When I was walking on a fairly out-of-the-way street.,2.0,3
+948,1324,1324,anger,"A friend of mine had promised to arrange me some tickets for a á
+concert which I considered important.  He could not get them the á
+way he thought he would, so he gave up the whole thing.",3.0,9
+949,1325,1325,sadness,I was sad when I saw that a beautiful girl was not attainable.,4.0,25
+950,1326,1326,disgust,"I heard somebody talk about studies in a highly enthusiastic á
+""student-like"" way.",5.0,13
+951,1329,1329,joy,"While watching an entertainment program in which there was a clever  á
+and amusing sketch.",1.0,1
+952,1330,1330,fear,"When I was in the army, a room mate of mine came back from á
+furlough and threatened another fellow with a knife.",2.0,2
+953,1331,1331,anger,"The last day of school is traditionally celebrated by singing a á
+song about all the students who are leaving.  In the song á
+about me, there were things which irritated me a lot.",3.0,3
+954,1332,1332,sadness,"I worked for seven months in a factory, and made friends with a á
+fellow worker.  Later, I visited my former fellow workers and was á
+told that, while in the army, my friend had shot himself.",4.0,4
+955,1333,1333,disgust,"The behaviour of a fellow towards me and some others in the army á
+was really mean.  I detested this.",5.0,10
+956,1336,1336,joy,"In the army, my result at the shooting exercises got á
+me a three day furlough.",1.0,10
+957,1337,1337,fear,"When I was 8 years old, I would usually come home from school á
+with my mother in a car.  For the first time I had to take the á
+school bus, and I mistook the bus stop and found myself two á
+kilometres away from where I lived.  I was very scared, wondering á
+how I would get back home.",2.0,19
+958,1338,1338,anger,"I read in the newspaper that the Student Lodging Fund was going á
+to build new appartments for refugees (in my opinion this is the á
+state's affair).  This is when only a fractoin of the students á
+can find an appartment.",3.0,6
+959,1339,1339,sadness,"I lead a rather secure life.  The only thing I can remember is a á
+song from the nineteenth century which is against alcohol.  Both á
+the melody and the word (although naive) effected my emotions.",4.0,23
+960,1340,1340,disgust,"Yesterday in the elevator a man started smoking, this is á
+something I just can not tolerate.",5.0,10
+961,1343,1343,joy,"When my favourite football team made a goal and was about to á
+win the Cup of England.",1.0,13
+962,1344,1344,fear,"I was less than 10 years old when our neighbour's dog chased me á
+to the roof of a small shed and there seemed to be no hope of á
+getting away from there.",2.0,19
+963,1345,1345,anger,"While playing a ball game, I was just about to make a goal when I á
+was thrown off my feet, and I failed to score the goal.",3.0,9
+964,1346,1346,sadness,"When I heard about the death of Frantois Truffaut, the French motion  á
+picture director, on the radio.  I had planned to go and see his á
+last film.",4.0,13
+965,1347,1347,disgust,"I saw a movie called ""The Thing"", the film directed by John á
+Carpenter.  The monster in the film made me feel disgusted.",5.0,11
+966,1350,1350,joy,When I was in the sauna bath.,1.0,22
+967,1351,1351,fear,I had a dream in which I was an African elephant.,2.0,8
+968,1352,1352,anger,"When I came for the lesson, it was cancelled and I had to fill in á
+a questionnaire instead.",3.0,9
+969,1353,1353,sadness,"When my car froze, and I could not start it.",4.0,19
+970,1354,1354,disgust,When I saw our computer teacher.,5.0,22
+971,1357,1357,joy,I passed an exam which I thought I had failed.,1.0,6
+972,1358,1358,fear,"My mother had not come home at midnight.  She had forgotten to á
+tell me about it.  I was very young and all alone at home.",2.0,6
+973,1359,1359,anger,"My girlfriend started singing (she cannot sing) and did not stop á
+despite my asking her to do so.",3.0,6
+974,1360,1360,sadness,When my grandmother died of cancer.,4.0,16
+975,1361,1361,disgust,"When I was still a child, I saw a horror film on TV in which á
+there was a rotten human skull.",5.0,11
+976,1364,1364,anger,"New Year's Eve party in the country, I hardly knew a person; my á
+partner spent most of the time at the bar. I had little á
+opportunity to get to know people because our table was separated á
+and my boyfriend's parents were present.",3.0,13
+977,1365,1365,sadness,"Christmas Eve: there was a tension between my parents, they did á
+not even try to restore a harmonic atmosphere. Mother stayed in á
+her room almost the whole day. I felt alone and was very sad.",4.0,25
+978,1366,1366,disgust,"Father said: If you are pregnant, you will have to procure á
+abortion. I was filled with disgust against my father.",5.0,11
+979,1369,1369,joy,"After one year of searching, my friend and I have found a flat we á
+are able to pay for.",1.0,5
+980,1370,1370,fear,Car accident in the middle of the night.,2.0,12
+981,1371,1371,anger,"At the weekend I wanted to be absent from school because of a á
+sports event, but my teacher refused to give me the day off á
+because he didn't like me.",3.0,10
+982,1372,1372,sadness,"When I was six years old, my favourite cat died.",4.0,25
+983,1373,1373,disgust,"A gigantic spider climbed over my face and what is more - in my á
+own flat.",5.0,6
+984,1376,1376,joy,"I won a car in a prize-competition. The moment I was informed á
+about it, I felt joy.",1.0,17
+985,1377,1377,fear,"My sister had to undergo a very complicated operation, her á
+eyesight was at stake.",2.0,25
+986,1378,1378,anger,I had a quarrel with my parents; I was convinced to be right.,3.0,2
+987,1379,1379,sadness,"I heard that a friend had died in an accident; group situation: á
+suddenly a friend came in and said ""Have you already heard á
+that...""; there was a terrible consternation, silence, then á
+everybody shouted excitedly ""How could that happen..."".",4.0,6
+988,1380,1380,disgust,"Scuffle in a carriage of the underground in Vienna, three drunk á
+men thrashed a man in a wheel chair - I watched the scene from á
+another carriage.",5.0,2
+989,1383,1383,joy,"In order to be admitted to my final examination, I had to pass á
+two examinations. As I had not studied very much, I resigned á
+myself to be left behind. Nevertheless I succeeded in these á
+examinations.",1.0,4
+990,1384,1384,fear,"I had not told my parents about my bad marks in school. One day, á
+my father wanted to speak to the teachers. Fortunately I could á
+influence my parents to take it easy.",2.0,8
+991,1385,1385,anger,"I wanted to go to a friend of mine who had a party; at the moment á
+I wanted to leave, my father said I couldn't go because he needed á
+me for some work in the afternoon.",3.0,8
+992,1386,1386,sadness,"A friend of mine, who had repeated a year at school once before, á
+did not pass the final examination and had to take it again half á
+a year later.",4.0,9
+993,1387,1387,disgust,"Eco-activists demonstrated against a project to build a power station á
+at the Danube in the middle of a lowland forest (Hainburg) and á
+the government decided to delay it for another year. When my á
+father heard about it, he said that we needed another Hitler.",5.0,10
+994,1390,1390,joy,My boyfriend returned after a long absence.,1.0,24
+995,1391,1391,fear,My car skidded on the wet street.,2.0,13
+996,1392,1392,anger,"I wanted to see a friend, I had been looking forward to it and á
+had certain expectations, but he did not pay any attention to me, á
+played cards with other people.",3.0,8
+997,1393,1393,sadness,"A good friend quitted me after he had behaved in a strange á
+manner.",4.0,10
+998,1394,1394,disgust,"In broad daylight I saw an untidy old man pissing and playing á
+with his penis in the middle of the town.",5.0,2
+999,1397,1397,anger,"Recently a good friend only called me when he needed something. á
+He never said ""please"" or ""thank you"" or any other kind word.",3.0,5
+1000,1398,1398,sadness,"My favourite horse died. We had tried our best to save him, but á
+it was hopeless, he had to be shot.",4.0,25

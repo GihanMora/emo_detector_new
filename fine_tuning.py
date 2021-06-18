@@ -64,7 +64,8 @@ trainer.train();
 
 results = trainer.evaluate()
 print(results)
-
+model.save_pretrained('./emo_bert_model')
+tokenizer.save_pretrained('./emo_bert_model')
 preds_output = trainer.predict(emotions_encoded["validation"])
 print(preds_output.metrics)
 
