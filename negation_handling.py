@@ -20,7 +20,13 @@ def map_opposite_emotions(emo_dict):
                         'distraction':'senerity',
                         'boredom':'interest_vigilance',
                         'disgust_loathing':'joy',
-                        'interest_vigilance':'boredom'
+                        'interest_vigilance':'boredom',
+                           'negative': 'positive',
+                           'positive': 'negative',
+                           'model_strong': 'model_weak',
+                           'model_weak': 'model_strong',
+                       'uncertainty':'uncertainty',
+                       'litigious':'litigious'
                        }
   opposed_dict = {}
 

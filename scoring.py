@@ -1,5 +1,11 @@
 def calculate_scores(neaarest_neighbs_words,neaarest_neighbs_labels):
   score_dict = {
+      'negative': 0,
+      'positive': 0,
+      'uncertainty': 0,
+      'litigious': 0,
+      'model_strong': 0,
+      'model_weak': 0,
               'anticipation':0,
               'anger':0,
               'fear':0,

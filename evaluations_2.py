@@ -1,13 +1,27 @@
+import ast
+
 import pandas as pd
 # path = r"/content/drive/MyDrive/NLP_notebooks/emotionlines_dataset/procesd_emotionlines_emo_ids.csv"
 # path = r"/content/drive/MyDrive/NLP_notebooks/emotionlines_dataset/sentences_wc.csv"
 # path = r"/content/drive/MyDrive/NLP_notebooks/emotionlines_dataset/twitter_dataset.csv"
+from transformers import AutoTokenizer, AutoModel
+
 from emotion_candidate_recognition import emotion_candidates_recognition, get_mean_pooling_emb
 
+# tokenizer = AutoTokenizer.from_pretrained("E:\Projects\emo_detector_new\emo_bert_model")
+# model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\emo_bert_model")
+tokenizer = AutoTokenizer.from_pretrained("E:\Projects\emo_detector_new\goemo_emo_double_bert_model")
+model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\goemo_emo_double_bert_model")
+
+
+df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab_refined.csv")
+df = df.dropna()
+df['embedding'] = [ast.literal_eval(i) for i in df['embedding'].values.tolist()]
 
 
 
 path = r"E:\Projects\emo_detector_new\datasets/goemotions.csv"
+path = r""
 results_df = pd.DataFrame()
 dff = pd.read_csv(path)
 print(dff.columns)
@@ -29,7 +43,7 @@ for i,row in dff.iterrows():
     # sentences_zz.append(sentence)
     # sentence_embeddings = get_mean_pooling_emb(sentence)
     # get_nearest_neighbours(sentence_embeddings)
-    pred = emotion_candidates_recognition(sentence,1)
+    pred = emotion_candidates_recognition(sentence,1,df,tokenizer,model)
     preds.append(pred)
 # print(sentences_zz)
 # # preds = []
@@ -43,7 +57,7 @@ out_dff = dff
 print(len(out_dff))
 out_dff['predictions'] = preds
 
-out_dff.to_csv(r"E:\Projects\emo_detector_new\predictions/predictions_goemotions.csv")
+out_dff.to_csv(r"E:\Projects\emo_detector_new\predictions/predictions_goemotions_dual_bert.csv")
 
 
 

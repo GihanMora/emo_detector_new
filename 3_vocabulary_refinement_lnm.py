@@ -60,8 +60,8 @@ def mean_pooling(model_output, attention_mask):
     sum_mask = torch.clamp(input_mask_expanded.sum(1), min=1e-9)
     return sum_embeddings / sum_mask
 
-tokenizer = AutoTokenizer.from_pretrained(r"E:\Projects\emo_detector_new\go_model_simple")
-model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\go_model_simple")
+tokenizer = AutoTokenizer.from_pretrained("E:\Projects\emo_detector_new\emo_bert_model")
+model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\emo_bert_model")
 
 # tokenizer = AutoTokenizer.from_pretrained("joeddav/distilbert-base-uncased-go-emotions-student")
 # model = AutoModel.from_pretrained("joeddav/distilbert-base-uncased-go-emotions-student")
@@ -69,6 +69,7 @@ model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\go_model_simple
 tokens = []
 embedding = []
 eight_label = []
+fourteen_label = []
 
 for each_key in lnm_dict:
   words_list = lnm_dict[each_key]
@@ -88,6 +89,7 @@ for each_key in lnm_dict:
       tokens.append(tk)
       embedding.append(emb)
       eight_label.append(e_lbl)
+      fourteen_label.append(e_lbl)
 
     # print(tk)
     # print(emb)
@@ -100,6 +102,7 @@ out_df = pd.DataFrame()
 out_df['token'] = tokens
 out_df['embedding'] = embedding
 out_df['eight_label'] = eight_label
+out_df['fourteen_label'] = fourteen_label
 
 
 out_df.to_csv(r"E:\Projects\emo_detector_new\vocabs\lnm_vocab.csv")

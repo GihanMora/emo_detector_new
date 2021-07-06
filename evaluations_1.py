@@ -2,6 +2,8 @@ import pandas as pd
 # path = r"/content/drive/MyDrive/NLP_notebooks/emotionlines_dataset/procesd_emotionlines_emo_ids.csv"
 # path = r"/content/drive/MyDrive/NLP_notebooks/emotionlines_dataset/sentences_wc.csv"
 # path = r"/content/drive/MyDrive/NLP_notebooks/emotionlines_dataset/twitter_dataset.csv"
+from transformers import AutoTokenizer, AutoModel
+
 from emotion_candidate_recognition import emotion_candidates_recognition, get_mean_pooling_emb
 
 
@@ -13,12 +15,23 @@ dff = pd.read_csv(path)
 print(dff.columns)
 print(dff['sentiment'].unique())
 print(len(dff))
+
+
+import ast
+tokenizer = AutoTokenizer.from_pretrained("E:\Projects\emo_detector_new\goemo_emo_double_bert_model")
+model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\goemo_emo_double_bert_model")
+
+
+df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab_refined.csv")
+df = df.dropna()
+df['embedding'] = [ast.literal_eval(i) for i in df['embedding'].values.tolist()]
+
 preds = []
 sentences_zz = []
 # p=0
 for i,row in dff.iterrows():
     print(i)
-    if(i<2000):continue
+    # if(i<2000):continue
     # p=p+1
     # print(p)
     # continue
@@ -29,7 +42,7 @@ for i,row in dff.iterrows():
     # sentences_zz.append(sentence)
     # sentence_embeddings = get_mean_pooling_emb(sentence)
     # get_nearest_neighbours(sentence_embeddings)
-    pred = emotion_candidates_recognition(sentence,1)
+    pred = emotion_candidates_recognition(sentence,1,df,tokenizer,model)
     preds.append(pred)
 # print(sentences_zz)
 # # preds = []
@@ -39,11 +52,11 @@ for i,row in dff.iterrows():
 #   # print(pred)
 #   preds.append(pred)
 
-out_dff = dff[2000:]
+out_dff = dff
 print(len(out_dff))
 out_dff['predictions'] = preds
 
-out_dff.to_csv(r"E:\Projects\emo_detector_new\predictions/predictions_ISEAR_sentiment_new_after_2000_no_bordom.csv")
+out_dff.to_csv(r"E:\Projects\emo_detector_new\predictions/predictions_ISEAR_sentiment_dual_bert_refined.csv")
 
 
 

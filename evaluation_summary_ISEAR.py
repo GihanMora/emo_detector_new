@@ -42,37 +42,6 @@ def ft_to_et(emo_dict):
     return eight_dict
 
 
-emo_go_emotions = {
-1:'admiration',
-2:'amusement',
-3:'anger',
-4:'annoyance',
-# 5:'approval',
-5:'trust',
-6:'caring',
-7:'confusion',
-8:'curiosity',
-9:'desire',
-10:'disappointment',
-11:'disapproval',
-12:'disgust',
-13:'embarrassment',
-14:'excitement',
-15:'fear',
-16:'gratitude',
-17:'grief',
-18:'joy',
-19:'love',
-20:'nervousness',
-21:'optimism',
-22:'pride',
-23:'realization',
-24:'relief',
-25:'remorse',
-26:'sadness',
-27:'surprise',
-28:'neutral'}
-
 def compute_metrics(pred, ground_labels):
     labels_all = ground_labels
     preds_all = list(pred)
@@ -97,7 +66,7 @@ import pandas as pd
 # ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_ISEAR_sentiment_original_detector_all.csv")
 # ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_ISEAR_sentiment_new_all.csv")
 # ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_ISEAR_sentiment_new_14.csv")
-ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_fairy_tales_embert_all_14_refined.csv")
+# ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_fairy_tales_embert_all_14_refined.csv")
 # ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_goemotions_new_14.csv")
 # ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_affective_text_new_14.csv")
 # ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_twitter.csv")
@@ -106,8 +75,12 @@ ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_fairy
 # ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_goemotions.csv")
 # ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_fairy_tale_new_14.csv")
 # ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_ISEAR_go_all_14.csv")
-
-
+# ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions/predictions_ISEAR_sentiment_dual_bert_refined.csv")
+# ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_ISEAR_plutchick_vocab_emobert.csv")
+# ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\direct_out_emo_bert_ISEAR.csv")
+# ev_df = pd.read_csv(r"E:\Projects\Emotion_detection_gihan\finbert_experiments\evaluations\ISEAR_prediction_simple.csv")
+ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\ISEAR_kwd_imp.csv")
+ev_df = ev_df.dropna()
 
 
 # print(ev_df.columns)
@@ -129,17 +102,17 @@ for i, row in ev_df.iterrows():
     # if(ground_t!=1):
     #     ground_t=0
     # emo_dict_fairy_tale = {2: 'Angry-Disgusted', 3: 'Fearful', 4: 'Happy', 6: 'Sad', 7: 'Surprised'}
-    if (ground_t == 2):
-        ground_t = 1
-    if (ground_t == 3):
-        ground_t = 2
-    if (ground_t == 4):
-        ground_t = 3
-    if (ground_t == 6):
-        ground_t = 4
-    if (ground_t == 7):
-        # ground_t = 5
-        continue
+    # if (ground_t == 2):
+    #     ground_t = 1
+    # if (ground_t == 3):
+    #     ground_t = 2
+    # if (ground_t == 4):
+    #     ground_t = 3
+    # if (ground_t == 6):
+    #     ground_t = 4
+    # if (ground_t == 7):
+    #     # ground_t = 5
+    #     continue
     # if (ground_t == 5):
     #     ground_t = 3
     #     continue
@@ -151,36 +124,8 @@ for i, row in ev_df.iterrows():
     # if (ground_t == 'neutral'):
     #     continue
 
-    # go emotions
-    # ground_t = int(ground_t.split(',')[0])+1
-    # if (emo_go_emotions[ground_t] == 'joy'):
-    #     ground_t = 1
-    # elif (emo_go_emotions[ground_t]== 'anger'):
-    #     ground_t = 2
-    # elif (emo_go_emotions[ground_t] == 'trust'):
-    #     ground_t = 3
-    # elif (emo_go_emotions[ground_t] == 'surprise'):
-    #     ground_t = 4
-    # elif (emo_go_emotions[ground_t] == 'anticipation'):
-    #     ground_t = 5
-    # elif (emo_go_emotions[ground_t] == 'fear'):
-    #     ground_t = 6
-    # elif (emo_go_emotions[ground_t] in ['sad','sadness']):
-    #     ground_t = 7
-    # elif (emo_go_emotions[ground_t] == 'disgust'):
-    #     ground_t = 8
-    # elif (emo_go_emotions[ground_t] == 'annoyance'):
-    #     ground_t = 9
-    # elif (emo_go_emotions[ground_t] == 'admiration'):
-    #     ground_t = 10
-    # elif (emo_go_emotions[ground_t] == 'confusion'):
-    #     ground_t = 11
-    # else:
-    #     continue
 
 
-
-    # if(ground_t==2):continue
     pred = row['predictions']
     # print(pred)
     pred = ast.literal_eval(pred.replace('Counter', ''))
@@ -191,18 +136,6 @@ for i, row in ev_df.iterrows():
     pred = list(pred_out.keys())[-1]
     print(pred)
 
-    #go emotions
-    # if (pred in ['anticipation','boredom','interest_vigilance']):
-    #     pred = list(pred_out.keys())[-2]
-    #     if (pred in ['anticipation', 'boredom', 'interest_vigilance']):
-    #         pred = list(pred_out.keys())[-3]
-    #         if (pred in ['anticipation', 'boredom','interest_vigilance']):
-    #             continue
-        # continue
-    # if (pred == 'trust'):
-    #     continue
-    if(pred_out[pred]==0):
-        pred = 'unknown'
 
 
 
@@ -228,19 +161,6 @@ for i, row in ev_df.iterrows():
     # elif (pred in ['surprise']):
     #     pred_id = 5
 
-    #fairy tales
-    emo_dict_fairy_tale = {2: 'Angry-Disgusted', 3: 'Fearful', 4: 'Happy', 6: 'Sad', 7: 'Surprised'}
-    if (pred in ['acceptance', 'joy_ecstasy', 'joy', 'admire', 'senerity', 'trust', 'anticipation',
-                 'interest_vigilance','surprise','amazement_surprise']):
-        pred_id = 3
-    elif (pred in ['fear']):
-        pred_id = 2
-    elif (pred in ['sadness', 'sad','boredom','distraction']):
-        pred_id = 4
-    elif (pred in ['anger','disgust_loathing', 'disgust']):
-        pred_id = 1
-    elif (pred in ['surprise','amazement_surprise']):
-        pred_id = 5
 
 
     # to_remove=['joy', 'admire', 'trust','anticipation','acceptance',
@@ -259,59 +179,59 @@ for i, row in ev_df.iterrows():
 
     #ISEAR
 
-    # if (pred in ['joy_ecstasy', 'senerity','joy','acceptance','trust','amazement_surprise','anticipation','interest_vigilance','surprise']):
-    #     pred_id = 1
-    # elif (pred in ['fear']):
-    #     pred_id = 2
-    #     # pred_id = 0
-    # elif (pred in ['sadness', 'sad','boredom']):
-    #     pred_id = 4
-    #     # pred_id = 0
-    # elif (pred in ['anger']):
-    #     pred_id = 3
-    #     # pred_id = 0
-    # elif (pred in ['disgust_loathing', 'disgust','distraction',]):
-    #     pred_id = 3
+
+    if (pred in ['joy_ecstasy', 'senerity','joy','acceptance','trust','amazement_surprise','anticipation','interest_vigilance','surprise']):
+        pred_id = 1
+    elif (pred in ['fear']):
+        pred_id = 2
+        # pred_id = 0
+    elif (pred in ['sadness', 'sad','boredom']):
+        pred_id = 4
+        # pred_id = 0
+    elif (pred in ['anger']):
+        pred_id = 3
+        # pred_id = 0
+    elif (pred in ['disgust_loathing', 'disgust','distraction',]):
+        pred_id = 3
         # pred_id = 0
 
-
-    #go emotions
-    # our_emo_map = {
-    #     'joy':1,
-    #     'joy_ecstasy': 1,
-    #     'senerity':1,
-    #     'anger':2,
-    #     'trust':3,
-    #     'surprise':4,
-    #     'amazement_surprise':4,
-    #     'anticipation':5,
-    #     'fear':6,
-    #     'sadness':7,
-    #     'disgust':8,
-    #     'disgust_loathing':8,
-    #     # 'boredom':8,
-    #     'admire':3,
-    #     'acceptance':3
-    #
-    # }
-    # #
-    # pred_id = our_emo_map[pred]
+    if (pred_out[pred] == 0):
+        pred = 'unknown'
+        pred_id = 10
+        print('not detected')
 
 
-
-
+    #emobert
+    # print(row['ground'],row['pred'])
+    # ground_t = row['ground']
+    # pred = row['pred']
+    # if(pred == 0):
+    #     pred_id = 4
+    # if (pred == 1):
+    #     pred_id = 1
+    # if (pred == 2):
+    #     pred_id = 10
+    # if (pred == 3):
+    #     pred_id = 3
+    # if (pred == 4):
+    #     pred_id = 2
+    # if (pred == 5):
+    #     pred_id = 10
+    # labels = ['sadness', 'joy', 'love', 'anger', 'fear', 'surprise']
     y_ground.append(ground_t)
     y_pred.append(pred_id)
-    if (ground_t != pred_id):
-        _list.append(row)
-print(ground_t)
-print(y_pred)
+    # if (ground_t != pred_id):
+    #     _list.append(row)
+
+
+# print(ground_t)
+# print(y_pred)
 
 compute_metrics(y_ground, y_pred)
 
 
 
-ffdd = pd.DataFrame(_list)
+# ffdd = pd.DataFrame(_list)
 
 # ffdd.to_csv(r"E:\Projects\emo_detector_new\predictions\isear_14_false.csv")
 
