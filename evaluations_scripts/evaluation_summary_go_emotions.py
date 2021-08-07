@@ -2,15 +2,15 @@ import ast
 from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score, precision_recall_fscore_support, \
     confusion_matrix
 
-from evaluation_summary_fairy_tales import ft_to_et
+
 
 emo_go_emotions = {
 1:'admiration',
 2:'amusement',
 3:'anger',
 4:'annoyance',
-# 5:'trust',
-5:'approval',
+5:'trust',
+# 5:'approval',
 6:'caring',
 7:'confusion',
 8:'curiosity',
@@ -58,8 +58,11 @@ def compute_metrics(pred, ground_labels):
 
 import pandas as pd
 # ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_goemotions_refined.csv")
-ev_df = pd.read_csv(r"E:\Projects\Emotion_detection_gihan\finbert_experiments\evaluations\goemo_prediction_kwd_imp.csv")
+# ev_df = pd.read_csv(r"E:\Projects\Emotion_detection_gihan\finbert_experiments\evaluations\goemo_prediction_kwd_imp.csv")
 # ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_goemotions_dual_bert.csv")
+# ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\predictions_goemodataset_go_emo_model_cuz_left_emo.csv")
+# ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\goemo_prediction_simple_kwd.csv")
+ev_df = pd.read_csv(r"E:\Projects\emo_detector_new\predictions\goemotions_kwd_improved.csv")
 # print(ev_df.columns)
 y_ground = []
 y_pred = []
@@ -76,20 +79,20 @@ for i, row in ev_df.iterrows():
 
     # go emotions
     ground_t = int(ground_t.split(',')[0])+1
-    if (emo_go_emotions[ground_t] == 'joy'):
-        ground_t = 1
-    elif (emo_go_emotions[ground_t]== 'anger'):
-        ground_t = 2
+    # if (emo_go_emotions[ground_t] == 'joy'):
+    #     ground_t = 1
+    # elif (emo_go_emotions[ground_t]== 'anger'):
+    #     ground_t = 2
     # elif (emo_go_emotions[ground_t] == 'trust'):
-    #     ground_t = 3
-    elif (emo_go_emotions[ground_t] == 'surprise'):
-        ground_t = 4
+    #     # ground_t = 3
+    # elif (emo_go_emotions[ground_t] == 'surprise'):
+    #     ground_t = 4
     # elif (emo_go_emotions[ground_t] == 'anticipation'):
     #     ground_t = 5
-    elif (emo_go_emotions[ground_t] == 'fear'):
-        ground_t = 6
-    elif (emo_go_emotions[ground_t] in ['sad','sadness']):
-        ground_t = 7
+    # elif (emo_go_emotions[ground_t] == 'fear'):
+    #     ground_t = 6
+    # elif (emo_go_emotions[ground_t] in ['sad','sadness']):
+    #     ground_t = 7
     # elif (emo_go_emotions[ground_t] == 'disgust'):
     #     ground_t = 8
     # elif (emo_go_emotions[ground_t] == 'annoyance'):
@@ -98,8 +101,24 @@ for i, row in ev_df.iterrows():
     #     ground_t = 10
     # elif (emo_go_emotions[ground_t] == 'confusion'):
     #     ground_t = 11
+    # else:
+    #     continue
+
+    if (emo_go_emotions[ground_t] == 'trust'):
+        ground_t = 1
+    elif (emo_go_emotions[ground_t] == 'surprise'):
+        ground_t = 2
+    elif (emo_go_emotions[ground_t] == 'disgust'):
+        ground_t = 3
+    elif (emo_go_emotions[ground_t] == 'desire'):
+        ground_t = 4
     else:
         continue
+
+
+
+
+
 
     pred = row['predictions']
     # print(pred)
@@ -111,45 +130,56 @@ for i, row in ev_df.iterrows():
     pred = list(pred_out.keys())[-1]
     print(pred)
     # pred = emo_go_emotions[pred+1]
-    # print(pred)
+    print(pred)
+    if(pred_out[pred]==0):
+        pred =  10
+        pred_id = 10
 
 
     #go emotions
     our_emo_map = {
-        'joy':1,
-        'joy_ecstasy': 1,
-        'senerity':1,
-        'anger':2,
-        # 'trust':3,
-        'surprise':4,
-        'amazement_surprise':4,
-        'distraction': 4,
-        # 'anticipation':5,
+        # 'joy':1,
+        # 'joy_ecstasy': 1,
+        # 'senerity':1,
+        # 'anger':2,
+        'trust':1,#3,
+        'surprise':2,#4,
+        'amazement_surprise':2,#4,
+        # 'distraction': 4,
+        'anticipation':4,#5,
         # 'interest_vigilance':5,
-        'fear':6,
-        'sadness':7,
-        'sad':7,
-        # 'disgust':8,
-        # 'disgust_loathing':8,
+        # 'fear':6,
+        # 'sadness':7,
+        # 'sad':7,
+        'disgust':3,#8,
+        'disgust_loathing':3,#8,
         # 'boredom':2,
         # 'admire':3,
         # 'acceptance':3
 
     }
     #
-    if (pred in ['anticipation','boredom','trust','interest_vigilance','admire','disgust','acceptance','disgust_loathing']):
+    if (pred in ['fear','joy','sad','anger']):
         pred = list(pred_out.keys())[-2]
-        if (pred in ['anticipation','boredom','trust','interest_vigilance','admire','disgust','acceptance','disgust_loathing']):
+        if (pred in ['fear','joy','sad','anger']):
             pred = list(pred_out.keys())[-3]
-            if (pred in ['anticipation','boredom','trust','interest_vigilance','admire','disgust','acceptance','disgust_loathing']):
-                continue
-    pred_id = our_emo_map[pred]
+            if (pred in ['fear', 'joy', 'sad', 'anger']):
+                pred = list(pred_out.keys())[-4]
+                if (pred in ['fear', 'joy', 'sad', 'anger']):
+                    pred = list(pred_out.keys())[-5]
+
+    #         if (pred in ['anticipation','boredom','trust','interest_vigilance','admire','disgust','acceptance','disgust_loathing']):
+    #             continue
+    if(pred!=10):
+        pred_id = our_emo_map[pred]
 
 
     y_ground.append(ground_t)
     y_pred.append(pred_id)
     if (ground_t != pred_id):
         _list.append(row)
+
+print('Hi')
 print(ground_t)
 print(y_pred)
 

@@ -92,8 +92,10 @@ import pandas as pd
 # path = r"E:\Projects\emo_detector_new\datasets\fairy_tales_full.csv"
 # path = r"E:\Projects\emo_detector_new\datasets\goemotions.csv"
 # path = r"E:\Projects\emo_detector_new\datasets\twitter_dataset.csv"
-path = r"E:\Projects\emo_detector_new\predictions\fairy_tales_curated_neg_bos_inh.csv"
+# path = r"E:\Projects\emo_detector_new\predictions\fairy_tales_curated_neg_bos_inh.csv"
 # path = r"E:\Projects\emo_detector_new\predictions\fairy_tales_done_a.csv"
+path= r"E:\Projects\Emotion_detection_gihan\finbert_experiments\financial phrasebank\processed_fpbank.csv"
+
 results_df = pd.DataFrame()
 dff = pd.read_csv(path)
 print(dff.columns)
@@ -106,7 +108,7 @@ ground_truths = []
 for i,row in dff.iterrows():
     row_dict = row.to_dict()
     # print()
-    sentence = row['text_negated']
+    sentence = row['sentence']
 
     # try:
     #     tokenizer(sentence, padding=True)
@@ -118,7 +120,8 @@ for i,row in dff.iterrows():
         elif (row['sentiment'] == 'negative'):
             ground_truths.append(0)
         elif (row['sentiment'] == 'neutral'):
-            ground_truths.append(2)
+            # ground_truths.append(2)
+            continue
 
 
         # ground_truths.append(int(row['sentiment']))
@@ -165,7 +168,7 @@ pred_out = pd.DataFrame()
 pred_out['ground_emobert'] = ground_truths
 pred_out['pred_emobert ori'] = y_preds.tolist()
 
-pred_out.to_csv(r"E:\Projects\emo_detector_new\predictions\fairy_tales_incorrect_all_done.csv")
+pred_out.to_csv(r"E:\Projects\emo_detector_new\predictions\emober_direct_financial_pb.csv")
 compute_metrics_all(pred=y_preds,ground_labels=ground_truths)
 # labels = ['sadness', 'joy', 'love', 'anger', 'fear', 'surprise']
 # plot_confusion_matrix(y_preds, y_valid, labels)

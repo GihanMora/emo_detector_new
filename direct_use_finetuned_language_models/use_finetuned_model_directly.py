@@ -2,7 +2,7 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer, Trai
 
 tokenizer = AutoTokenizer.from_pretrained(r"E:\Projects\emo_detector_new\go_model")
 model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\go_model")
-texts = ["fuck you bitch", "I like you. I love you"]
+texts = ["hate you ", "I like you. I love you"]
 tokenized_texts = tokenizer(texts, padding=True)
 
 

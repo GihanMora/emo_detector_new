@@ -17,16 +17,41 @@ print(len(dff))
 preds = []
 sentences_zz = []
 # df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\lnm_vocab_final.csv")
-df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\lnm_vocab_even.csv")
-print(len(df))
+
+# print(len(df1))
+# print(df1['eight_label'].unique())
+
 # df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\lnm_vocab_final.csv")
 # print(len(df))
-df = df.dropna()
-# print(len(df))
+# df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\lnm_vocab_even_pn.csv")
+# df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\lnm_vocab_even_pn_extended.csv")
+df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\lnm_vocab_even_pn_extended_10down_5_narr.csv")
+emos_in = ['negative' ,'positive']
+df = df[df.eight_label.isin(emos_in)]
+df1 = df.dropna()
+print(len(df1))
+
+
+# df2 = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_goemotions_new_vocab_refined.csv")
+# # # df2 = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab_refined.csv")
+# emos_in_a = ['sadness' ,'joy_ecstasy']
+# df2 = df2[df2.fourteen_label.isin(emos_in_a)]
+# df2 = df2.dropna()
+# print(len(df2))
+#
+#
+# df =  pd.concat([df, df2])
+#
+#
+# df.to_csv(r"E:\Projects\emo_detector_new\vocabs\lnm_goemo_p_n_j_sad.csv")
+print('aa',df['fourteen_label'].unique())
+
 df['embedding'] = [ast.literal_eval(i) for i in df['embedding'].values.tolist()]
 
 tokenizer = AutoTokenizer.from_pretrained("E:\Projects\emo_detector_new\emo_bert_model")
 model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\emo_bert_model")
+# tokenizer = AutoTokenizer.from_pretrained("E:\Projects\emo_detector_new\go_model")
+# model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\go_model")
 for i,row in dff.iterrows():
     print(i)
 
@@ -48,5 +73,5 @@ for i,row in dff.iterrows():
 
 out_dff = dff
 out_dff['predictions'] = preds
-out_dff.to_csv(r"E:\Projects\emo_detector_new\predictions/predictions_lnm_model_financial_phrasebank_even.csv")
+out_dff.to_csv(r"E:\Projects\emo_detector_new\predictions/predictions_lnm_model_fpb_lnm_goemo_equal_pn_extended_dd_10_down.csv")
 # out_dff.to_csv(r"E:\Projects\emo_detector_new\predictions/predictions_twitter.csv")

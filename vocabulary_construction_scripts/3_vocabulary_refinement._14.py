@@ -136,7 +136,7 @@ to_remove_all =to_remove_sere+to_remove_j_e+to_remove_trust+to_remove_admire+to_
 all_words= []
 for each_key in emo_dict.keys():
   all_words.extend(emo_dict[each_key])
-
+print('all',len(all_words))
 for each_w in to_remove_all:
   if(each_w not in all_words):
     print(each_w)
@@ -187,9 +187,10 @@ def mean_pooling(model_output, attention_mask):
     sum_mask = torch.clamp(input_mask_expanded.sum(1), min=1e-9)
     return sum_embeddings / sum_mask
 
-tokenizer = AutoTokenizer.from_pretrained(r"E:\Projects\emo_detector_new\go_model_simple")
-model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\go_model_simple")
-
+# tokenizer = AutoTokenizer.from_pretrained(r"E:\Projects\emo_detector_new\go_model_simple")
+# model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\go_model_simple")
+tokenizer = AutoTokenizer.from_pretrained("E:\Projects\emo_detector_new\go_model")
+model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\go_model")
 # tokenizer = AutoTokenizer.from_pretrained("joeddav/distilbert-base-uncased-go-emotions-student")
 # model = AutoModel.from_pretrained("joeddav/distilbert-base-uncased-go-emotions-student")
 
@@ -211,36 +212,61 @@ category_mapping = {'senerity':'joy',
             'anger':'anger',
             'anticipation':'anticipation',
             'interest_vigilance':'anticipation'}
-for each_key in emo_dict:
-  words_list = emo_dict[each_key]
+# for each_key in emo_dict:
+#   words_list = emo_dict[each_key]
+#
+#   for wd in words_list:
+#       print(wd)
+#       sentences = [wd]
+#       encoded_input = tokenizer(sentences, padding=True, truncation=True, max_length=128, return_tensors='pt')
+#       with torch.no_grad():
+#           model_output = model(**encoded_input)
+#       sentence_embeddings_raw = mean_pooling(model_output, encoded_input['attention_mask'])
+#       sentence_embeddings = sentence_embeddings_raw.tolist()[0]
+#       tk = wd
+#       emb = sentence_embeddings
+#       e_lbl = category_mapping[each_key]
+#       ft_lbl = each_key
+#       tokens.append(tk)
+#       embedding.append(emb)
+#       eight_label.append(e_lbl)
+#       fteen_label.append(ft_lbl)
+#     # print(tk)
+#     # print(emb)
+#     # print(e_lbl)
+#     # print(ft_lbl)
+#   #  break
+#
+#
+# out_df = pd.DataFrame()
+# out_df['token'] = tokens
+# out_df['embedding'] = embedding
+# out_df['eight_label'] = eight_label
+# out_df['fourteen_label'] = fteen_label
+#
+# out_df.to_csv(r"E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_goemotions_new_vocab_refined.csv")
 
-  for wd in words_list:
-      print(wd)
-      sentences = [wd]
-      encoded_input = tokenizer(sentences, padding=True, truncation=True, max_length=128, return_tensors='pt')
-      with torch.no_grad():
-          model_output = model(**encoded_input)
-      sentence_embeddings_raw = mean_pooling(model_output, encoded_input['attention_mask'])
-      sentence_embeddings = sentence_embeddings_raw.tolist()[0]
-      tk = wd
-      emb = sentence_embeddings
-      e_lbl = category_mapping[each_key]
-      ft_lbl = each_key
-      tokens.append(tk)
-      embedding.append(emb)
-      eight_label.append(e_lbl)
-      fteen_label.append(ft_lbl)
-    # print(tk)
-    # print(emb)
-    # print(e_lbl)
-    # print(ft_lbl)
-  #  break
+path = r"E:\Projects\emo_detector_new\vocabs\lnm_goemo_p_n_j_sad.csv"
+
+voc = pd.read_csv(path)
+embs = []
+print('voc')
+for i,row in voc.iterrows():
+
+    wd = row['token']
+    print(wd)
+    sentences = [wd]
+    encoded_input = tokenizer(sentences, padding=True, truncation=True, max_length=128, return_tensors='pt')
+    with torch.no_grad():
+      model_output = model(**encoded_input)
+    sentence_embeddings_raw = mean_pooling(model_output, encoded_input['attention_mask'])
+    sentence_embeddings = sentence_embeddings_raw.tolist()[0]
+    tk = wd
+    emb = sentence_embeddings
+    embs.append(emb)
+outer = voc
+outer['embedding'] = embs
+
+outer.to_csv(r"E:\Projects\emo_detector_new\vocabs\lnm_goemo_p_n_j_s.csv")
 
 
-out_df = pd.DataFrame()
-out_df['token'] = tokens
-out_df['embedding'] = embedding
-out_df['eight_label'] = eight_label
-out_df['fourteen_label'] = fteen_label
-
-out_df.to_csv(r"E:\Projects\emo_detector_new\vocabs\go_emo_simple_new_vocab.csv")

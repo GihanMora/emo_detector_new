@@ -1,0 +1,9 @@
+negations = ['never','not', 'no', 'didn', "didn't", 'didnt', 'didn t',
+             'doesn t', 'doesnt', "doesn't", "won't", 'won t', 'wont', "isn't","isnt","isn t"
+             "aren't", 'aren t', 'arent', 'don t', "don't", 'dont',"haven't","haven t","havent" 
+             'weren t', "weren't", 'werent', "wasn't", 'wasn t', 'wasnt', 
+             'wouldn t', "wouldn't", 'wouldnt', "can't", 'can t', 'couldn t', 
+             "couldn't", 'cant', 'cannot', 'couldnt', 'shouldnt', "shouldn't", 
+             'shouldn t', 'neither', 'impossible', 'didn', 'wasn', 'weren', 
+             'aren', 'don', 'doesn', 'couldn', 'shouldn', 'wouldn', 'won', 
+             'nothing']

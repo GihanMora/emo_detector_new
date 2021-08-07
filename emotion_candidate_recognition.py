@@ -99,6 +99,7 @@ def emotion_candidates_recognition(sentence ,window_size,df,tokenizer,model):
         sentence_pieces.append(sliding_piece)
 
     # print(sentence_pieces)
+
     sentence_emb = get_mean_pooling_emb(sentence_pieces,tokenizer,model)
 
     normalized_score_dict = get_nearest_neighbours([sentence_emb[0]],df)
@@ -162,60 +163,65 @@ def emotion_candidates_recognition(sentence ,window_size,df,tokenizer,model):
 
 def emotion_candidates_recognition_lnm(sentence ,window_size,df,tokenizer,model):
 
-    sentence_tokens = sentence.split(' ')
+    # sentence_tokens = sentence.split(' ')
     # print(sentence_tokens)
     sentence_pieces = [sentence]
-    for i in range(0 ,len(sentence_tokens ) + 1 -window_size):
-        sliding_piece = ' '.join(sentence_tokens[i: i +window_size])
-        # print(sliding_piece)
-        sentence_pieces.append(sliding_piece)
+    # for i in range(0 ,len(sentence_tokens ) + 1 -window_size):
+    #     sliding_piece = ' '.join(sentence_tokens[i: i +window_size])
+    #     # print(sliding_piece)
+    #     sentence_pieces.append(sliding_piece)
 
     # print(sentence_pieces)
-    sentence_emb = get_mean_pooling_emb(sentence_pieces,tokenizer,model)
+    ttu = datetime.now()
+    sentence_emb = get_mean_pooling_emb(sentence_pieces, tokenizer, model)
+    ttu2 = datetime.now()
+    difffu = ttu2 - ttu
+    print('per m_p_e', difffu)
+
 
     normalized_score_dict = get_nearest_neighbours([sentence_emb[0]],df)
 
-    need_negation_check = False
-    for each_ww in sentence_tokens:
-        if(each_ww.strip().lower() in negations):
-            need_negation_check = True
-            break
-    if(need_negation_check):
-        tuples = []
-        for i in range(1 ,len(sentence_emb)):
-            sliding_piece = sentence_pieces[i]
-            dis = cosine_similarity([sentence_emb[i]], [sentence_emb[0]])
-            # print(dis)
-            tuples.append([sliding_piece ,dis])
-        # print([i[0] for i in tuples])
-        # print([i[1].tolist()[0] for i in tuples])
-
-        s_tup = sorted(tuples, key=lambda x: x[1]  )  # sort tuples based on the cosine distance
-        # print(s_tup)
-
-        top_windows = [i[0] for i in s_tup[::-1][:5]]
-
-        if(window_size==1):
-
-            # upper_threshold = int(0.33*len(sentence_tokens))
-            upper_threshold = 1
-            top_windows = [i[0] for i in s_tup[::-1][:upper_threshold]]
-            fixed_top_windows = []
-            for emoWord in top_windows:
-
-                end_ind_int = sentence_tokens.index(emoWord)
-                start_ind_int = end_ind_int - 3
-                if start_ind_int < 0:
-                    start_ind_int = 0
-                text_chunk_int = (' ').join(sentence_tokens[start_ind_int:end_ind_int])
-                fixed_top_windows.append(text_chunk_int.strip().lower())
-            print('fixed',fixed_top_windows)
-
-            top_windows = fixed_top_windows
-        # print('top windows', top_windows)
-        if(check_for_negations(top_windows)):
-            print('Emotions are negated')
-            normalized_score_dict = map_opposite_emotions(normalized_score_dict)
+    # need_negation_check = False
+    # for each_ww in sentence_tokens:
+    #     if(each_ww.strip().lower() in negations):
+    #         need_negation_check = True
+    #         break
+    # if(need_negation_check):
+    #     tuples = []
+    #     for i in range(1 ,len(sentence_emb)):
+    #         sliding_piece = sentence_pieces[i]
+    #         dis = cosine_similarity([sentence_emb[i]], [sentence_emb[0]])
+    #         # print(dis)
+    #         tuples.append([sliding_piece ,dis])
+    #     # print([i[0] for i in tuples])
+    #     # print([i[1].tolist()[0] for i in tuples])
+    #
+    #     s_tup = sorted(tuples, key=lambda x: x[1]  )  # sort tuples based on the cosine distance
+    #     # print(s_tup)
+    #
+    #     top_windows = [i[0] for i in s_tup[::-1][:5]]
+    #
+    #     if(window_size==1):
+    #
+    #         # upper_threshold = int(0.33*len(sentence_tokens))
+    #         upper_threshold = 1
+    #         top_windows = [i[0] for i in s_tup[::-1][:upper_threshold]]
+    #         fixed_top_windows = []
+    #         for emoWord in top_windows:
+    #
+    #             end_ind_int = sentence_tokens.index(emoWord)
+    #             start_ind_int = end_ind_int - 3
+    #             if start_ind_int < 0:
+    #                 start_ind_int = 0
+    #             text_chunk_int = (' ').join(sentence_tokens[start_ind_int:end_ind_int])
+    #             fixed_top_windows.append(text_chunk_int.strip().lower())
+    #         print('fixed',fixed_top_windows)
+    #
+    #         top_windows = fixed_top_windows
+    #     # print('top windows', top_windows)
+    #     if(check_for_negations(top_windows)):
+    #         print('Emotions are negated')
+    #         normalized_score_dict = map_opposite_emotions(normalized_score_dict)
 
 
 
@@ -300,15 +306,15 @@ def sum_up_dicts(emo_dicts):
 
 
 
-import ast
-tokenizer = AutoTokenizer.from_pretrained("E:\Projects\emo_detector_new\emo_bert_model")
-model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\emo_bert_model")
+# import ast
+# tokenizer = AutoTokenizer.from_pretrained("E:\Projects\emo_detector_new\emo_bert_model")
+# model = AutoModel.from_pretrained(r"E:\Projects\emo_detector_new\emo_bert_model")
+#
+#
+# df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab_refined.csv")
+# df = df.dropna()
+# df['embedding'] = [ast.literal_eval(i) for i in df['embedding'].values.tolist()]
 
-
-df = pd.read_csv(r"E:\Projects\emo_detector_new\vocabs\mean_pooling_emb_emobert_new_vocab_refined.csv")
-df = df.dropna()
-df['embedding'] = [ast.literal_eval(i) for i in df['embedding'].values.tolist()]
-
-print(emotion_candidates_recognition('Chefs not counting calories, study finds' ,1,df,tokenizer,model))
+# print(emotion_candidates_recognition('Chefs not counting calories, study finds' ,1,df,tokenizer,model))
 
 # {'fear': 0.022, 'surprise': 0.027, 'anticipation': 0.027, 'trust': 0.038, 'senerity': 0.038, 'distraction': 0.044, 'interest_vigilance': 0.087, 'boredom': 0.1, 'joy': 0.199, 'disgust': 0.211, 'sadness': 0.248}

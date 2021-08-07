@@ -4,8 +4,11 @@ import nltk
 import pandas as pd
 from transformers import AutoTokenizer, AutoModel
 
+from get_nearest_neighbours import get_nearest_neighbours
+
 nltk.download('punkt')
-from emotion_candidate_recognition import emotion_candidates_recognition_lnm, emotion_candidates_recognition
+from emotion_candidate_recognition import emotion_candidates_recognition_lnm, emotion_candidates_recognition, \
+    get_mean_pooling_emb
 
 
 def emo_detecct_document(text):
@@ -40,9 +43,9 @@ def emo_detecct_document(text):
     print(output_emo_dict)
     return output_emo_dict
 
-
+from datetime import datetime
 def emo_detect_document_lnm(text,tokenizer,model,step,df):
-
+    tt = datetime.now()
     output_emo_dict = {
               'negative':0,
               'positive':0,
@@ -51,15 +54,38 @@ def emo_detect_document_lnm(text,tokenizer,model,step,df):
               'model_strong':0,
               'model_weak':0,
               }
+    tm = datetime.now()
     a_list = nltk.tokenize.sent_tokenize(text)
     a_list = [(' ').join(a_list[i:i + step]) for i in range(0, len(a_list), step)]
-    for each_s in a_list:
-        print(each_s)
-        pred = emotion_candidates_recognition_lnm(each_s,1,df,tokenizer,model)
+    sentence_embs = get_mean_pooling_emb(a_list, tokenizer, model)
+    ttm = datetime.now()
+    dis = ttm-tm
+    print('emb_ex',dis)
+    print(len(sentence_embs))
+    import numpy as np
+    print('np_shape', np.shape(sentence_embs))
+
+    # for each_s in a_list:
+    for sentence_emb in sentence_embs:
+        # print(each_s)
+        # pred = emotion_candidates_recognition(each_s,1,df,tokenizer,model)
+        pred = get_nearest_neighbours([sentence_emb], df)
         for each_k in pred.keys():
-            output_emo_dict[each_k]=output_emo_dict[each_k]+pred[each_k]
+            output_emo_dict[each_k] = output_emo_dict[each_k] + pred[each_k]
+    # for each_s in a_list:
+    #     print(each_s)
+    #     ttu = datetime.now()
+    #     pred = emotion_candidates_recognition_lnm(each_s,1,df,tokenizer,model)
+    #     ttu2 = datetime.now()
+    #     difffu = ttu2 - ttu
+    #     print('per pass', difffu)
+    #     for each_k in pred.keys():
+    #         output_emo_dict[each_k]=output_emo_dict[each_k]+pred[each_k]
 
     print(output_emo_dict)
+    tt2 = datetime.now()
+    difff = tt2 - tt
+    print('per doc', difff)
     return output_emo_dict
 
 

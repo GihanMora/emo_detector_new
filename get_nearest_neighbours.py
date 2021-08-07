@@ -45,9 +45,7 @@ def get_nearest_neighbours(embeding,df):
         # dis = 1 - spatial.distance.cosine(embeding, embeding)
         # print([row_e['tokens'],row_d['tokens'],dis])
         tuples.append([row_e['token'], row_e['fourteen_label'], dis, row_e['embedding']])
-    t2 = datetime.now()
-    diff = t2 - t1
-    print('time',diff)
+
     s_tup = sorted(tuples, key=lambda x: x[2])  # sort tuples based on the cosine distance
     neaarest_neighbs_words = []
     neaarest_neighbs_embs = []
@@ -74,4 +72,8 @@ def get_nearest_neighbours(embeding,df):
 
     # visualize the neighbours in 2d space
     # visualize_embs(neaarest_neighbs_labels,neaarest_neighbs_embs,neaarest_neighbs_words)
+    t2 = datetime.now()
+    diff = t2 - t1
+    print('time nn and score', diff)
+
     return n_score_dict
